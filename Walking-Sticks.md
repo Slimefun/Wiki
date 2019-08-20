@@ -1,0 +1,2 @@
+# Walking Sticks
+The walking sticks are two deadly weapons that you inherited from your grandparents. The Grandma's Walking Stick has Knockback II on it and the Grandpa's Walking Stick has Knockback V, to hit your opponents even further!

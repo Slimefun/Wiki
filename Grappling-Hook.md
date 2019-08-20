@@ -1,0 +1,2 @@
+# Grappling Hook
+The Grappling Hook is an item which allows you navigate through the terrain like Spiderman! By right clicking this item, an arrow with a leash behind it will get shoot. Where it lands is the location you will get pulled at. The grappling hook you used will be dropped on the location the arrow landed, so that means the grappling hook is reusable.

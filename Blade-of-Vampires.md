@@ -1,0 +1,2 @@
+# Blade of Vampires
+This unique (golden) sword is enchanted with Sharpness II, Unbreaking IV, Fire Aspect II and Life Steal I, every time you attack something you have a 45% chance to recover 2 Hearts of your Health.

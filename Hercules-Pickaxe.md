@@ -1,0 +1,2 @@
+# Hercules' Pickaxe
+The Hercules' Pickaxe is an Iron Pickaxe enchanted with Efficiency IV and Unbreaking II. What is unique about this Pickaxe, is that it can crush ores into their corresponding Dusts. For example, if you break an Iron Ore, you will get 2 Iron Dust. This means instead of putting together an [Ore Crusher](https://github.com/mrCookieSlime/Slimefun4/wiki/Ore-Crusher), the pickaxe does all the work for you.
