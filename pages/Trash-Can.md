@@ -1,1 +1,0 @@
-When the Trash Can is right clicked, an inventory is opened where you are able to place any items inside to be disposed of. Any items placed will be disposed of _forever immediately after_. The Trash Can can be implemented into a Cargo Management System.

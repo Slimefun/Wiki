@@ -1,2 +1,0 @@
-# Pickaxe of Containment
-The Pickaxe of Containment is an Iron Pickaxe, which allows you to pick up Spawners by breaking them. When you break a Spawner with the pickaxe, it will drop a **Broken Spawner**. The Spawner itself cannot do anything, to make it placeable, you have to repair it first using the **Altar**.

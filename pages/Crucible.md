@@ -1,2 +1,0 @@
-# Crucible
-In the Crucible you can convert Leaves into Water, and Cobblestone into Lava. By right clicking the Crucible, with 16 Leaves or Cobblestone, liquid will start building over time. When it is ready, a water/lava block will appear over the crucible, which you can collect using a bucket. The processing time is 12,5 seconds. This can be very useful if you are playing on a Skyblock server, since this would be the only way to get more lava.

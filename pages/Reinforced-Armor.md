@@ -1,2 +1,0 @@
-# Reinforced Armor
-The Reinforced Armor is a very expensive armor set which is crafted using Reinforced Alloy Ingots. This Armor is very powerful, since each piece is enchanted with Protection IX and Unbreaking IX.
