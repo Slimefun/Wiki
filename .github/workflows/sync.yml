@@ -1,0 +1,19 @@
+name: Wiki Sync
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  sync:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checking out Repository
+      uses: actions/checkout@v1
+    - name: Syncing
+      run: sh sync.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
