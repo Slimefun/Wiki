@@ -3,9 +3,18 @@
 echo "Deleting .git folder..."
 rm -rf .git
 
+echo "Setting up a temporary Repository..."
 cd pages
 git init
+
+echo "Setting up Authentication..."
+git config user.name "TheBusyBot"
+git config user.email ${LOGIN_EMAIL}
+
+echo "Committing changes..."
 git add *
 git commit -m "GitHub Action Deployment"
-git remote add origin https://github.com/TheBusyBiscuit/test-repository
+
+echo "Pushing to wiki..."
+git remote add origin https://TheBusyBot:${ACCESS_TOKEN}@github.com/TheBusyBiscuit/test-repository.git
 git push origin master --force

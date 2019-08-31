@@ -16,4 +16,5 @@ jobs:
     - name: Syncing
       run: sh sync.sh
       env:
-        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}
