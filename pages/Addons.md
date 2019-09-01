@@ -2,7 +2,7 @@ Want to spice up your Slimefun4-Server?<br>
 Then you have come to the right place!
 
 ## Official Addons
-These Addons were developed closely to Slimefun.<br>
+These Addons were developed closely to Slimefun.
 Most often they were made by an active contributor to Slimefun too.
 
 Name | Author(s) | Description | Info | GitHub | Download
@@ -19,8 +19,8 @@ Barrels | John000708, TheBusyBiscuit | This Addon adds Barrels to Slimefun. They
 ExtraGear | TheBusyBiscuit | This Addon adds new Weapons and Armor to Slimefun. Most of them are related to Alloys and Metals within Slimefun. | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ExtraGear) | [GitHub](https://github.com/TheBusyBiscuit/ExtraGear) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/)
 
 ## Third-Party Addons
-These Addons come from Third-Party developers.<br>
-We cannot provide support for these on our Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.<br>
+These Addons come from Third-Party developers.
+We cannot provide support for these on our Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
 If you encounter problems with these, contact the respective developer, not us.
 
 Name | Author(s) | Description | Info | GitHub | Download
