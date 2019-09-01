@@ -1,4 +1,4 @@
-Want to spice up your Slimefun4-Server?<br>
+Want to spice up your Slimefun4-Server?
 Then you have come to the right place!
 
 ## Official Addons
