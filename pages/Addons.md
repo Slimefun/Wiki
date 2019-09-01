@@ -33,3 +33,10 @@ These Plugins are not Addons, but integrate with Slimefun in some way or another
 Name | Author(s) | Description | Info | GitHub | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 PlaceholderAPI | extended_clip, Glare | Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link. | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+
+
+### Creating your own Addons?
+Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).
+
+If you have made an Addon for Slimefun and want it to be listed on here, then just create an Issue and select the "Addition" template:
+https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues
