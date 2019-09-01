@@ -1,4 +1,4 @@
-Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+Slimefun 4 now also supports [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI).<br>
 Check out PlaceholderAPI's Wiki for Info on how to utilise these.
 
 # Placeholders for Researches
