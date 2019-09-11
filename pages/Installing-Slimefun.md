@@ -1,7 +1,9 @@
 ## Prerequisites
+* A Bukkit/Spigot Server (most preferabbly the latest version)
 * A compatible version of Slimefun 4 for your server, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
 * Slimefun 4 will require a compatible version of CS-CoreLib, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/).
 
+You can click on any Slimefun/CS-CoreLib build to see all compatible Minecraft Versions for that build.
 
 ## How to install
 
@@ -22,7 +24,7 @@ Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
 Most of the things in this file are very self explanatory, from enabling certain items to choose how Slimefun Research behaves in creative mode.
 Slimefun uses an auto-updater to check for updates periodically, if you wish to disable this, or your host has somehow disabled things like that, set it to *false*
 
-**items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Slimefun, this file can get very big,
+**Items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Slimefun, this file can get very big,
 so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or disabling certain items.
 
 **whitelist.yml** allows you to enable/disable the items you choose in a *per world basis*.
@@ -37,8 +39,8 @@ just stop and restart the server, since this fixes most issues.
 
 # Additional Addons
 
-If you wish to install additional addons, refer to [this](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) page to see all the addons that are compatible with your version of Slimefun 4.
+If you wish to install additional addons, refer to [this page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
-These additional addons require Slimefun 4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
-
+These additional addons require Slimefun4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
 Configuration should be very straight forward for these plugins as well.
+Remember that you can also disable any Items from Addons in Slimefun's Items.yml file.
