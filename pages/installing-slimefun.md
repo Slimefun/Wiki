@@ -1,14 +1,11 @@
-# Installing Slimefun
-
 ## Prerequisites
-* A 1.14.4 Spigot Minecraft server.
-* The latest version of Slimefun 4, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
-* Slimefun 4 will utilize [CS-CoreLib](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/) as a mandatory dependency.
+* A compatible version of Slimefun 4 for your server, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
+* Slimefun 4 will require a compatible version of CS-CoreLib, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/).
 
 
 ## How to install
 
-Using Spigot, drag and drop the necessary jar files into your plugins directory. Then, restart your server. 
+Drag and drop the necessary jar files into your servers */plugins* directory. Then, restart your server.
 ***Do not use /reload, as it can cause intense memory leaks.***
 
 After the restart, you should notice a new folder called */data-storage* in your servers root directory. This folder contains all necessary Slimefun data.
@@ -23,10 +20,12 @@ When viewing the Slimefun plugin folder, you will notice 5 different .YML files.
 Personally, I recommend [Notepad++](https://notepad-plus-plus.org).
 
 Most of the things in this file are very self explanatory, from enabling certain items to choose how Slimefun Research behaves in creative mode.
-Slimefun uses an Autoupdater to check for updates periodically, if you wish to disable this, or your host has somehow disabled things like that, set it to *false*
+Slimefun uses an auto-updater to check for updates periodically, if you wish to disable this, or your host has somehow disabled things like that, set it to *false*
 
-Another important file is **whitelist.yml**, if you want to enable or disable certain items. If you install multiple addons for Slimefun, this file can get very big,
+**items.yml*** allows you to enable or disable certain items *globally*. If you install multiple addons for Slimefun, this file can get very big,
 so, a recommendation is to take your time and install addons slowly, if again, you plan on enabling or disabling certain items.
+
+**whitelist.yml** allows you to enable/disable the items you choose in a *per world basis*.
 
 **messages.yml** contains all data for messages when using Slimefun. You can edit what the plugin sends a player when a certain event occurs.
 
@@ -38,7 +37,7 @@ just stop and restart the server, since this fixes most issues.
 
 # Additional Addons
 
-If you wish to install additional addons, refer to [this](https://thebusybiscuit.github.io/builds/) page to see all the addons that are up to date on 1.14.4.
+If you wish to install additional addons, refer to [this](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) page to see all the addons that are compatible with your version of Slimefun 4.
 
 These additional addons require Slimefun 4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
 
