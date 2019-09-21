@@ -22,9 +22,13 @@ It enhances any Survival Experience, no matter the gamemode.
 
 ## Will there be constant updates?
 Yes and no.
+
 You will find very frequent (automatically uploaded) updates on [TheBusyBiscuit's Website](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
 These are most often just bug fixes and minor tweaks.
-If you are looking for even more Slimefun-content, then you should check out some of [Slimefun's Addons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons).
+Keep in mind that Slimefun4 is maintained by the community, not a single person or group of people.
+So these updates can be very irregular.
+
+But if you are looking for even more Slimefun-content, then you should check out some of [Slimefun's Addons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons).
 You can of course add your own content to Slimefun and make a Pull Request, it has to be reviewed and approved though.
 It is much faster and also recommended to develop an Addon instead.
 
