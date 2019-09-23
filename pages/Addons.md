@@ -33,8 +33,8 @@ These Plugins are not Addons, but integrate with Slimefun in some way or another
 
 Name | Author(s) | Description | Info | GitHub | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
+EmeraldEnchants | TheBusyBiscuit | EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter. | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
 PlaceholderAPI | extended_clip, Glare | Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link. | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
-
 
 ### Creating your own Addons?
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).
