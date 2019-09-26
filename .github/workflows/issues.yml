@@ -16,7 +16,7 @@ jobs:
     - name: Setting up node.js
       uses: actions/setup-node@v1
       with:
-        node-version: '10.x
+        node-version: '10.x'
     - name: Scanning for dead links
       run: node scan.js
       env:
