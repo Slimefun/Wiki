@@ -39,7 +39,7 @@ fs.promises.readdir("pages").then((files) => {
             var body = [];
 
             response.on("data", (data) => {
-                chunks.push(chunk);
+                body.push(data);
             });
 
             response.on("end", function () {
