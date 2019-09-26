@@ -1,0 +1,23 @@
+name: Automatic Issue Creator
+
+on:
+  push:
+    branches:
+    - master
+
+jobs:
+  scan:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checking out Repository
+      uses: actions/checkout@v1
+    - name: Setting up node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x
+    - name: Scanning for dead links
+      run: node scan.js
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
