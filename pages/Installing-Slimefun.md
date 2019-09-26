@@ -1,7 +1,12 @@
 ## Prerequisites
 * A Bukkit/Spigot Server (most preferabbly the latest version)
-* A compatible version of Slimefun 4 for your server, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
 * Slimefun 4 will require a compatible version of CS-CoreLib, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/).
+
+### Slimefun 4 Downloads
+You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the ["development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
+Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get.
+If your Server is very reliant on a working build of Slimefun, choose a stable build.
+But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build.
 
 You can click on any Slimefun/CS-CoreLib build to see all compatible Minecraft Versions for that build.
 
