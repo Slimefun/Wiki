@@ -36,6 +36,7 @@ Name | Author(s) | Description | Info | GitHub | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 EmeraldEnchants | TheBusyBiscuit | <details><summary>Click to expand</summary>EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter.</details> | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
 PlaceholderAPI | extended_clip, Glare | <details><summary>Click to expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+WhatIsThis | steve4744 | <details><summary>Click to expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
 
 ### Creating your own Addons?
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).
