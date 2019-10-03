@@ -1,4 +1,3 @@
-# Ore Washer
 The Ore Washer is another essential machine if you want to progress further into Slimefun's tech tree. It allows you to wash Sifted Ore, from which you can randomly get the following dust types (Order from the most common to the rarest):
 * Iron Dust
 * Gold Dust
