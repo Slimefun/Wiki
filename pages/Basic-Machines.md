@@ -14,6 +14,7 @@ The Basic Machines category includes various machines that have simple functiona
 * [Digital Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners)
 * [Advanced Digital Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners)
 * [Automated Panning Machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Automated-Panning-Machine)
+* [Automated Ignition Chamber](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Automated-Ignition-Chamber)
 * [Juicer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juicer)
 * [Composter](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Composter)
 * [Crucible](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Crucible)
