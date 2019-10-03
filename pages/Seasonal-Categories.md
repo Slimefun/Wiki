@@ -3,7 +3,7 @@ Along with the locked categories, which can be unlocked by spending experience l
 
 Name | Month Available
 ---------- | ----------
-Christmas | December
-Valentine's Day | February
-Easter | April
-Birthday | October
+[Christmas](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Christmas) | December
+[Valentine's Day](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Valentines-Day) | February
+[Easter](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Easter) | April
+[Birthday](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Birthday) | October
