@@ -3,7 +3,7 @@ The Enhanced Crafting Table is the most basic and essential Slimefun machine.
 
 ## Setup
 To build it, you simply need to place a crafting table above a dispenser, just like this:
-![](https://i.gyazo.com/d806ddf00af3720c1f9d28d977687841.png)
+![Enhanced Crafting Table Preview](https://i.gyazo.com/d806ddf00af3720c1f9d28d977687841.png)
 
 To be sure you have built it correctly, right click the crafting table. If you see a message saying "Sorry, I could not recognize this Pattern...", congratulations, you have built the structure correctly and you can move on, otherwise if the table's crafting menu pops up check the picture again to make sure you have built it correctly. 
 
@@ -17,10 +17,10 @@ If the materials you have put into the dispenser are a valid recipe, you will he
 
 Example:
 
-![](https://i.gyazo.com/c58a29ebfe96affa7093c4fc782d8ee7.png)
+![Recipe example](https://i.gyazo.com/c58a29ebfe96affa7093c4fc782d8ee7.png)
 
 This recipe was used to create an Electric Motor, a crafting component that is used in many machines. To make it you need 6 Copper Ingots and 1 Electromagnet. If you right click the crafting table and look in the dispenser again the result should look like this:
 
-![](https://i.gyazo.com/4f66d02c4eaad6f318ecdf2ba5b0ad2f.png)
+![Recipe result example](https://i.gyazo.com/4f66d02c4eaad6f318ecdf2ba5b0ad2f.png)
 
-An optional machine that can be used in conjunction with the Enhanced Crafting Table is an *Access Chest*. Placing an Access Chest next to the machine will automatically redirect the crafted item in the chest. This is especially useful if you are creating items in batches, since it saves you from having to remove the crafted item from the inventory after each operation.
+An optional machine that can be used in conjunction with the Enhanced Crafting Table is an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest). Placing an Output Chest next to the machine will automatically redirect the crafted item in the chest. This is especially useful if you are creating items in batches, since it saves you from having to remove the crafted item from the inventory after each operation.
