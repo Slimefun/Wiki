@@ -1,4 +1,6 @@
 Slimefun is a Bukkit Plugin that aims to make Bukkit Servers feel like a modpack.
+If you want to know how to install Slimefun, go [here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).
+If you are looking for a guide on how to use Slimefun, start [here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started).
 
 ## What does Slimefun do?
 Slimefun adds Items to Minecraft without the need to install mods.
