@@ -31,8 +31,8 @@ You can read more about this Machine [here](https://github.com/TheBusyBiscuit/Sl
 ## 5. Collecting Dust
 A lot of Recipes may require various Ingots/Alloys.
 You start off by crafting a [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan) in the [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
-Right-Click Gravel with your Gold Pan and you will get Sifted Ore.
-Then process your Sifted Ore by building an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer).
+Right-Click Gravel with your [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan) and you will get [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore).
+Then process your [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore] by building an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer).
 You will get lots of dusts (e.g. Copper, Tin, Zinc,...) from that, hold onto those and proceed to Step 6.
 
 ## 6. The Smeltery
