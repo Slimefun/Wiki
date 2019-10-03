@@ -1,4 +1,3 @@
-# Basic Machines
 The Basic Machines category includes various machines that have simple functionalities and do not require any electricity.
 
 ## Items
@@ -11,7 +10,7 @@ The Basic Machines category includes various machines that have simple functiona
 * [Pressure Chamber](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Pressure-Chamber)
 * [Magic Workbench](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Workbench)
 * [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer)
-* [Saw Mill](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Saw-Mill)
+* [Table Saw](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Table-Saw)
 * [Digital Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners)
 * [Advanced Digital Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Digital-Miners)
 * [Automated Panning Machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Automated-Panning-Machine)
@@ -22,3 +21,4 @@ The Basic Machines category includes various machines that have simple functiona
 * [Reinforced Furnace](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces)
 * [Carbonado-Edged Furnace](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Furnaces)
 * [Block Placer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Block-Placer)
+* [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest)
