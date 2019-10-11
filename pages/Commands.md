@@ -15,6 +15,7 @@ But for simplicity, we will list commands as /sf.
 | /sf open_guide | Opens the Slimefun Guide directly | slimefun.command.open_guide |
 | /sf versions | Shows the currently installed Version of Slimefun and it's addons | slimefun.command.versions |
 | /sf stats | Shows you your current stats, your title, the amount of total xp levels spent, percentage of completed researches and more. | None |
+| /sf search <search term> | Opens the Guide with a list of items that matched your search term | slimefun.command.search |
 
 ## Commands for Administrators
 | Command | Description | Required Permission |
