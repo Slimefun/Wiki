@@ -12,6 +12,7 @@ Most of them are used for commands, so make sure to also see the wiki page about
 | slimefun.commad.teleporter | Allows you to use `/sf teleporter` | OP |
 | slimefun.commad.versions | Allows you to use `/sf versions` | OP |
 | slimefun.commad.guide | Allows you to use `/sf guide` | Everyone |
+| slimefun.commad.search | Allows you to use `/sf search` | Everyone |
 | slimefun.commad.open_guide | Allows you to use `/sf open_guide` | OP |
 
 ## Permissions for blocks
