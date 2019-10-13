@@ -57,6 +57,8 @@ Go visit your Fork (You can always find your fork on GitHub's dashboard or your 
 Now click on the button "Upload files".
 ![Upload files button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-upload-image.png)
 
+make sure your images are all lower-case, use the PNG image format and have proper names.
+
 Drag and drop the images you want to upload onto the grey area and hit "Commit changes".<br>
 Now you can use your image in any page using the following code snippet:<br>
 ```![image label](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/FILE_NAME)```<br>
