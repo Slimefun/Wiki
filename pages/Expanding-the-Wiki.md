@@ -5,7 +5,7 @@ Awesome! Here is a step-by-step tutorial on how to create/edit pages on the wiki
 You will need to be logged into your GitHub Account for this and all the following steps.<br>
 You can create a new Account [here](https://github.com/join) if you don't have an account already.
 
-Alright first you need to head over to [this Wiki's GitHub repository](https://github.com/TheBusyBiscuit/Slimefun4-Wiki).<br>
+Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/TheBusyBiscuit/Slimefun4-Wiki).<br>
 After that you just have to hit the "Fork" button in top right corner and you are done for Step number one.
 
 ![GitHub Fork Button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-fork.png)
