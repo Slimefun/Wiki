@@ -81,6 +81,7 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 ### **Don'ts**
 * Never start your article with a header, the wiki automatically adds a header for you
 * Never link to any external images, always upload your images to the images directory instead
+* Don't use any resource packs when making images for the wiki, you should use Minecraft's default texture to make all images stay consistent
 * Never promote your server and try to remove any server-linked information from your images, no watermarks, no IPs
 * Don't go too much into detail on pages about addons, this wiki is still supposed to be about Slimefun, so keep those short
 * These wiki pages are obviously no place for NSFW-content, nudity, sexism, racism or discrimination
