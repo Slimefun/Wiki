@@ -2,6 +2,8 @@ If you have just started using Slimefun it may seem overwhelming or very complic
 You may not know where to start.
 If that sounds familiar then you have come to the right place!
 
+This guide assumes that you have already installed Slimefun, otherwise start by reading [How to install Slimefun](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun)
+
 ## 1. Slimefun Guide
 The very first Item you will need on your journey is the Slimefun Guide.
 Do `/sf guide` to obtain it and Right-Click the Book to open it.
