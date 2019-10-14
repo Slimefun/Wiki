@@ -87,6 +87,7 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 * Never promote your server and try to remove any server-linked information from your images, no watermarks, no IPs
 * Don't upload any content you do not own or not have the rights to use
 * Don't go too much into detail on pages about addons, this wiki is still supposed to be about Slimefun, so keep those short
+* Don't delete any pages/images from the wiki unless you have a very good reason for it, please explain it then
 * These wiki pages are obviously no place for NSFW-content, nudity, sexism, racism or discrimination
 
 ## Step 4: Making a Pull Request
