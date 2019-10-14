@@ -89,7 +89,7 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 * Don't go too much into detail on pages about addons, this wiki is still supposed to be about Slimefun, so keep those short
 * These wiki pages are obviously no place for NSFW-content, nudity, sexism, racism or discrimination
 
-### Step 4: Making a Pull Request
+## Step 4: Making a Pull Request
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
 ![Pull Requests Tab](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-pr-tab.png)
 
@@ -101,3 +101,10 @@ Please use and follow our template.
 
 After that you click "Create pull request" and you are done!<br>
 Thanks for contributing to the Slimefun4 wiki!
+
+## Step 5: Making changes to your Pull Request
+If you have already submitted a pull request but want to make a change to your files, you can do that.
+Just repeat [Step 2](#step-2--making-your-changes).<br>
+The pull request will automatically update to include new changes until it has been merged/closed.
+
+This step is especially important if we request changes to be made.
