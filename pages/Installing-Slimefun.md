@@ -6,12 +6,11 @@
 You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the ["development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
 Stable builds have been around for quite a while and were thoroughly tested, development builds are the latest builds of Slimefun you can get.
 If your Server is very reliant on a working build of Slimefun, choose a stable build.
-But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build.
+But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated).
 
 You can click on any Slimefun/CS-CoreLib build to see all compatible Minecraft Versions for that build.
 
 ## How to install
-
 Drag and drop the necessary jar files into your servers */plugins* directory. Then, restart your server.
 ***Do not use /reload, as it can cause intense memory leaks.***
 
@@ -20,7 +19,6 @@ If you plan to upgrade or move servers, or create a backup, it is ***very*** imp
 deleting it results in loss of ALL Slimefun related data, such as Levels, Unlocked Items, etc.
 
 ## Configuring Slimefun
-
 This guide assumes you only have Slimefun 4 and CS-Corelib installed on your server.
 
 When viewing the Slimefun plugin folder, you will notice 5 different .YML files. Start by viewing *config.yml* in your favorite text editor.
@@ -43,7 +41,6 @@ Any changes you make should be saved, then restart the server. Again, ***do not 
 just stop and restart the server, since this fixes most issues.
 
 # Additional Addons
-
 If you wish to install additional addons, refer to [this page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
 These additional addons require Slimefun4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
