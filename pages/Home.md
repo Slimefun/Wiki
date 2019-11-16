@@ -13,7 +13,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons)
 * [Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items)
 * [Food](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Food)
-* [Basic Machines](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Baisc-Machines)
+* [Basic Machines](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machines)
 * [Resources](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Resources)
 * [Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools)
 * [Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor)
