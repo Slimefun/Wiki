@@ -12,7 +12,7 @@ Contributions to the Wiki are therefore much appreciated!
 ## Content / Item Categories
 * [Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons)
 * [Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items)
-* [Food](pages/Food)
+* [Food](Food)
 * [Basic Machines](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machines)
 * [Resources](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Resources)
 * [Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools)
