@@ -8,8 +8,8 @@ The recipe is already found in your Slimefun Guide, but here is the final versio
 
 ![Smeltery Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-smeltery.png)
 
-You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output Chest) next to the dispenser to catch your crafted Items.
-Without an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output Chest), the items will just land back in the dispenser.
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to catch your crafted Items.
+Without an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), the items will just land back in the dispenser.
 
 ## How to use the Smeltery
 If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).<br>
