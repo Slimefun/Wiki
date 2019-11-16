@@ -6,7 +6,7 @@ The recipe is already found in your Slimefun Guide, but here is the final versio
 
 ![Table Saw Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-table-saw.png)
 
-You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output Chest) next to the Stonecutter to catch your crafted Items.
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the Stonecutter to catch your crafted Items.
 Otherwise your planks will be dropped on top of the Stonecutter.
 
 ## How to use the Table Saw
