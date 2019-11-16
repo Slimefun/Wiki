@@ -8,11 +8,11 @@ The Food category contains the following foods and juices:
 * [Fish Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Meat-Jerky)
 * [Magic Sugar](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Sugar)
 * [Monster Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Monster-Jerky)
-* [Apple Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
-* [Carrot Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
-* [Melon Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
-* [Pumpkin Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
-* [Sweet Berry Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
-* [Golden Apple Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juice)
+* [Apple Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
+* [Carrot Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
+* [Melon Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
+* [Pumpkin Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
+* [Sweet Berry Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
+* [Golden Apple Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
 
 *If you are looking for more Food, check out the Slimefun Addon [ExoticGarden](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ExoticGarden).*
