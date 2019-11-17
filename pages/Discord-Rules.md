@@ -86,7 +86,7 @@ The same Server must not be posted again within 14 days, otherwise we will delet
 You are NOT allowed to post a link to your discord server.
 
 ### #bug-disccussions
-This channel is only for discussions around bugs, not for reporting them.<br>
+This channel is only for discussions around bugs, **not for reporting them.**<br>
 For reporting bugs, please consult [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
 
 Before posting here, please follow this short guide:<br>
@@ -95,7 +95,7 @@ Before posting here, please follow this short guide:<br>
 3. Are there any errors? If so, then post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
 4. See if there are newer versions of Slimefun and CS-CoreLib available. (https://thebusybiscuit.github.io/builds/)
 5. Try to be as clear as possible, minimum is two sentences. ("X does not work" is not helpful)
-6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial.
+6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
 For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
 
