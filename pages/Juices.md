@@ -1,3 +1,12 @@
-Juices are [Food](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Food) items added by Slimefun.
+Juices are [Food](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Food) items added by Slimefun.<br>
+You can obtain Juices by processing the corresponding Fruit/Vegetable in a [Juicer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juicer).
 
-When consumed, Apple Juice, Carrot Juice, Melon Juice, Pumpkin Juice and Sweet Berry Juice restore 3 hunger and give Saturation I for 0.3 seconds.<br>Golden Apple Juice gives Absorption I for 20 seconds.
+## List of Juices
+| Juice | Fruit/Vegetable | Effect |
+| ----------- | ------------------- | --------------------------------- |
+| Apple Juice | Apples | Restores 3.0 hunger bars |
+| Carrot Juice | Carrots | Restores 3.0 hunger bars |
+| Melon Juice | Melon Slices | Restores 3.0 hunger bars |
+| Pumpkin Juice | Pumpkins | Restores 3.0 hunger bars |
+| Sweet Berry Juice | Sweet Berries | Restores 3.0 hunger bars |
+| Golden Apple Juice | Golden Apples | Absorption I for 20 seconds |
