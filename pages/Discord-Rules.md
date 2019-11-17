@@ -54,6 +54,9 @@ You are **NOT** allowed to advertise other discord servers.
 
 Advertising Minecraft Servers is allowed, but **ONLY** in #server-recommendations
 
+### 9. Other
+The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
+
 ## Channel-specific Rules
 These are short explanations of some of our channels, they also outline some of the DOs and DON'Ts.
 
