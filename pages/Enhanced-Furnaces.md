@@ -1,7 +1,7 @@
 Enhanced Furnaces are a type of [Basic Machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machines) added by Slimefun.<br>
 They are identical in function to the vanilla Furnace, but have enhanced processing speed, fuel efficiency and luck.
 
-# Enhanced Furnace Tiers
+## Enhanced Furnace Tiers
 There are 13 tiers of Enhanced Furnaces, each with different modifiers listed below.
 
 | Tier | Processing Speed | Fuel Efficiency | Luck |
