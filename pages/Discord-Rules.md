@@ -38,8 +38,10 @@ Even more important: Do **NOT** tag members of staff just to draw their attentio
 You shouldn't directly message a member of staff either unless they explicitly told you to.<br>
 Our Staff is not your personal 24/7 support hotline, they have better things to do.
 
-Tagging entire groups of people is **STRICTLY PROHIBITED**.<br>
 If you are in a crowded conversation and it wouldn't be clear who you are responding to, then you may tag someone to clarify that you're replying to that person.
+
+Tagging entire groups of people is **STRICTLY PROHIBITED**.<br>
+We may tag everyone on the Server for important announcements though, we try to keep that to a minimum though.
 
 ### 7. No Spam
 Do **NOT** spam messages.<br>
