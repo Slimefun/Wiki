@@ -5,3 +5,5 @@ They are an unenchanted Diamond Sword and a Bow, respectively, and may be enchan
 ## See also
 * [Soulbound Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools)
 * [Soulbound Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Armor)
+* [Soulbound Backpack](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Backpack)
+* [Soulbound Rune](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Rune)
