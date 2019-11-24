@@ -11,3 +11,5 @@ The table belows lists the chance for each applicable entity to drop their head 
 | Skeleton | 40% |
 | Zombie | 40% |
 | Wither Skeleton | 25% |
+
+If you are using [ExtraHeads](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ExtraHeads), it also increases your chance to obtain heads from other mobs.
