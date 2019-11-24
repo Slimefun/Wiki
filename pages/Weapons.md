@@ -8,5 +8,5 @@ The Weapons category adds various items which can be used as weapons.
 * [Seismic Axe](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Seismic-Axe)
 * [Souldbound Sword](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons)
 * [Soulbound Bow](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons)
-* [Explosive Bow](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Explosive-Bow)
-* [Icy Bow](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Icy-Bow)
+* [Explosive Bow](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Bows)
+* [Icy Bow](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Bows)
