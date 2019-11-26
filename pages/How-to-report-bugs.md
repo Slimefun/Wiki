@@ -74,7 +74,12 @@ If the name of one of your installed addons comes up in that stacktrace, post it
 
 If you don't have file access to the server, then contact one of your admins, explain them your issue and link them to this guide.
 
-### 6. Gather as much information as possible
+### 6. Make sure it is Slimefun!
+
+When you encounter problems with content in Slimefun, then please make sure that the Item/Block/Machine is actually from Slimefun and not from an addon.<br>
+If your problem revolves around items from ExoticGarden or any other Slimefun addons, then report them on their bug tracker and not here.
+
+### 7. Gather as much information as possible
 
 When we say you should be detailed, we mean it.<br>
 Try to experiment out some things before reporting.
@@ -88,7 +93,7 @@ Try to experiment out some things before reporting.
 These are just some more or less serious examples. Every bit of information helps.<br>
 The narrower and detailed you can get, the better.
 
-### 7. Posting the Issue via GitHub
+### 8. Posting the Issue via GitHub
 
 If updating or restarting did not help, then please report your issue via our [Issue Tracker](https://github.com/TheBusyBiscuit/Slimefun4/issues/).
 
