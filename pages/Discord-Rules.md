@@ -50,11 +50,17 @@ Excessive use of caps is also not allowed.
 
 ### 8. No Advertisement
 You are **NOT** allowed to advertise products on this discord server.<br>
-You are **NOT** allowed to advertise other discord servers.
+You are **NOT** allowed to post links to other discord servers.<br>
+You are **NOT** allowed to promote a fundraising campaign or any other means to collect money.<br>
+Raising awareness for charity or non-profit-organizations is allowed if approved by an Admin.
 
-Advertising Minecraft Servers is allowed, but **ONLY** in #server-recommendations
+Advertising Minecraft Servers is allowed, but **ONLY** in #server-recommendations<br>
+IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
-### 9. Other
+### 9. English Only
+Please speak english on our discord, as that is the main language of this plugin.
+
+### 10. Other
 The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
 
 ## Channel-specific Rules
@@ -76,11 +82,12 @@ If your suggestion reaches a certain amount of upvotes within a week, or one of 
 If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
 
 Try to make your suggestion as detailed as possible.<br>
-"add more X" is not a helpful suggestion and may be deleted by our staff.
+"add more X" or any other suggestion that is deemed "too short" is not a helpful suggestion and may be deleted by our staff.
 
 Try to fit your suggestion into a single message, edit your message if you forgot something.<br>
 Also: Do not post multiple suggestions within the same message.<br>
-Only **ONE** message per suggestion, not more or less, otherwise our suggestions-bot will be confused.
+Only **ONE** message per suggestion, not more or less, otherwise our suggestions-bot will be confused.<br>
+Do **NOT** post follow-up suggestions, each suggestion should be independent from another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
 
 ### #server-recommendations
 This channel is for advertising your Minecraft Server.<br>

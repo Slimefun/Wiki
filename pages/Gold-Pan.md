@@ -1,4 +1,6 @@
-The Gold Pan is a very important Item that is part of the [Items - Category](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items).
+The Gold Pan is a very important Item in Slimefun.<br>
+There are two variants, the normal Gold Pan and the [Nether Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Gold-Pan).<br>
+This page will only cover the standard Gold Pan.
 
 ## How to use the Gold Pan
 You right-click a block of gravel while holding a Gold Pan in your main hand.<br>
