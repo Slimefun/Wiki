@@ -1,4 +1,4 @@
-The Tablw Saw is a very straightforward machine.<br>
+The Table Saw is a very straightforward [machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machines).<br>
 You can use it to turn logs into 8 planks instead of the normal 4 you would get when using a Crafting Table.
 
 ## How to build a Table Saw
