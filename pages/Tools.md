@@ -2,6 +2,7 @@ The Tools category adds various tools with special properties.
 
 ## Table of contents
 * [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan)
+* [Nether Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Gold-Pan)
 * [Grappling Hook](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Grappling-Hook)
 * [Smelter's Pickaxe](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smelter's-Pickaxe)
 * [Lumber Axe](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lumber-Axe)
