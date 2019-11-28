@@ -1,4 +1,4 @@
-The Gold Pan is a very important Item that is part of the [Items - Category](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items).
+The Gold Pan is a very important item that is part of the [Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) category.
 
 ## How to use the Gold Pan
 You right-click a block of gravel while holding a Gold Pan in your main hand.<br>
@@ -6,7 +6,7 @@ The block will break and drop Flint, Clay, [Sifted Ore](https://github.com/TheBu
 
 You can read more about [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore) and how to use it in Slimefun's ["Getting Started" Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started).
 
-## Drop chance
+## Drop chances
 Each item you can get with a Gold Pan has a different probability to drop, listed below.
 
 | Item | Chance |
