@@ -1,5 +1,5 @@
 If you join our [Discord Server](https://discord.gg/fsD4Bkh), then we want you to follow these rules.<br>
-Not following this ruleset can result in us banning you from the server.
+Not following this ruleset can result in us kicking or banning you from the server.
 
 **These rules can change at any time, so please check these regularly. Large changes will be announced of course.**
 
@@ -26,11 +26,11 @@ But arguing with our staff will be a waste of time.
 
 ### 5. Stay on-topic!
 Every channel has a specified topic.
-* Questions about Slimefun? #questions
-* You have a suggestion? #suggestions
-* You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or #other-addons
-* Found a weird bug that you wanna discuss to see if others experience the same? #bug-discussions
-* For any conversations unrelated to Slimefun, go to #offtopic
+* Questions about Slimefun? `#questions`
+* You have a suggestion? `#suggestions`
+* You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or `#other-addons`
+* Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions`
+* For any conversations unrelated to Slimefun, go to `#offtopic`
 
 ### 6. Don't tag people
 Do **NOT** tag someone to just to get their attention.<br>
@@ -40,8 +40,13 @@ Our Staff is not your personal 24/7 support hotline, they have better things to 
 
 If you are in a crowded conversation and it wouldn't be clear who you are responding to, then you may tag someone to clarify that you're replying to that person.
 
-Tagging entire groups of people is **STRICTLY PROHIBITED**.<br>
+Tagging entire groups of people (`@everyone`, `@here`, `@admin`, etc...) is **STRICTLY PROHIBITED**.<br>
 We may tag everyone on the Server for important announcements though, we try to keep that to a minimum though.
+
+The **only exception** to this rule is the role `@helpful`, when asking a question in `#questions`, then you are allowed to tag `@helpful`, as long as you don't abuse it.<br>
+Tag this group once in your question but only once, follow-up messages should **NOT** contain any tags at all.<br>
+You can assign yourself the role `@helpful` by writing `!helpful`.<br>
+This will mark you as a helpful person but also give everyone the explicit permission to tag you when they need help, so be warned.
 
 ### 7. No Spam
 Do **NOT** spam messages.<br>
@@ -54,7 +59,7 @@ You are **NOT** allowed to post links to other discord servers.<br>
 You are **NOT** allowed to promote a fundraising campaign or any other means to collect money.<br>
 Raising awareness for charity or non-profit-organizations is allowed if approved by an Admin.
 
-Advertising Minecraft Servers is allowed, but **ONLY** in #server-recommendations<br>
+Advertising Minecraft Servers is allowed, but **ONLY** in `#server-showcase`<br>
 IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
 ### 9. English Only
@@ -70,15 +75,15 @@ These are short explanations of some of our channels, they also outline some of 
 This channel is **ONLY** for saying "hi" and "welcome" to people.<br>
 Any other form of conversation should move to the appropriate channel as soon as possible.
 
-### #general-discussions
-This channel is for general discussions around Slimefun, questions should still go to #questions.
+### #general-chat
+This channel is for general discussions around Slimefun, questions should still go to `#questions`.
 
 ### #offtopic
 This channel is for any conversations that are not about Slimefun.
 
 ### #suggestions
 This channel is for suggesting stuff that should be added to Slimefun or for addon ideas.<br>
-If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to #approved-suggestions.
+If your suggestion reaches a certain amount of upvotes within a week, or one of our admins really likes your idea, then it will be moved to `#approved`.
 If your suggestion is too broadly worded or reaches a lot of downvotes, it will be automatically deleted.
 
 Try to make your suggestion as detailed as possible.<br>
@@ -89,7 +94,7 @@ Also: Do not post multiple suggestions within the same message.<br>
 Only **ONE** message per suggestion, not more or less, otherwise our suggestions-bot will be confused.<br>
 Do **NOT** post follow-up suggestions, each suggestion should be independent from another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
 
-### #server-recommendations
+### #server-showcase
 This channel is for advertising your Minecraft Server.<br>
 Your Server must be publicly accessible (no whitelist) and must have Slimefun installed.<br>
 The same Server must not be posted again within 14 days, otherwise we will delete your post as a duplicate.<br>
@@ -117,3 +122,6 @@ Note that questions about addons should rather be asked in their respective chan
 This channel is for anyone who is interested in developing Slimefun, addons or any other sort of programs.<br>
 You can ask for help on your addon, ask about Slimefun's API or how to do stuff in Java.<br>
 We may even help you with your private programming questions, if we are in the mood for it.
+
+## See also
+You may also want to take a look at our list of [Discord commands](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Discord-Commands)
