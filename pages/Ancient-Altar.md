@@ -1,5 +1,5 @@
-The Ancient Altar is a block in the [Magical Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items) category, as well as a Multiblock structure.<br>
-It is used to craft other magical items, [magical gadgets](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Gadgets), and [repair](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Repaired-Spawner) [Broken Spawners](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Broken-Spawner).
+The Ancient Altar is a block in the [Magical Gadgets](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Gadgets) category, as well as a Multiblock structure.<br>
+It is used to craft other [magical items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items) and gadgets, and to [repair](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Repaired-Spawner) [Broken Spawners](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Broken-Spawner).
 
 ## Obtaining
 The Ancient Altar block can be crafted in a [Magic Workbench](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Workbench).
