@@ -6,4 +6,4 @@ They are unenchanted Diamond armor pieces and may be enchanted like any other ar
 * [Soulbound Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Weapons)
 * [Soulbound Tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Tools)
 * [Soulbound Backpack](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Backpack)
-* [Soulbound Rune](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ancient-Rune-[Soulbound])
+* [Soulbound Rune](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Soulbound-Rune)
