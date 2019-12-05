@@ -7,4 +7,4 @@ Soulbound Runes can be crafted by performing the appropriate ritual at an [Ancie
 ## Usage
 You can bind an item to your soul by dropping it, and then dropping a Soulbound Rune next to it.<br>
 This will prevent the bound item from being dropped when you die. This consumes the rune, so make sure to use it on the right item.<br>
-You can tell an item is Soulbound when it has the "Soulbound" mention under its name.
+You can tell an item is Soulbound when it has the "Soulbound" lore under its name.
