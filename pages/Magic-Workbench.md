@@ -8,4 +8,5 @@ A complete Magic Workbench looks like this :
 ![Magic Workbench setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/images/multiblock-magic-workbench.png)
 
 ## Usage
-Place the items in the correct pattern in the Dispenser, then right-click the Crafting Table. If the recipe is correct, your item will appear in the Dispenser.
+Place the items in the correct pattern in the Dispenser, then right-click the Crafting Table. If the recipe is correct, your item will appear in the Dispenser.<br>
+An [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) can be placed next to the Dispenser to collect your crafted items.
