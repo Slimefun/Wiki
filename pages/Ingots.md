@@ -5,7 +5,7 @@ The following ingots are obtained by smelting the matching [dusts](https://githu
 * [Iron Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Ingot) (not added by Slimefun, but crafted and used in new ways)
 * [Gold Ingot (4 to 24-Carat)](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Ingot)
 * [Copper Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Copper-Ingot)
-* [Tin Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/in-Ingot)
+* [Tin Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tin-Ingot)
 * [Silver Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Silver-Ingot)
 * [Aluminum Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Ingot)
 * [Lead Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lead-Ingot)
