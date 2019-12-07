@@ -18,7 +18,7 @@ The Resources category contains many natural and man-made resources which are us
 ### Fuel
 * [Bucket of Oil](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Bucket-of-Oil)
 * [Bucket of Fuel](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Bucket-of-Fuel)
-### Radioactive materials
+### [Radioactive](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radiation) materials
 * [Blistering Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Blistering-Ingot)
 * [Uranium](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Uranium)
 * [Neptunium](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Neptunium)
