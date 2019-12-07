@@ -10,7 +10,8 @@ Slimefun adds the following 9 dusts as [resources](https://github.com/TheBusyBis
 * [Magnesium Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magnesium-Dust)
 
 ## Obtaining
-Dusts can be obtained by processing [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore) through an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Dust-Washer).
+Dusts can be obtained by processing [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore) through an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Dust-Washer).<br>
+They can also be produced by crushing the corresponding [ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer).
 
 ## Usage
 Dusts can be smelted into [alloys](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Alloys) or their respective [ingots](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Metals) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery).<br>
