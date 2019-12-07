@@ -1,15 +1,16 @@
 Slimefun adds 11 new Gold Ingots to the game.<br>
-They are differentiated by their purity (in "carats"), with the lowest purity being 4 and the highest being 24.
+They are differentiated by their purity (measured in "carats"), with the lowest purity being 4 and the highest being 24.
 
 ## Obtaining
-Smelting [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-Carat Gold Ingot.<br>
+Smelting [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-carat Gold Ingot.<br>
 Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold.
 
 ## Usage
-Gold Ingots produced this way cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
+Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
 
 ### Gold Ingot (4-Carat)
-4-carat gold is used in the following recipes:
+4-carat gold can be turned into [Gold Dust](https://github.com/TheBusyBiscuit/Gold-Dust) by crushing it in an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer).<br>
+It is also used in the following recipes:
 * [Gold Ingot (6-Carat)](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-6-Carat)
 * [Block Placer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Block-Placer)
 
