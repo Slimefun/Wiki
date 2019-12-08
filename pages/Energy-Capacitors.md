@@ -1,8 +1,10 @@
+![](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-capacitor.gif)
+
 Energy Capacitors are [electric components](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines) which can store and transfer energy in an energy network.<br>
-There are five types of capacitors, each with an increasing capacity.
+There are five "tiers" of capacitors, each with an increasing capacity.
 
 ## Obtaining
-All five types of energy capacitors can be crafted in an [Enchanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
+All five tiers of energy capacitors can be crafted in an [Enchanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
 An energy capacitor must be placed within 7 blocks of a [machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines#Machines), [generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Machines#Energy-generation), [energy regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator), or another capacitor (in a straight line; no diagonals).
@@ -10,8 +12,10 @@ An energy capacitor must be placed within 7 blocks of a [machine](https://github
 They transfer energy between blocks in that range, so they can be used to extend your network.<br>
 They will also store excess energy indefinitely, unless they are broken or the energy is used up.
 
+A capacitor's side texture will change depending on how much energy is stored in it, but you can more accurately measure it with a [multimeter](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Multimeter).
+
 ## Capacity
-Each type of energy capacitor has a different capacity, listed below.
+Each tier of energy capacitor has a different capacity, listed below.
 
 | Item | Capacity |
 | ---- | -------- |
