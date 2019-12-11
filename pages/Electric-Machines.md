@@ -1,9 +1,9 @@
 The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [programmable androids](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
 
-An energy network begins with an [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator): without it, power transfer can not happen.<br>
-You will also need some way to generate electricity to power your machines, and possibly [capacitors](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitors) to store energy and extend the range of your network.
+Besides a way to generate electricity for your machines, an energy network requires an [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator): without it, power transfer cannot happen.<br>
+You may also want to use [capacitors](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitors), as they can store excess energy and extend the range of your network.
 
-Some machines have a buffer, meaning they can store a certain amount of energy. Unlike capacitors, however, if such a machine receives insufficient power, the stored energy will be lost over time.
+Some machines have a buffer, meaning they can store a certain amount of energy. Unlike capacitors, however, if the energy isn't used before it reaches maximum capacity, it will be reset entirely.
 
 Electric machines are best used with a [Cargo Management System](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Management) for automatic item transportation.
 
