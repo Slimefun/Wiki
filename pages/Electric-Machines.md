@@ -23,7 +23,7 @@ For more information on the individual items in this category, see the table of 
 * [Lava Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lava-Generator)
 * [Nether Star Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Star-Reactor)
 * [Nuclear Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nuclear-Reactor)
-* [Solar Generators](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator)
+* [Solar Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator)
 
 ### [Programmable Androids](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids)
 * [Android Interfaces](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Android-Interfaces)
