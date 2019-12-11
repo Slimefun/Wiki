@@ -4,7 +4,7 @@ The Coal Generator is a type of [electricity](https://github.com/TheBusyBiscuit/
 All tiers of coal generators can be crafted in an [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-A coal generator must be placed within 7 blocks of an [energy regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitors) in range of one, and provided with the appropriate fuel.<br>
+A coal generator must be placed within 7 blocks of an [energy regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers
