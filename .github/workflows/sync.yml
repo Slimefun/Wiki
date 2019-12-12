@@ -13,6 +13,14 @@ jobs:
     steps:
     - name: Checking out Repository
       uses: actions/checkout@v1
+    - name: Setting up node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - name: Scanning for dead links
+      run: node missing.js
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     - name: Syncing
       run: sh sync.sh
       env:
