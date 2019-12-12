@@ -14,16 +14,16 @@ For more information on the individual items in this category, see the table of 
 * [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator)
 * [Energy Capacitors](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Capacitors)
 * [Multimeter](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Multimeter)
-* [Reactor Access Port](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reactor-Access-Port)
 
 ### Energy generation
+* [Solar Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator)
 * [Bio Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Bio-Reactor)
 * [Coal Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Coal-Generator)
-* [Combustion Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Combustion-Reactor)
 * [Lava Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lava-Generator)
-* [Nether Star Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Star-Reactor)
+* [Combustion Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Combustion-Reactor)
 * [Nuclear Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nuclear-Reactor)
-* [Solar Generator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solar-Generator)
+* [Nether Star Reactor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Star-Reactor)
+* [Reactor Access Port](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reactor-Access-Port)
 
 ### [Programmable Androids](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids)
 * [Android Interfaces](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Android-Interfaces)
