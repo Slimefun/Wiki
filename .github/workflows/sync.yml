@@ -18,7 +18,7 @@ jobs:
       with:
         node-version: '10.x'
     - name: Scanning for dead links
-      run: node scan.js
+      run: node missing.js
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     - name: Syncing
