@@ -15,9 +15,11 @@ const options = {
     }
 }
 
-var promises = [];
-var pages = [];
-var missing = [];
+const promises = [];
+const pages = [];
+const missing = [];
+
+const missingPage = fs.readFileSync("missing.md", "UTF-8");
 
 fs.promises.readdir("pages").then((files) => {
     for (var i in files) {
@@ -51,6 +53,9 @@ fs.promises.readdir("pages").then((files) => {
 
         for (var i in missing) {
             content += "* " + missing[i] + " \n";
+            fs.writeFile("pages/" + missing[i], missingPage, (err) => {
+                if (err) throw err;
+            });
         }
 
         content += "\nIt would be really nice if someone added them and made a Pull Request.\n";
@@ -63,6 +68,8 @@ fs.promises.readdir("pages").then((files) => {
         }));
 
         request.end();
+        
+        
     });
 });
 
