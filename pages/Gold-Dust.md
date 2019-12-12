@@ -1,7 +1,8 @@
 Gold Dust is one of the nine [dusts](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts) added in Slimefun.
 
 ## Obtaining
-Crushing Gold Ore in an [Ore Crusher](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Crusher) or an [Electric Ore Grinder](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ore-Grinder) yields two pieces of Gold Dust.
+Crushing Gold Ore in an [Ore Crusher](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Crusher) or an [Electric Ore Grinder](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ore-Grinder) yields two pieces of Gold Dust.<br>
+If you are using the [SlimefunOreChunks](https://github.com/TheBusyBiscuit/Slimefun4/wiki/SlimefunOreChunks) addon, you can use the same machines to turn Gold Ore Chunks from the [GEO Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/GEO-Miner) into Gold Dust.
 
 Gold Dust has a ~11.11% chance of being extracted from [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore), by processing it through an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Dust-Washer).
 
