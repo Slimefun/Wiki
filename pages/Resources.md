@@ -1,3 +1,5 @@
+![Synthetic Sapphire](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-synthetic-sapphire.png)
+
 The Resources category contains many natural and man-made resources which are used extensively in new recipes.
 
 ## Table of contents
