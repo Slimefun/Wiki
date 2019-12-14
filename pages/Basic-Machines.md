@@ -1,3 +1,5 @@
+![Smithing Table](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-basic-machines.png)
+
 This category includes various machines that have simple functionalities and do not require any electricity.
 
 ## Table of contents
