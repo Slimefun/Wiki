@@ -1,4 +1,8 @@
-The Food category contains the following foods and juices:
+![Fortune Cookie](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-fortune-cookie.png)
+
+The Food category adds various foods and juices with special effects.
+
+## Table of contents
 * [Fortune Cookie](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Fortune-Cookie)
 * [Diet Cookie](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Diet-Cookie)
 * [Beef Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Meat-Jerky)
