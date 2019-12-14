@@ -1,4 +1,4 @@
-![Nuclear Reactor](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/nuclear-reactor.png)
+![Nuclear Reactor](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-nuclear-reactor.png)
 
 The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [programmable androids](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
 
