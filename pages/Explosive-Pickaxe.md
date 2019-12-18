@@ -1,6 +1,12 @@
-The Explosive Pickaxe is an item in the [tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) category.
+The Explosive Pickaxe is an item in the [tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) category.<br>
+It is an unenchanted diamond pickaxe which can mine several blocks at once.
 
-It is an unenchanted diamond pickaxe which mines blocks in a 3x3x3 area.<br>
+## Obtaining
+The Explosive Pickaxe can be crafted in a [Magic Workbench](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Workbench).
+
+## Usage
+When you break a block with this pickaxe, it also mines blocks in a 3x3x3 area around it.<br>
 It is compatible with the Fortune enchantment, to get even more drops from your usual ore.
 
-There is also a shovel equivalent of this tool: the [Explosive Shovel](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Explosive-Shovel).
+## See also
+* [Explosive Shovel](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Explosive-Shovel)
