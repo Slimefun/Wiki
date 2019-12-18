@@ -1,0 +1,3 @@
+Hercules' Pickaxe is an item in the [tools](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) category.
+
+This tool is similar in function to an [Ore Crusher](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Crusher) or an [Electric Ore Grinder](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ore-Grinder): it crushes iron ore mined with it into [iron dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust), and gold ore into [gold dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust).
