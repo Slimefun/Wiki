@@ -6,6 +6,10 @@ Not following this ruleset can result in us kicking or banning you from the serv
 ## General Rules
 These rules apply to **any** channel on the server.
 
+### 0. Discord's Terms of Service
+You are expected to adhere to Discord's Terms of Service and their community guidelines.<br>
+You must be at least 13 years old to use Discord and to interact with our discord server.
+
 ### 1. No Harassment
 Do not harass or insult other users.<br>
 Feel free to swear as long as you don't insult people to purposefully hurt them.
@@ -46,7 +50,7 @@ We may tag everyone on the Server for important announcements though, we try to 
 The **only exception** to this rule is the role `@helpful`, when asking a question in `#questions`, then you are allowed to tag `@helpful`, as long as you don't abuse it.<br>
 Tag this group once in your question but only once, follow-up messages should **NOT** contain any tags at all.<br>
 You can assign yourself the role `@helpful` by writing `!helpful`.<br>
-This will mark you as a helpful person but also give everyone the explicit permission to tag you when they need help, so be warned.
+This will mark you as a helpful person but also gives everyone the explicit permission to tag you when they need help, so be warned.
 
 ### 7. No Spam
 Do **NOT** spam messages.<br>
@@ -66,7 +70,8 @@ IPs to Minecraft Servers are not allowed to be posted in any other channel.
 Please speak english on our discord, as that is the main language of this plugin.
 
 ### 10. Other
-The staff at their own discretion if there be a need can take appropriate action. Please have some common sense and general respect if you wish to not fall under this rule.
+The staff at their own discretion if there be a need can take appropriate action. 
+Please have some common sense and general respect if you wish to not fall under this rule.
 
 ## Channel-specific Rules
 These are short explanations of some of our channels, they also outline some of the DOs and DON'Ts.
@@ -76,7 +81,8 @@ This channel is **ONLY** for saying "hi" and "welcome" to people.<br>
 Any other form of conversation should move to the appropriate channel as soon as possible.
 
 ### #general-chat
-This channel is for general discussions around Slimefun, questions should still go to `#questions`.
+This channel is for general discussions around Slimefun, questions should still go to `#questions`.<br>
+Any discussions about addons should rather be moved to their respective channel.
 
 ### #offtopic
 This channel is for any conversations that are not about Slimefun.
@@ -119,6 +125,11 @@ For more info on how to debug your issues and make proper bug reports, please re
 ### #questions
 This is our main support channel, if you have a question, then come here to ask it.<br>
 Note that questions about addons should rather be asked in their respective channel.
+
+You are allowed to tag `@helpful`, when asking a question in this channel, as long as you don't abuse it.<br>
+Tag this group once in your question but only once, follow-up messages should **NOT** contain any tags at all.<br>
+You can assign yourself the role `@helpful` by writing `!helpful`.<br>
+This will mark you as a helpful person but also gives everyone the explicit permission to tag you when they need help, so be warned.
 
 ### #programming-help
 This channel is for anyone who is interested in developing Slimefun, addons or any other sort of programs.<br>
