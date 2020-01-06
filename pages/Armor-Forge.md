@@ -8,7 +8,7 @@ A complete setup should look like this:
 
 ![Armor Forge Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
 
-You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted armor.
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted armor. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
 ## Usage
 The Armor Forge can be used to craft [Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor) and [Magical Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Armor).
