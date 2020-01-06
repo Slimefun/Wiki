@@ -13,4 +13,4 @@ Each piece can be crafted in the [Armor Forge](https://github.com/TheBusyBiscuit
 
 ## Usage
 This set is mostly used to provide protection against [Radiation](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radiation).<br>
-The armour has poor durability, therefore it's best to only use it when necessary.
+The armor has poor durability, therefore it's best to only use it when necessary.

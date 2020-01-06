@@ -2,7 +2,7 @@ The Armor Forge is in the [Basic Machines](https://github.com/TheBusyBiscuit/Sli
 
 ## Obtaining
 The Armor Forge is a multiblock structure, it consists of a dispenser and an anvil.<br>
-**Note:** The dispenser has to be facing upwards and the anvil cannot be (slightly) broken.<br>
+**Note:** It must be a standard anvil, damaged anvils will not work.<br>
 
 A complete setup should look like this:
 
