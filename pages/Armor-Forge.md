@@ -1,0 +1,14 @@
+The Armor Forge is in the [Basic Machines](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machines) category. It is a multiblock structure.<br>
+
+## Obtaining
+The Armor Forge is a multiblock structure, it consists of a dispenser and an anvil.<br>
+**Note:** The dispenser has to be facing upwards and the anvil cannot be (slightly) broken.<br>
+
+A complete setup should look like this:
+
+![Armor Forge Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-armor-forge.png)
+
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the Dispenser to collect your crafted armor.
+
+## Usage
+The Armor Forge can be used to craft [Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor) and [Magical Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Armor).
