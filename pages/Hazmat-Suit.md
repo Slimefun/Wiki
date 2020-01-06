@@ -12,5 +12,5 @@ It consists of four parts (listed below).<br><br>
 Each piece can be crafted in the [Armor Forge](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor-Forge).
 
 ## Usage
-This set is mostly used to provide protection against [Radiation](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radiation).<br>
+When you wear the entire set it provides protection against [Radiation](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radiation).<br>
 The armor has poor durability, therefore it's best to only use it when necessary.
