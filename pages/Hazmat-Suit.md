@@ -1,4 +1,4 @@
-Hazmat suit is part of the [Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor) category.<br>
+The Hazmat suit is part of the [Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Armor) category.<br>
 It consists of four parts (listed below).<br><br>
 
 | Piece  |  Bonus effects  |
@@ -13,4 +13,4 @@ Each piece can be crafted in the [Armor Forge](https://github.com/TheBusyBiscuit
 
 ## Usage
 This set is mostly used to provide protection against [Radiation](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Radiation).<br>
-The armour has poor durability, therefor it's best to only use it when necesarry.
+The armour has poor durability, therefore it's best to only use it when necessary.
