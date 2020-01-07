@@ -13,7 +13,7 @@ Without an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Outpu
 
 ## How to use the Smeltery
 If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).<br>
-Now right-click the Nether Fence Post and you should see the Smeltery starting to craft your item.
+Now right-click the Nether Brick Fence and you should see the Smeltery craft your item.
 
 ## Tips and tricks
 Since the Smeltery's fire can be consumed every so often, make sure to either have a Flint and Steel ready or do one of the following tricks:
