@@ -8,6 +8,7 @@ The Food category contains a variety of foods and [juices](https://github.com/Th
 * [Chicken Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Meat-Jerky)
 * [Mutton Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Meat-Jerky)
 * [Fish Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Meat-Jerky)
+* [Kelp Cookie](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Kelp-Cookie)
 * [Magic Sugar](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magic-Sugar)
 * [Monster Jerky](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Monster-Jerky)
 * [Apple Juice](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Juices)
