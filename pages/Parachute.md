@@ -5,4 +5,5 @@ The Parachute can be crafted in an [Enhanced Crafting Table](https://github.com/
 
 ## Usage
 Just put it on and press shift mid air.
+It will slow your fall down and you will take no fall damage.
 
