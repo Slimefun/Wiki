@@ -1,4 +1,4 @@
-Electric Jetpacks are a useful [Technical Gadget](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Technical-Gadget) which allows you to fly through the World.
+Electric Jetpacks are a useful [Technical Gadget](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Technical-Gadget) which allows you to fly through the world.
 
 ## Obtaining
 The Electric Jetpacks can be crafted in an [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
