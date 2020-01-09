@@ -1,4 +1,4 @@
-The Technical Gadgets category adds various items which can be used as Flying, Mining etc.
+The Technical Gadgets category contains various items which can be used for Flying, Mining etc.
 
 ## Table of contents
 * [Electric Jetpack I-VII](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Jetpacks)
