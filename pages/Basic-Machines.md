@@ -1,4 +1,4 @@
-This category includes various machines that have simple functionalities and do not require any electricity.
+This category contains various machines that have simple functionalities and do not require any electricity.
 
 ## Table of contents
 * [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table)

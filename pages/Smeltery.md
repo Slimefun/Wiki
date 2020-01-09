@@ -13,10 +13,10 @@ Without an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Outpu
 
 ## How to use the Smeltery
 If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).<br>
-Now right-click the Nether Fence Post and you should see the Smeltery starting to craft your item.
+Now right-click the Nether Brick Fence and you should see the Smeltery craft your item.
 
 ## Tips and tricks
 Since the Smeltery's fire can be consumed every so often, make sure to either have a Flint and Steel ready or do one of the following tricks:
 * Put a piece of netherrack 2 blocks under the smeltery, so the fire does not randomly go out without actually using it.
 * Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
-* Utilise an [Automated Ignition Chamber](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Automated-Ignition-Chamber), which will automatically re-ignite the fire.
+* Utilize the [Automated Ignition Chamber](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Automated-Ignition-Chamber), which will automatically re-ignite the fire.

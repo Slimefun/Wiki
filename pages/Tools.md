@@ -1,4 +1,4 @@
-The Tools category adds various tools with special properties.
+The Tools category contains various tools with special properties.
 
 ## Table of contents
 * [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan)
