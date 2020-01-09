@@ -5,5 +5,5 @@ the Jet Boots can be crafted in an [Enhanced Crafting Table](https://github.com/
 
 ## Usage
 Just Charge it put it on crouch and you will hover.
-The Higher the tier the better the Accuracy and the Speed.
+The higher the tier the better the Accuracy and the Speed.
 The Jet Boots are not able to move up.
