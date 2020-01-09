@@ -1,4 +1,4 @@
-The Resources category contains many natural and man-made resources which are used extensively in new recipes.
+The Resources category contains many natural and man-made resources which are used extensively in Slimefun recipes.
 
 ## Table of contents
 ### [Dusts](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts)
@@ -13,6 +13,7 @@ The Resources category contains many natural and man-made resources which are us
 * [Carbon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Carbon)
 * [Compressed Carbon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Compressed-Carbon)
 * [Carbon Chunk](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Carbon-Chunk)
+* [Magnesium Salt](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magnesium-Salt)
 * [Sulfate](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sulfate)
 * [Silicon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Silicon)
 ### Fuel
