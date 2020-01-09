@@ -5,7 +5,7 @@ The Grind Stone is a multiblock structure, it consists of a dispenser and a fenc
 
 A complete setup should look like this:
 
-![Armor Forge Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
+![Grind Stone Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-grind-stone.png)
 
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
