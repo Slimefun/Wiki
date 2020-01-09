@@ -1,12 +1,13 @@
-The Magic Workbench is a [Basic Machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machine) in Slimefun.<br>
-It is used to craft many [magical items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items), [gadgets](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Gadgets) and even [armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Armor).
+The Magic Workbench is a [Basic Machine](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Basic-Machine) in Slimefun. It is a multiblock structure.<br>
 
 ## Obtaining
-The Magic Workbench is a Multiblock structure which consists of a Bookshelf, Crafting Table and Dispenser placed side by side.<br>
-A complete Magic Workbench looks like this :
+The Magic Workbench is a multiblock structure which consists of a bookshelf, crafting table and dispenser placed side by side.<br>
 
-![Magic Workbench setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/images/multiblock-magic-workbench.png)
+A complete setup should look like this:
+
+![Magic Workbench Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/images/multiblock-magic-workbench.png)
+
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
 ## Usage
-Place the items in the correct pattern in the Dispenser, then right-click the Crafting Table. If the recipe is correct, your item will appear in the Dispenser.<br>
-An [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) can be placed next to the Dispenser to collect your crafted items.
+It is used to craft many [Magical Items](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Items) and [Magical Gadgets](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magical-Gadgets).
