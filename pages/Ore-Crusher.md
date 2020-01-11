@@ -10,4 +10,5 @@ A complete setup should look like this:
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your resources. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
 ## Usage
-The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.
+The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.<br>
+Check out the Ore Crusher in the Slimefun Guide in-game for more recipes.

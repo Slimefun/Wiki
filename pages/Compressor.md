@@ -10,4 +10,4 @@ A complete setup should look like this:
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your compressed items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
 ## Usage
-The Compressor is used to compress items.
+The Compressor is used to compress various item, check out the Compressor in the Slimefun Guide in-game for more recipes.
