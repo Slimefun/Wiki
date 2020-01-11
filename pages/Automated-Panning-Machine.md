@@ -8,7 +8,7 @@ A complete setup should look like this:
 
 ![Automated Panning Machine Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-automated-panning-machine.png)
 
-You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
+You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the cauldron to collect your items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be thrown on top of the trapdoor.
 
 ## Usage
 It's a faster version of the [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan) and the [Nether Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Gold-Pan) combined and has the exact same usages as them combined.
