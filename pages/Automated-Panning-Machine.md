@@ -11,5 +11,4 @@ A complete setup should look like this:
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the cauldron to collect your items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be thrown on top of the trapdoor.
 
 ## Usage
-It's a faster version of the [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan) and the [Nether Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Gold-Pan) and has the exact same usages as them combined.<br>
-To use the Automated Panning Machine, right click the cauldron with any block that is convertable, it will then proceed to output its converted items after a small animation.
+It's a faster version of the [Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Pan) and the [Nether Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nether-Gold-Pan) and has the exact same usages as them combined.
