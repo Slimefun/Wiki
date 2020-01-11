@@ -11,4 +11,5 @@ You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4
 
 ## Usage
 The Ore Crusher is mainly used to crush ores into their minerals, but it has other uses too.<br>
-Check out the Ore Crusher in the Slimefun Guide in-game for more recipes.
+Check out the Ore Crusher in the Slimefun Guide in-game for more recipes.<br>
+To use the Ore Crusher you have to place your items in the dispenser and then right click the nether brick fence, if correct, it'll output your desired item.<br>
