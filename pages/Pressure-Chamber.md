@@ -11,4 +11,4 @@ You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4
 
 ## Usage
 The Pressure Chamber is used to put pressure on items, check out the Pressure Chamber in the Slimefun Guide in-game for more recipes.<br>
-To use the Pressure Chamber, put the items (with the correct pattern) in the dispenser and when correct your items will be output when you right click the cauldron.<br>
+To use the Pressure Chamber, put the items (with the correct pattern) in the dispenser and your items will be output when you right click the cauldron.<br>
