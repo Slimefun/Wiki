@@ -10,4 +10,5 @@ A complete setup should look like this:
 You can also place an [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest) next to the dispenser to collect your items. If there is no [Output Chest](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Output-Chest), then it will be put in the dispenser.
 
 ## Usage
-The Pressure Chamber is used to put pressure on items, check out the Pressure Chamber in the Slimefun Guide in-game for more recipes.
+The Pressure Chamber is used to put pressure on items, check out the Pressure Chamber in the Slimefun Guide in-game for more recipes.<br>
+To use the Pressure Chamber, put the items (with the correct pattern) in the dispenser and when correct your items will be output when you right click the cauldron.<br>
