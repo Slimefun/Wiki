@@ -17,16 +17,13 @@ You can now punch the armor stand to destroy it. You may need to punch out multi
 
 ### Stage 2
 Switch to spectator mode via
->/gmsp
-
-or
->/gamemode 2
+>/gamemode spectator
 
 You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).<br>
 The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
 
 ### Stage 3
-Use FAWE to select the 3-4 blocks you need cleared (the 2 occupied by the armor stand, one above and one below; feel free to make the selection larger if needed) and then execute:
+Use WorldEdit to select the 3-4 blocks you need cleared (the 2 occupied by the armor stand, one above and one below; feel free to make the selection larger if needed) and then execute:
 >//set 0
 
 # Unplaceable blocks
@@ -35,8 +32,9 @@ If you encounter a location that seems empty but will cancel your action when yo
 _Note: make sure this isn't due to an invisible armor stand (check "Floating Tags")!_
 
 ### Stage 1
-Use FAWE to select the block's surroundings and execute:
+Use WorldEdit to select the block's surroundings and execute:
 >//set stone
+
 It doesn't matter how big of an area you change as long as the incriminated location becomes a solid block.
 Run the following as operator:
 >/sf debug_fish
