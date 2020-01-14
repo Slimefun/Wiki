@@ -34,7 +34,7 @@ If you encounter a location that seems empty but will cancel your action when yo
 
 _Note: make sure this isn't due to an invisible armor stand (check "Floating Tags")!_
 
-### Stage 1
+#### Stage 1
 Use FAWE to select the block's surroundings and execute:
 >//set stone
 It doesn't matter how big of an area you change as long as the incriminated location becomes a solid block.
