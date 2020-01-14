@@ -7,7 +7,7 @@ Most of the following will require varying degrees of permission only staff memb
 Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager).<br>
 These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
-#### Stage 1
+### Stage 1
 Remove any regulators/managers below the floating tag, then stand close to it and run this as operator:
 >/execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
 
@@ -15,7 +15,7 @@ You can now punch the armor stand to destroy it. You may need to punch out multi
 
 *Tip: it is recommended using MyCommands and setting an alias, easier to remember and teach (an example could be /holokill).*
 
-#### Stage 2
+### Stage 2
 Switch to spectator mode via
 >/gmsp
 
@@ -25,7 +25,7 @@ or
 You should see the invisible armor stand and better gauge where the feet are; using this information, place a new regulator just below the tag on the first block not occupied by the armor stand itself (get one via /sf cheat).<br>
 The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
 
-#### Stage 3
+### Stage 3
 Use FAWE to select the 3-4 blocks you need cleared (the 2 occupied by the armor stand, one above and one below; feel free to make the selection larger if needed) and then execute:
 >//set 0
 
@@ -34,7 +34,7 @@ If you encounter a location that seems empty but will cancel your action when yo
 
 _Note: make sure this isn't due to an invisible armor stand (check "Floating Tags")!_
 
-#### Stage 1
+### Stage 1
 Use FAWE to select the block's surroundings and execute:
 >//set stone
 It doesn't matter how big of an area you change as long as the incriminated location becomes a solid block.
