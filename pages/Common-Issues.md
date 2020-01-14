@@ -3,7 +3,7 @@ Most of the following will require varying degrees of permission only staff memb
 
 **WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs)**
 
-## Floating tags
+# Floating tags
 Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager).<br>
 These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
@@ -29,7 +29,7 @@ The regulator will try to place its own armor stand which will replace the corru
 Use FAWE to select the 3-4 blocks you need cleared (the 2 occupied by the armor stand, one above and one below; feel free to make the selection larger if needed) and then execute:
 >//set 0
 
-## Unplaceable blocks
+# Unplaceable blocks
 If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
 
 _Note: make sure this isn't due to an invisible armor stand (check "Floating Tags")!_
