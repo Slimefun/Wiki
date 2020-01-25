@@ -8,6 +8,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [Addons for Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons)
 * [Getting Started](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started)
 * [Help us expand the Wiki!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
+* [Common Issues](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Common-Issues)
 
 ## Content / Item Categories
 * [Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons)
