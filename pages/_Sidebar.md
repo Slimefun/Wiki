@@ -2,6 +2,7 @@
 * [What is Slimefun?](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Slimefun-in-a-nutshell)
 * [How to install Slimefun](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun)
 * [Getting Started](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started)
+* [Common Issues and Problems](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Common-Issues)
 * [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs)
 * [Help us expand the Wiki!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
 
