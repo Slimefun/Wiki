@@ -1,3 +1,16 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Floating tags](#floating-tags)
+    - [Stage 1](#stage-1)
+    - [Stage 2](#stage-2)
+    - [Stage 3](#stage-3)
+- [Unplaceable blocks](#unplaceable-blocks)
+    - [Stage 1](#stage-1-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 This page contains useful information about common in game issues and how to resolve them.<br>
 Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
 
