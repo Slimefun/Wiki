@@ -69,7 +69,13 @@ IPs to Minecraft Servers are not allowed to be posted in any other channel.
 ### 9. English Only
 Please speak english on our discord, as that is the main language of this plugin.
 
-### 10. Other
+### 10. Sensitive topics
+Hard and sensitive topics should be kept away from our main channels.<br>
+Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
+We do not encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
+If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.<br>
+
+### 11. Other
 The staff at their own discretion if there be a need can take appropriate action. 
 Please have some common sense and general respect if you wish to not fall under this rule.
 
@@ -86,6 +92,13 @@ Any discussions about addons should rather be moved to their respective channel.
 
 ### #offtopic
 This channel is for any conversations that are not about Slimefun.
+
+### #sensitive-topics
+This channel is no exception from our rules, all rules still apply!<br>
+Topics that are sensitive and should only ever be mentioned in this channel only - if they even have to be mentioned at all - include but are not limited to:
+* Politics
+* Alcohol and Tobacco usage
+* Mature content (nudity, racism or sexism is not allowed anywhere, see rules 1 - 3)
 
 ### #suggestions
 This channel is for suggesting stuff that should be added to Slimefun or for addon ideas.<br>
@@ -135,6 +148,54 @@ This will mark you as a helpful person but also gives everyone the explicit perm
 This channel is for anyone who is interested in developing Slimefun, addons or any other sort of programs.<br>
 You can ask for help on your addon, ask about Slimefun's API or how to do stuff in Java.<br>
 We may even help you with your private programming questions, if we are in the mood for it.
+
+## Punishment
+You are expected to follow our rules. Not following them can lead to us having to take actions.<br>
+
+Most of the times we will simply tell you to stop or point out that you just violated our rules before we take any actions.<br>
+Please respect this, continous violations will lead to punishment.
+
+### Warnings
+We have a warnings-system. Severe or continous rule violations will lead to us giving you a formal warning.<br>
+Having many warnings will result in further actions from our staff, so try to not collect any of these.<br>
+Warnings are permanent; Warnings will not lead to any automatic form of punishment, any further punishment will be performed manually.
+
+If you consider your warning unfair, then please try to calm down first and ask politely. We are also just people, we can make mistakes and are willing to hear your side of the story, should you stay calm, polite and civilized. Do keep in mind rule number 4 though!
+
+### Muting
+Some violations may lead staff members to the decision to give you a little break from our server. People who are muted are no longer able to send messages on our discord server. Please take this break to think about your actions.<br>
+All mutes are temporary, not permanent.
+
+#### Channel-muting
+Some channels like `#suggestions` and `#server-showcase` are strictly moderated to keep them clean and organized.<br>
+Should you spam, troll around or violate the channel-specific rules in channels like these, we may mute you in that specific channel.
+
+Please adhere to the designated channel rules when posting!
+
+### Kicking you from the Server
+If we consider your profile a violation of our rules (e.g. inappropriate names, profile pictures or statuses), we may kick you from the Server.
+We will also consider kicking you from the server as a final warning before issuing a ban.
+
+## Banning you from the Server
+A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server.
+We will only issue a ban if we see it as absolutely necessary. 
+Other forms of punishment usually preceed this too.
+
+## Discord Roles
+Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given.
+Here is a complete list
+
+| Role | Type | Permissions |
+| ------ | ---------- | --------------------- |
+| **Admin** | **Staff member** | **Everything** |
+| **Moderator** | **Staff member** | **Warnings, mutes and kicks** |
+| **Helper** | **Staff member on trial** | **Warnings** |
+| Artist | You contributed to Slimefun via Artwork | - |
+| Contributor | You contributed to Slimefun via Code | - |
+| Translator | You contributed to Slimefun via Translations | - |
+| Wiki Editor | You contributed to Slimefun via Wiki Articles | - |
+| *Nitro Booster* | *You boosted our Server with Nitro* | *Custom Emojis and Reactions* |
+| *Helpful* | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
 
 ## See also
 You may also want to take a look at our list of [Discord commands](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Discord-Commands)
