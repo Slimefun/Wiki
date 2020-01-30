@@ -31,15 +31,16 @@ Contributions are very much welcome!
 
 | Released | Language | language code | Progress |
 | --- | ---------- | --- | ----------- |
-| :white_check_mark: | English | `en` | 100% (Default) |
-| :white_check_mark: | [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | ![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg) |
-| :white_check_mark: | [French](https://gitlocalize.com/repo/3841/fr/src/main/resources/languages) | `fr` | ![gitlocalized](https://gitlocalize.com/repo/3841/fr/badge.svg) |
+| :heavy_check_mark: | English | `en` | 100% (Default) |
+| :heavy_check_mark: | [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | ![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg) |
+| :heavy_check_mark: | [French](https://gitlocalize.com/repo/3841/fr/src/main/resources/languages) | `fr` | ![gitlocalized](https://gitlocalize.com/repo/3841/fr/badge.svg) |
 | :x: | [Italian](https://gitlocalize.com/repo/3841/it/src/main/resources/languages) | `it` | ![gitlocalized](https://gitlocalize.com/repo/3841/it/badge.svg) |
 | :x: | [Spanish](https://gitlocalize.com/repo/3841/es/src/main/resources/languages) | `es` | ![gitlocalized](https://gitlocalize.com/repo/3841/es/badge.svg) |
 | :x: | [Polish](https://gitlocalize.com/repo/3841/pl/src/main/resources/languages) | `pl` | ![gitlocalized](https://gitlocalize.com/repo/3841/pl/badge.svg) |
 | :x: | [Swedish](https://gitlocalize.com/repo/3841/sv/src/main/resources/languages) | `sv` | ![gitlocalized](https://gitlocalize.com/repo/3841/sv/badge.svg) |
 | :x: | [Dutch](https://gitlocalize.com/repo/3841/nl/src/main/resources/languages) | `nl` | ![gitlocalized](https://gitlocalize.com/repo/3841/nl/badge.svg) |
 | :x: | [Russian](https://gitlocalize.com/repo/3841/ru/src/main/resources/languages) | `ru` | ![gitlocalized](https://gitlocalize.com/repo/3841/ru/badge.svg) |
+| :x: | [Hungarian](https://gitlocalize.com/repo/3841/hu/src/main/resources/languages) | `hu` | ![gitlocalized](https://gitlocalize.com/repo/3841/hu/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
