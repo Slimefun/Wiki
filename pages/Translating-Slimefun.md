@@ -28,7 +28,9 @@ There you should see a globe or a flag which allows you to select a language.
 | Language | language code | Progress |
 | ---------- | --- | ----------- |
 | English | `en` | 100% (Default) |
-| [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | [![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg)](https://gitlocalize.com/repo/3841/de?utm_source=badge) |
+| [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | ![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg) |
+| [French](https://gitlocalize.com/repo/3841/fr/src/main/resources/languages) | `fr` | ![gitlocalized](https://gitlocalize.com/repo/3841/fr/badge.svg) |
+| [Italian](https://gitlocalize.com/repo/3841/it/src/main/resources/languages) | `it` | ![gitlocalized](https://gitlocalize.com/repo/3841/it/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
