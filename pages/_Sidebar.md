@@ -5,6 +5,7 @@
 * [Common Issues and Problems](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Common-Issues)
 * [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs)
 * [Help us expand the Wiki!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
+* [Help us translate Slimefun!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Translating-Slimefun)
 
 ## Other Plugins
 * [Addons for Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons)
