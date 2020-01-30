@@ -21,6 +21,9 @@ New additions to the messages.yml will be appended to that file without issues.
 Every player can choose their preferred language. By default everyone will simply use the server's default language.<br>
 But if you have a lot of international players, they can simply override it and use their personally preferred language instead.
 
+To do this, just go to the "Settings" section of your Slimefun Guide (Shift - Right Click the Slimefun Guide while holding it in your hand).
+There you should see a globe or a flag which allows you to select a language.
+
 ## Available languages
 | Language | language code | Progress |
 | ---------- | --- | ----------- |
