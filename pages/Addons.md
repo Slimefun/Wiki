@@ -32,6 +32,7 @@ Name | Author(s) | Description | Info | GitHub | Download
 SlimeXpansion | John000708 | <details><summary>Click to expand</summary>This Addon - which is inspired by the mod Industrialcraft - adds a lot of new electrical machines. There is a Food Synthesizer, UU Matter, a Wireless Charger and more!</details> | [BukkitDev](https://dev.bukkit.org/projects/slimexpansion_v1-0)</details> | [Github](https://github.com/John000708/slimexpansion) | [Builds](https://thebusybiscuit.github.io/builds/John000708/SlimeXpansion/master/)
 SlimeScrap | John000708 | <details><summary>Click to expand</summary>This addon allows you to break down machines and other items into their components - useful for recycling old items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimescrap) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimescrap/files)
 SlimeCalculator | John000708 | <details><summary>Click to expand</summary>This Addon gives you the ability to calculate the resources needed to craft Slimefun items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator/files)
+SoundMuffler | J3fftw1 | <details><summary>Click to expand</summary>This Addon adds machines that have the abbility to muffle sound.</details> | N/A | [Github](https://github.com/J3fftw1/SoundMuffler) | N/A
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
