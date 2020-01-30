@@ -46,4 +46,4 @@ We will then start reviewing your changes and add them to this plugin.
 
 ### You don't see your language?
 If we currently do not support your language, then please go on our discord server (you can find a link on the sidebar or footer of this page).<br>
-Just post it in `#general-chat` and let us know that you want to help translate this plugin into your language but please don't tag any of our admins, we will see your message nonetheless.
+Just post it in `#translations` and let us know that you want to help translate this plugin into your language but please don't tag any of our admins, we will see your message nonetheless. But please be patient as it can take some time to handle your request.
