@@ -43,6 +43,9 @@ Contributions are very much welcome!
 | :x: | [Hungarian](https://gitlocalize.com/repo/3841/hu/src/main/resources/languages) | `hu` | ![gitlocalized](https://gitlocalize.com/repo/3841/hu/badge.svg) |
 | :x: | [Czech](https://gitlocalize.com/repo/3841/cs/src/main/resources/languages) | `cs` | ![gitlocalized](https://gitlocalize.com/repo/3841/cs/badge.svg) |
 | :x: | [Latvian](https://gitlocalize.com/repo/3841/lv/src/main/resources/languages) | `lv` | ![gitlocalized](https://gitlocalize.com/repo/3841/lv/badge.svg) |
+| :x: | [Slovak](https://gitlocalize.com/repo/3841/sk/src/main/resources/languages) | `sk` | ![gitlocalized](https://gitlocalize.com/repo/3841/sk/badge.svg) |
+| :x: | [Chinese (Taiwan)](https://gitlocalize.com/repo/3841/zh-TW/src/main/resources/languages) | `zh-TW/` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-TW//badge.svg) |
+| :x: | [Vietnamese](https://gitlocalize.com/repo/3841/vi/src/main/resources/languages) | `vi` | ![gitlocalized](https://gitlocalize.com/repo/3841/vi/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
