@@ -38,14 +38,14 @@ Contributions are very much welcome!
 | :heavy_check_mark: | [Spanish](https://gitlocalize.com/repo/3841/es/src/main/resources/languages) | `es` | ![gitlocalized](https://gitlocalize.com/repo/3841/es/badge.svg) |
 | :x: | [Polish](https://gitlocalize.com/repo/3841/pl/src/main/resources/languages) | `pl` | ![gitlocalized](https://gitlocalize.com/repo/3841/pl/badge.svg) |
 | :heavy_check_mark: | [Swedish](https://gitlocalize.com/repo/3841/sv/src/main/resources/languages) | `sv` | ![gitlocalized](https://gitlocalize.com/repo/3841/sv/badge.svg) |
-| :x: | [Dutch](https://gitlocalize.com/repo/3841/nl/src/main/resources/languages) | `nl` | ![gitlocalized](https://gitlocalize.com/repo/3841/nl/badge.svg) |
+| :heavy_check_mark: | [Dutch](https://gitlocalize.com/repo/3841/nl/src/main/resources/languages) | `nl` | ![gitlocalized](https://gitlocalize.com/repo/3841/nl/badge.svg) |
 | :x: | [Russian](https://gitlocalize.com/repo/3841/ru/src/main/resources/languages) | `ru` | ![gitlocalized](https://gitlocalize.com/repo/3841/ru/badge.svg) |
 | :heavy_check_mark: | [Hungarian](https://gitlocalize.com/repo/3841/hu/src/main/resources/languages) | `hu` | ![gitlocalized](https://gitlocalize.com/repo/3841/hu/badge.svg) |
 | :x: | [Greek](https://gitlocalize.com/repo/3841/el/src/main/resources/languages) | `el` | ![gitlocalized](https://gitlocalize.com/repo/3841/el/badge.svg) |
 | :x: | [Czech](https://gitlocalize.com/repo/3841/cs/src/main/resources/languages) | `cs` | ![gitlocalized](https://gitlocalize.com/repo/3841/cs/badge.svg) |
 | :heavy_check_mark: | [Latvian](https://gitlocalize.com/repo/3841/lv/src/main/resources/languages) | `lv` | ![gitlocalized](https://gitlocalize.com/repo/3841/lv/badge.svg) |
 | :heavy_check_mark: | [Slovak](https://gitlocalize.com/repo/3841/sk/src/main/resources/languages) | `sk` | ![gitlocalized](https://gitlocalize.com/repo/3841/sk/badge.svg) |
-| :x: | [Chinese (China)](https://gitlocalize.com/repo/3841/zh-CN/src/main/resources/languages) | `zh-CN` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-CN//badge.svg) |
+| :heavy_check_mark: | [Chinese (China)](https://gitlocalize.com/repo/3841/zh-CN/src/main/resources/languages) | `zh-CN` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-CN//badge.svg) |
 | :x: | [Chinese (Taiwan)](https://gitlocalize.com/repo/3841/zh-TW/src/main/resources/languages) | `zh-TW` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-TW//badge.svg) |
 | :x: | [Portugese (Portugal)](https://gitlocalize.com/repo/3841/pt/src/main/resources/languages) | `pt` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt//badge.svg) |
 | :x: | [Portugese (Brazil)](https://gitlocalize.com/repo/3841/pt-BR/src/main/resources/languages) | `pt-BR` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt-BR//badge.svg) |
