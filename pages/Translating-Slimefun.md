@@ -52,6 +52,13 @@ Contributions are very much welcome!
 | :heavy_check_mark: | [Vietnamese](https://gitlocalize.com/repo/3841/vi/src/main/resources/languages) | `vi` | ![gitlocalized](https://gitlocalize.com/repo/3841/vi/badge.svg) |
 | :x: | [Indonesian](https://gitlocalize.com/repo/3841/id/src/main/resources/languages) | `id` | ![gitlocalized](https://gitlocalize.com/repo/3841/id/badge.svg) |
 | :x: | [Hebrew](https://gitlocalize.com/repo/3841/he/src/main/resources/languages) | `he` | ![gitlocalized](https://gitlocalize.com/repo/3841/he/badge.svg) |
+| :x: | [Arabic](https://gitlocalize.com/repo/3841/ar/src/main/resources/languages) | `ar` | ![gitlocalized](https://gitlocalize.com/repo/3841/ar/badge.svg) |
+| :x: | [Danish](https://gitlocalize.com/repo/3841/da/src/main/resources/languages) | `da` | ![gitlocalized](https://gitlocalize.com/repo/3841/da/badge.svg) |
+| :x: | [Finnish](https://gitlocalize.com/repo/3841/fi/src/main/resources/languages) | `fi` | ![gitlocalized](https://gitlocalize.com/repo/3841/fi/badge.svg) |
+| :x: | [Norwegian](https://gitlocalize.com/repo/3841/no/src/main/resources/languages) | `no` | ![gitlocalized](https://gitlocalize.com/repo/3841/no/badge.svg) |
+| :x: | [Ukrainian](https://gitlocalize.com/repo/3841/uk/src/main/resources/languages) | `uk` | ![gitlocalized](https://gitlocalize.com/repo/3841/uk/badge.svg) |
+| :x: | [Afrikaans](https://gitlocalize.com/repo/3841/af/src/main/resources/languages) | `af` | ![gitlocalized](https://gitlocalize.com/repo/3841/af/badge.svg) |
+| :x: | [Malay](https://gitlocalize.com/repo/3841/ms/src/main/resources/languages) | `ms` | ![gitlocalized](https://gitlocalize.com/repo/3841/ms/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
