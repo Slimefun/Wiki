@@ -9,6 +9,7 @@
 
 ## Other Plugins
 * [Addons for Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons)
+* [Create your own Addon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide)
 * [Supported Protection Plugins](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Protection-Plugins)
 
 ## Categories
