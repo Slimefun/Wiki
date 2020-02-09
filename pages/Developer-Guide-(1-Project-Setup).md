@@ -157,4 +157,4 @@ Look up online guides on how to do that, remember to always **commit** and **pus
 And you are done! You now successfully configured and set up your first Slimefun Addon.<br>
 We know this was all very complicated, so feel free to ask any questions on discord.
 
-**Continue with Part 2**
+[**> Continue with Part 2**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
