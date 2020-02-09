@@ -151,6 +151,9 @@ Your package may look like this now: `me.thebusybiscuit.myawesomeaddon`.
 Now open this package, you should see a file called `SlimefunAddon.java`, rename that file to your projectId but keep the file ending.<br>
 The file name should look like this now: 'MyAwesomeAddon.java'.
 
+If you set up Git correctly, you should now be able to **commit** your changes and **push** them to your repository.<br>
+Look up online guides on how to do that, remember to always **commit** and **push** whenever you change a file, this will keep your workspace and your GitHub repository in-sync, so you can work on your project from anywhere you want. It also allows others to contribute to your project easily.
+
 And you are done! You now successfully configured and set up your first Slimefun Addon.<br>
 We know this was all very complicated, so feel free to ask any questions on discord.
 
