@@ -10,6 +10,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [Help us expand the Wiki!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
 * [Help us translate Slimefun!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Translating-Slimefun)
 * [Common Issues](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Common-Issues)
+* [Create your own Addon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide)
 
 ## Content / Item Categories
 * [Weapons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons)
