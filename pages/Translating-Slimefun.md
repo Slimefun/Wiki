@@ -25,8 +25,9 @@ To do this, just go to the "Settings" section of your Slimefun Guide (Shift - Ri
 There you should see a globe or a flag which allows you to select a language.
 
 ## Available languages
-Note that only languages that are marked as **Released** can be selected on your server.<br>
+Note that only languages that are marked as **Released** can safely be selected on your server.<br>
 Unreleased languages are still pending for review or are not fully translated yet.<br>
+Development builds of Slimefun may allow a few unreleased languages already.<br>
 Contributions are very much welcome!
 
 | Released | Language | language code | Progress |
@@ -52,7 +53,7 @@ Contributions are very much welcome!
 | :heavy_check_mark: | [Vietnamese](https://gitlocalize.com/repo/3841/vi/src/main/resources/languages) | `vi` | ![gitlocalized](https://gitlocalize.com/repo/3841/vi/badge.svg) |
 | :x: | [Indonesian](https://gitlocalize.com/repo/3841/id/src/main/resources/languages) | `id` | ![gitlocalized](https://gitlocalize.com/repo/3841/id/badge.svg) |
 | :x: | [Hebrew](https://gitlocalize.com/repo/3841/he/src/main/resources/languages) | `he` | ![gitlocalized](https://gitlocalize.com/repo/3841/he/badge.svg) |
-| :x: | [Arabic](https://gitlocalize.com/repo/3841/ar/src/main/resources/languages) | `ar` | ![gitlocalized](https://gitlocalize.com/repo/3841/ar/badge.svg) |
+| :heavy_check_mark: | [Arabic](https://gitlocalize.com/repo/3841/ar/src/main/resources/languages) | `ar` | ![gitlocalized](https://gitlocalize.com/repo/3841/ar/badge.svg) |
 | :x: | [Danish](https://gitlocalize.com/repo/3841/da/src/main/resources/languages) | `da` | ![gitlocalized](https://gitlocalize.com/repo/3841/da/badge.svg) |
 | :x: | [Finnish](https://gitlocalize.com/repo/3841/fi/src/main/resources/languages) | `fi` | ![gitlocalized](https://gitlocalize.com/repo/3841/fi/badge.svg) |
 | :x: | [Norwegian](https://gitlocalize.com/repo/3841/no/src/main/resources/languages) | `no` | ![gitlocalized](https://gitlocalize.com/repo/3841/no/badge.svg) |
