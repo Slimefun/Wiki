@@ -60,6 +60,10 @@ Contributions are very much welcome!
 | :x: | [Ukrainian](https://gitlocalize.com/repo/3841/uk/src/main/resources/languages) | `uk` | ![gitlocalized](https://gitlocalize.com/repo/3841/uk/badge.svg) |
 | :x: | [Afrikaans](https://gitlocalize.com/repo/3841/af/src/main/resources/languages) | `af` | ![gitlocalized](https://gitlocalize.com/repo/3841/af/badge.svg) |
 | :x: | [Malay](https://gitlocalize.com/repo/3841/ms/src/main/resources/languages) | `ms` | ![gitlocalized](https://gitlocalize.com/repo/3841/ms/badge.svg) |
+| :x: | [Japanese](https://gitlocalize.com/repo/3841/ja/src/main/resources/languages) | `ja` | ![gitlocalized](https://gitlocalize.com/repo/3841/ja/badge.svg) |
+| :x: | [Persian](https://gitlocalize.com/repo/3841/fa/src/main/resources/languages) | `fa` | ![gitlocalized](https://gitlocalize.com/repo/3841/fa/badge.svg) |
+| :x: | [Thai](https://gitlocalize.com/repo/3841/th/src/main/resources/languages) | `th` | ![gitlocalized](https://gitlocalize.com/repo/3841/th/badge.svg) |
+| :x: | [Romanian](https://gitlocalize.com/repo/3841/ro/src/main/resources/languages) | `ro` | ![gitlocalized](https://gitlocalize.com/repo/3841/ro/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
