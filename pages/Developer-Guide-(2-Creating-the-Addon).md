@@ -12,7 +12,7 @@ package ...;
 
 import ...;
 
-public class SlimefunAddon extends JavaPlugin {
+public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
 	
 	@Override
 	public void onEnable() {
@@ -23,6 +23,23 @@ public class SlimefunAddon extends JavaPlugin {
 	public void onDisable() {
 		// Logic for disabling the plugin...
 	}
+	
+	@Override
+	public JavaPlugin getJavaPlugin() {
+		// This is a method that links your SlimefunAddon to your Plugin.
+		// Just return "this" in this case, so they are linked
+		return this;
+	}
+	
+	@Override
+	public String getBugTrackerURL() {
+		// Here you can return a link to your Bug Tracker.
+		// This link will be displayed to Server Owners if there is an issue
+		// with this Addon. Return null if you have no bug tracker.
+		// Normally you can just use GitHub's Issues tab:
+		// https://github.com/YOURNAME/YOURPROJECT/issues
+		return null;
+	}
 
 }
 ```
@@ -32,7 +49,8 @@ The `import` token tells Java to import classes from other projects, you will pr
 This is because you are referencing those classes, as you will work with them.
 
 After that your own class will start it should have the same name as its file (without the file ending) and is followed by `extends JavaPlugin`.<br>
-This basically tells Java to treat it like a Bukkit Plugin (in Java).
+This basically tells Java to treat it like a Bukkit Plugin (in Java).<br>
+`implements SlimefunAddon` tells Slimefun to treat your Plugin like an Addon.
 
 This class also contains two `methods`.<br>
 `onEnable()` is called whenever the plugin is enabled. This is where you would do any initializations.<br>
