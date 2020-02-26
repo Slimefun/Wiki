@@ -17,6 +17,6 @@ You can click on the discord badge at the bottom of the page to join.
 ## Table of Contents
 1. [Setting up your project](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
 2. [Creating a new Addon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
-3. Creating your first Item
+3. [Creating your first Item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
 4. Adding features to your Item
 5. (More to come...)
