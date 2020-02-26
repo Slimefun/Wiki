@@ -94,4 +94,4 @@ new Metrics(this, id);
 
 You will have to replace `id` with the bStats-Id of your plugin, you can find that id on your bStats page once you set up your project there.
 
-**> Continue with Part 3**
+[**> Continue with Part 3**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
