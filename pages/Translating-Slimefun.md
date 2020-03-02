@@ -28,6 +28,8 @@ There you should see a globe or a flag which allows you to select a language.
 Note that only languages that are marked as **Released** can safely be selected on your server.<br>
 Unreleased languages are still pending for review or are not fully translated yet.<br>
 Development builds of Slimefun may allow a few unreleased languages already.<br>
+**Do not select unreleased languages as your server's default language.**
+
 Contributions are very much welcome!
 
 | Released | Language | language code | Progress |
@@ -64,6 +66,9 @@ Contributions are very much welcome!
 | :x: | [Persian](https://gitlocalize.com/repo/3841/fa/src/main/resources/languages) | `fa` | ![gitlocalized](https://gitlocalize.com/repo/3841/fa/badge.svg) |
 | :x: | [Thai](https://gitlocalize.com/repo/3841/th/src/main/resources/languages) | `th` | ![gitlocalized](https://gitlocalize.com/repo/3841/th/badge.svg) |
 | :x: | [Romanian](https://gitlocalize.com/repo/3841/ro/src/main/resources/languages) | `ro` | ![gitlocalized](https://gitlocalize.com/repo/3841/ro/badge.svg) |
+| :x: | [Bulgarian](https://gitlocalize.com/repo/3841/bg/src/main/resources/languages) | `bg` | ![gitlocalized](https://gitlocalize.com/repo/3841/bg/badge.svg) |
+| :x: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
+| :x: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
