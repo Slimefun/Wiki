@@ -111,7 +111,7 @@ Try to make your suggestion as detailed as possible.<br>
 Try to fit your suggestion into a single message, edit your message if you forgot something.<br>
 Also: Do not post multiple suggestions within the same message.<br>
 Only **ONE** message per suggestion, not more or less, otherwise, our suggestions-bot will be confused.<br>
-Do **NOT** post-follow-up suggestions, each suggestion should be independent of another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
+Do **NOT** post follow-up suggestions, each suggestion should be independent of another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
 
 ### #server-showcase
 This channel is for advertising your Minecraft Server.<br>
