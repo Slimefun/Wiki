@@ -25,7 +25,7 @@ We may ban you for inappropriate profile pictures or custom statuses.
 
 ### 4. Don't argue with members of staff
 If we tell you to stop something, stop it.<br>
-You should have read these rules before-hand, you can feel free to ask a question about these rules, if they are unclear.<br>
+You should have read these rules before-hand, you can feel free to ask a question about these rules if they are unclear.<br>
 But arguing with our staff will be a waste of time.
 
 ### 5. Stay on-topic!
@@ -67,11 +67,11 @@ Advertising Minecraft Servers is allowed, but **ONLY** in `#server-showcase`<br>
 IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
 ### 9. English Only
-Please speak english on our discord, as that is the main language of this plugin.
+Please speak English on our discord, as that is the main language of this plugin.
 
 ### 10. Sensitive topics
 Hard and sensitive topics should be kept away from our main channels.<br>
-Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
+Sensitive topics that are considered mature or could spark a lot of controversies should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
 We do not encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
 If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.<br>
 
@@ -110,18 +110,18 @@ Try to make your suggestion as detailed as possible.<br>
 
 Try to fit your suggestion into a single message, edit your message if you forgot something.<br>
 Also: Do not post multiple suggestions within the same message.<br>
-Only **ONE** message per suggestion, not more or less, otherwise our suggestions-bot will be confused.<br>
-Do **NOT** post follow-up suggestions, each suggestion should be independent from another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
+Only **ONE** message per suggestion, not more or less, otherwise, our suggestions-bot will be confused.<br>
+Do **NOT** post follow-up suggestions, each suggestion should be independent of another, try to contact the author of the earlier suggestion and ask him to edit his suggestion instead.
 
 ### #server-showcase
 This channel is for advertising your Minecraft Server.<br>
-Your Server must be publicly accessible (no whitelist) and must have Slimefun installed.<br>
-The same Server must not be posted again within 14 days, otherwise we will delete your post as a duplicate.<br>
+Your server must be publicly accessible (no whitelist) and must have Slimefun installed.<br>
+The same Server must not be posted again within 14 days, otherwise, we will delete your post as a duplicate.<br>
 You are NOT allowed to post a link to your discord server.
 
 This channel is **ONLY** for showcasing your Server, any other messages will be deleted.
 
-### #bug-disccussions
+### #bug-discussions
 This channel is only for discussions around bugs, **not for reporting them.**<br>
 For reporting bugs, please consult [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
 
@@ -130,7 +130,7 @@ Before posting here, please follow this short guide:<br>
 2. Capture the output of that command and include it in your message.
 3. Are there any errors? If so, then post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
 4. See if there are newer versions of Slimefun and CS-CoreLib available. (https://thebusybiscuit.github.io/builds/)
-5. Try to be as clear as possible, minimum is two sentences. ("X does not work" is not helpful)
+5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
 6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
 For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
@@ -147,18 +147,18 @@ This will mark you as a helpful person but also gives everyone the explicit perm
 ### #programming-help
 This channel is for anyone who is interested in developing Slimefun, addons or any other sort of programs.<br>
 You can ask for help on your addon, ask about Slimefun's API or how to do stuff in Java.<br>
-We may even help you with your private programming questions, if we are in the mood for it.
+We may even help you with your private programming questions if we are in the mood for it.
 
 ## Punishment
 You are expected to follow our rules. Not following them can lead to us having to take actions.<br>
 
 Most of the times we will simply tell you to stop or point out that you just violated our rules before we take any actions.<br>
-Please respect this, continous violations will lead to punishment.
+Please respect this, continuous violations will lead to punishment.
 
 ### Warnings
-We have a warnings-system. Severe or continous rule violations will lead to us giving you a formal warning.<br>
+We have a warning system in place. Severe or continuous rule violations will lead to us giving you a formal warning.<br>
 Having many warnings will result in further actions from our staff, so try to not collect any of these.<br>
-Warnings are permanent; Warnings will not lead to any automatic form of punishment, any further punishment will be performed manually.
+Warnings are permanent; Warnings will not lead to an automatic form of punishment, any further punishment will be performed manually.
 
 If you consider your warning unfair, then please try to calm down first and ask politely. We are also just people, we can make mistakes and are willing to hear your side of the story, should you stay calm, polite and civilized. Do keep in mind rule number 4 though!
 
@@ -179,7 +179,7 @@ We will also consider kicking you from the server as a final warning before issu
 ## Banning you from the Server
 A Ban is the final form of punishment. After you are banned you will no longer be able to join our discord server.
 We will only issue a ban if we see it as absolutely necessary. 
-Other forms of punishment usually preceed this too.
+Other forms of punishment usually proceed this too.
 
 ## Discord Roles
 Our Discord server has a lot of roles too, some are considered staff, some are earned or self-given.
