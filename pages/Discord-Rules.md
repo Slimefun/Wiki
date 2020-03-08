@@ -119,7 +119,7 @@ Your Server must be publicly accessible (no whitelist) and must have Slimefun in
 The same Server must not be posted again within 14 days, otherwise we will delete your post as a duplicate.<br>
 You are NOT allowed to post a link to your discord server.
 
-This Server is **ONLY** for showcasing your Server, any other messages will be deleted.
+This channel is **ONLY** for showcasing your Server, any other messages will be deleted.
 
 ### #bug-disccussions
 This channel is only for discussions around bugs, **not for reporting them.**<br>
