@@ -2,10 +2,10 @@ Want to spice up your Slimefun4-Server?
 Then you have come to the right place!
 
 ## Official Addons
-These Addons were developed closely to Slimefun.
-Most often they were made by an active contributor to Slimefun too.
+These Addons were developed closely to Slimefun.<br>
+They were most often developed by an active contributor to the project too.
 
-Name | Author(s) | Description | Info | GitHub | Download
+Name | Author(s) | Description | More info | Source code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 ExoticGarden | TheBusyBiscuit | <details><summary>Click to expand</summary>This Addon adds a lot of Plants, Trees and a bunch of food to Slimefun! You can do everything from growing Plum Trees to crafting "BBQ Bacon wrapped Cheese filled Hot Dogs".</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ExoticGarden) | [GitHub](https://github.com/TheBusyBiscuit/ExoticGarden) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExoticGarden/master/)
 ColoredEnderChests | TheBusyBiscuit | <details><summary>Click to expand</summary>This Addon adds global color-coded Ender Chests that work across dimensions, with Cargo Nets and more!</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ColoredEnderChests) | [GitHub](https://github.com/TheBusyBiscuit/ColoredEnderChests) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ColoredEnderChests/master/)
@@ -28,17 +28,18 @@ These Addons come from Third-Party developers.
 We cannot provide support for these on our Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
 If you encounter problems with these, contact the respective developer, not us.
 
-Name | Author(s) | Description | Info | GitHub | Download
+Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 SlimeXpansion | J3fftw1, John000708 | <details><summary>Click to expand</summary>This Addon - which is inspired by the mod Industrialcraft - adds a lot of new electrical machines. There is a Food Synthesizer, UU Matter, a Wireless Charger and more!</details> | [BukkitDev](https://dev.bukkit.org/projects/slimexpansion_v1-0)</details> | [Github](https://github.com/J3fftw1/slimexpansion) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/SlimeXpansion/master/)
 SoundMuffler | J3fftw1 | <details><summary>Click to expand</summary>This Addon adds a machine which has the ability to muffle sound.</details> | N/A | [Github](https://github.com/J3fftw1/SoundMuffler/) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/SoundMuffler/master/)
 SlimeScrap | John000708 | <details><summary>Click to expand</summary>This addon allows you to break down machines and other items into their components - useful for recycling old items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimescrap) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimescrap/files)
 SlimeCalculator | John000708 | <details><summary>Click to expand</summary>This Addon gives you the ability to calculate the resources needed to craft Slimefun items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator/files)
+ClayTech | ClayCoffee | <details><summary>Click to expand</summary>This Addon adds some weapons, armors, decoration, machines and diffrent kinds of food & drinks. It also improved Vanilla game experience with items like the High Speed Rail.</details> | N/A | [GitHub](https://github.com/ClayCoffee/ClayTech) | [Releases](https://github.com/ClayCoffee/ClayTech/releases)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
 
-Name | Author(s) | Description | Info | GitHub | Download
+Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 EmeraldEnchants | TheBusyBiscuit | <details><summary>Click to expand</summary>EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter.</details> | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
 PlaceholderAPI | extended_clip, Glare | <details><summary>Click to expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
