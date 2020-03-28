@@ -202,7 +202,7 @@ CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Cate
 Category category = new Category(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
-SlimefunItemStack itemStack = new SlimefunitemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
+SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
 
 // A 3x3 shape representing our recipe
 ItemStack[] recipe = {
