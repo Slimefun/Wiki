@@ -18,5 +18,6 @@ You can click on the discord badge at the bottom of the page to join.
 1. [Setting up your project](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
 2. [Creating a new Addon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
 3. [Creating your first Item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
-4. Adding features to your Item
-5. (More to come...)
+4. *Adding features to your Item*
+   - [Performing actions on right-clicking a block or an item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
+   - Making an item radioactive or wither-proof
