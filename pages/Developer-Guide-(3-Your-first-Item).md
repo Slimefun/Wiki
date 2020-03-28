@@ -215,3 +215,5 @@ SlimefunItem sfItem = new SlimefunItem(category, itemStack, RecipeType.ENHANCED_
 sfItem.register(this);
 // Our item is now registered
 ```
+
+[**> Continue with Part 4a**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
