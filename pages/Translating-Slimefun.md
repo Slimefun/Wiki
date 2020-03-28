@@ -37,7 +37,7 @@ Contributions are very much welcome!
 | :heavy_check_mark: | English | `en` | 100% (Default) |
 | :heavy_check_mark: | [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | ![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg) |
 | :heavy_check_mark: | [French](https://gitlocalize.com/repo/3841/fr/src/main/resources/languages) | `fr` | ![gitlocalized](https://gitlocalize.com/repo/3841/fr/badge.svg) |
-| :x: | [Italian](https://gitlocalize.com/repo/3841/it/src/main/resources/languages) | `it` | ![gitlocalized](https://gitlocalize.com/repo/3841/it/badge.svg) |
+| :heavy_check_mark: | [Italian](https://gitlocalize.com/repo/3841/it/src/main/resources/languages) | `it` | ![gitlocalized](https://gitlocalize.com/repo/3841/it/badge.svg) |
 | :heavy_check_mark: | [Spanish](https://gitlocalize.com/repo/3841/es/src/main/resources/languages) | `es` | ![gitlocalized](https://gitlocalize.com/repo/3841/es/badge.svg) |
 | :x: | [Polish](https://gitlocalize.com/repo/3841/pl/src/main/resources/languages) | `pl` | ![gitlocalized](https://gitlocalize.com/repo/3841/pl/badge.svg) |
 | :heavy_check_mark: | [Swedish](https://gitlocalize.com/repo/3841/sv/src/main/resources/languages) | `sv` | ![gitlocalized](https://gitlocalize.com/repo/3841/sv/badge.svg) |
@@ -67,7 +67,7 @@ Contributions are very much welcome!
 | :x: | [Thai](https://gitlocalize.com/repo/3841/th/src/main/resources/languages) | `th` | ![gitlocalized](https://gitlocalize.com/repo/3841/th/badge.svg) |
 | :x: | [Romanian](https://gitlocalize.com/repo/3841/ro/src/main/resources/languages) | `ro` | ![gitlocalized](https://gitlocalize.com/repo/3841/ro/badge.svg) |
 | :x: | [Bulgarian](https://gitlocalize.com/repo/3841/bg/src/main/resources/languages) | `bg` | ![gitlocalized](https://gitlocalize.com/repo/3841/bg/badge.svg) |
-| :x: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
+| :heavy_check_mark: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
 | :x: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
 
 ### You want to help us translate?
