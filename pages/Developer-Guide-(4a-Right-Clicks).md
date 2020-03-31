@@ -306,3 +306,5 @@ public class FireCake extends SlimefunItem {
 Phew, now we have shown you how to make your custom slimefun item perform actions on right-click.<br>
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.<br>
 I hope this was helpful to you and I expect to see lots of awesome addons very soon!
+
+[**> Continue with Part 4b**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
