@@ -35,6 +35,7 @@ SoundMuffler | J3fftw1 | <details><summary>Click to expand</summary>This Addon a
 SlimeScrap | John000708 | <details><summary>Click to expand</summary>This addon allows you to break down machines and other items into their components - useful for recycling old items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimescrap) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimescrap/files)
 SlimeCalculator | John000708 | <details><summary>Click to expand</summary>This Addon gives you the ability to calculate the resources needed to craft Slimefun items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator/files)
 ClayTech | ClayCoffee | <details><summary>Click to expand</summary>This Addon adds some weapons, armors, decoration, machines and diffrent kinds of food & drinks. It also improved Vanilla game experience with items like the High Speed Rail.</details> | N/A | [GitHub](https://github.com/ClayCoffee/ClayTech) | [Releases](https://github.com/ClayCoffee/ClayTech/releases)
+ExtraTools | Sfiguz | <details><summary>Click to expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
