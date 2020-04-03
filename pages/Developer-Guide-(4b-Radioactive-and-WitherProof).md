@@ -290,3 +290,5 @@ So at the end of the day we have made a Cake that...
 
 I think that is a pretty cool item, given that it is a little... strange and unusual.<br>
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
+
+[**> Continue with Part 5**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(5-Researches))
