@@ -150,3 +150,5 @@ research.register();
 We now have an awesome fire cake and a Research to go with it.<br>
 Players will now be required to unlock this cake before they can access it.<br>
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
+
+[**> Continue with Part 6**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
