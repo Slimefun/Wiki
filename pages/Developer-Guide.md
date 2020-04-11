@@ -23,6 +23,7 @@ You can click on the discord badge at the bottom of the page to join.
    - [Making an item radioactive or wither-proof](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
 5. [Adding your own Research](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(5-Researches))
 6. [Custom heads](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
-7. *Creating electric machines*
+7. [Adding resources to the GEO Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
+8. *Creating electric machines*
    - Creating a simple input/output machine with recipes (soon)
    - Creating your own Generator (soon)
