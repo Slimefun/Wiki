@@ -168,3 +168,5 @@ research.register();
 ```
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
+
+[**> Continue with Part 7**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
