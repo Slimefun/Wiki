@@ -25,9 +25,9 @@ N/A = Not applicable
 | LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A |
 | PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | PreciousStones | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| RedProtect | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| RedProtect | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
 | Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: |
-| WorldGuard | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
+| WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ### You cannot see your protection plugin?
 Either the plugin offers no integration, support for it hasn't been added by the author of that plugin or it is actually supported.<br>
