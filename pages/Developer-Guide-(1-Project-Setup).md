@@ -13,7 +13,7 @@ Once you have installed everything successfully, continue with Step 2.
 ## 2. Create a new GitHub Repository
 You will need a GitHub Account for this step.
 We made a nifty Repository-template for Slimefun Addons for you.<br>
-Go to the [Repository template](https://github.com/TheBusyBiscuit/Slimefun4-Addon) and click the bright green button on the right side that says "Use this template".
+Go to the [Repository template](https://github.com/Slimefun/Addon-Template) and click the bright green button on the right side that says "Use this template".
 You will then be prompted to come up with a name and description for your Addon.<br>
 When you are finished just click "Create repository from template".
 
