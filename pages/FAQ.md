@@ -1,5 +1,5 @@
 ## Where can I download Slimefun or Addons?
-You can download and install Slimefun you can refer to [this guide here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).  
+To download and install Slimefun you can refer to [this guide here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).  
 You can find Addons which you may want to [download here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) and then install these just like you did with Slimefun, putting them in the `/plugins` folder.
 
 ## I have an error/bug with Slimefun
