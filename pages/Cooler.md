@@ -1,4 +1,5 @@
-The Cooler is an [Item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items) that has a unique use.
+The Cooler is an [Item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Items) that has a unique use.<br>
+It allows you to carry Juices and automatically consume them when your Player gets hungry.
 
 ## Obtaining
 The Cooler can be crafted in the [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
