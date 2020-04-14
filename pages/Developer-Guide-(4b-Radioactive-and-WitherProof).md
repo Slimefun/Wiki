@@ -95,7 +95,7 @@ This method expects us to return a value of the type `Radioactivity`.
 `Radioactivity` is an enum. Enums (or "Enumerations") are a type of class that cannot be created that easily.<br>
 An enum has a limited amount of possible states and each state is saved as a constant, accessible via `EnumName.CONSTANT_NAME`.
 
-You can see all constants from that enum on our [JavaDocs](https://thebusybiscuit.github.io/Slimefun4/io/github/thebusybiscuit/slimefun4/core/attributes/Radioactivity.html).
+You can see all constants from that enum on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/core/attributes/Radioactivity.html).
 
 We are just gonna choose the level HIGH for now. We can simply return that constant.
 ```java
@@ -177,7 +177,7 @@ Now our item will have the appropriate tooltips.
 The process for implementing any `ÌtemAttribute` is pretty much the same.<br>
 It is always recommended to inform the user of these attributes via the `LoreBuilder` class or manually.
 
-You can find a full list of all available Item Attributes on the [JavaDocs](https://thebusybiscuit.github.io/Slimefun4/io/github/thebusybiscuit/slimefun4/core/attributes/ItemAttribute.html) under **"All Known Subinterfaces"**.
+You can find a full list of all available Item Attributes on the [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/core/attributes/ItemAttribute.html) under **"All Known Subinterfaces"**.
 
 As a little bonus, let's implement the "WitherProof" attribute.<br>
 This attribute will prevent Withers from destroying our block.<br>
