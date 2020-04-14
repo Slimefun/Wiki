@@ -5,10 +5,10 @@ Awesome! Here is a step-by-step tutorial on how to create/edit pages on the wiki
 You will need to be logged into your GitHub Account for this and for all of the following steps.<br>
 You can create a new Account [here](https://github.com/join) if you don't have an account already.
 
-Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/TheBusyBiscuit/Slimefun4-Wiki).<br>
+Alright, first you need to head over to [this Wiki's GitHub repository](https://github.com/Slimefun/Slimefun-Wiki/).<br>
 After that you just have to hit the "Fork" button in top right corner and you are done for Step number one.
 
-![GitHub Fork Button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-fork.png)
+![GitHub Fork Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-fork.png)
 
 ## Step 2: Making your changes
 Now that you have a fork of our wiki, you can start making your changes to it. <br>
@@ -18,10 +18,10 @@ Now you can choose whether you want to create a new File or edit an existing Fil
 
 ### 2.1 Creating a new page
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
-![Pages directory](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-pages.png)
+![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
 
 Now click on the button "Create new File".
-![New File Button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-new-file.png)
+![New File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-new-file.png)
 
 File names have to follow the following conditions:
 * File names need to end with ".md"
@@ -38,11 +38,11 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 ### 2.2 Editing existing pages
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
-![Pages directory](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-pages.png)
+![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
 
 Now open up any of the ".md" files you see in that folder.<br>
 To edit this page, simply click on the "edit"-icon.
-![Edit File Button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-edit.png)
+![Edit File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-edit.png)
 
 Now you can edit that page's content.<br>
 The pages are written in GitHub's markdown language, the syntax is pretty easy, you can always consult [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) if you need help.<br>
@@ -52,10 +52,10 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 ### 2.3 Uploading images
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "images".
-![Images directory](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-images.png)
+![Images directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-images.png)
 
 Now click on the button "Upload files".
-![Upload files button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-upload-image.png)
+![Upload files button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-upload-image.png)
 
 Make sure that all your images use the PNG image format and have proper names.
 The names should be in lower case, contain no spaces and use hyphons to seperate words.
@@ -63,7 +63,7 @@ Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-app
 
 Drag and drop the images you want to upload onto the grey area and hit "Commit changes".<br>
 Now you can use your image in any page using the following code snippet:<br>
-```![image label](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/FILE_NAME)```<br>
+```![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/FILE_NAME)```<br>
 Replace FILE_NAME with the name of your file (e.g. "enhanced-crafting-table.png") and give the name a short description in the "image label" field.
 
 ## Step 3: General Guidelines (Dos and Don'ts)
@@ -93,10 +93,10 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 
 ## Step 4: Making a Pull Request
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
-![Pull Requests Tab](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-pr-tab.png)
+![Pull Requests Tab](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-tab.png)
 
 Now all you have to do is click on the bright green button that says "New pull request".
-![New Pull Request Button](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/github-tutorial-pr-button.png)
+![New Pull Request Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-button.png)
 
 Then click on the next "New pull request" button and fill out the description for your pull request.<br>
 Please use and follow our template.
