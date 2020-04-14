@@ -1,5 +1,5 @@
-Want to spice up your Slimefun4-Server?
-Then you have come to the right place!
+Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
+Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ## Official Addons
 These Addons were developed closely to Slimefun.<br>
@@ -25,14 +25,13 @@ MobCapturer | TheBusyBiscuit | <details><summary>expand</summary>This Addon adds
 
 ## Third-Party Addons
 These Addons come from Third-Party developers.
-We cannot provide support for these on our Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
+We cannot provide support for these on our official Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
 If you encounter problems with these, contact the respective developer, not us.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 SlimeXpansion | J3fftw1, John000708 | <details><summary>expand</summary>This Addon - which is inspired by the mod Industrialcraft - adds a lot of new electrical machines. There is a Food Synthesizer, UU Matter, a Wireless Charger and more!</details> | [BukkitDev](https://dev.bukkit.org/projects/slimexpansion_v1-0)</details> | [Github](https://github.com/J3fftw1/slimexpansion) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/SlimeXpansion/master/)
 SoundMuffler | J3fftw1 | <details><summary>expand</summary>This Addon adds a machine which has the ability to muffle sound.</details> | N/A | [Github](https://github.com/J3fftw1/SoundMuffler/) | [Builds](https://thebusybiscuit.github.io/builds/J3fftw1/SoundMuffler/master/)
-SlimeScrap | John000708 | <details><summary>expand</summary>This addon allows you to break down machines and other items into their components - useful for recycling old items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimescrap) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimescrap/files)
 SlimeCalculator | John000708 | <details><summary>expand</summary>This Addon gives you the ability to calculate the resources needed to craft Slimefun items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator/files)
 ClayTech | ClayCoffee | <details><summary>expand</summary>This Addon adds some weapons, armors, decoration, machines and diffrent kinds of food & drinks. It also improved Vanilla game experience with items like the High Speed Rail.</details> | N/A | [GitHub](https://github.com/ClayCoffee/ClayTech) | [Releases](https://github.com/ClayCoffee/ClayTech/releases)
 ExtraTools | Sfiguz | <details><summary>expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
@@ -45,6 +44,13 @@ Name | Author(s) | Description | More info | Source Code | Download
 EmeraldEnchants | TheBusyBiscuit | <details><summary>expand</summary>EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter.</details> | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
 PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 WhatIsThis | steve4744 | <details><summary>expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at. Later versions also support this feature for Slimefun blocks.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
+
+## Addon Jams
+In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord server.<br>
+We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
+Here is a list of all Addon Jams that have been hosted so far:
+
+1. [Addon Jam 2020](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addon-Jam-2020)
 
 ### Creating your own Addons?
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).
