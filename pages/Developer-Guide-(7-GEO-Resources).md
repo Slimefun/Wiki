@@ -92,7 +92,7 @@ public class EnderOreResource implements GEOResource {
 ```
 
 Your IDE will probably start warning you about missing methods at this point.<br>
-Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://thebusybiscuit.github.io/Slimefun4/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html).
+Whenever you implement an interface you will also have to implement its methods. You can see all methods from GEOResource on our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/geo/GEOResource.html).
 We are gonna start simple, the first method we need to implement is `getName()`, so we implement that method and return the name of our resource.
 
 ```java
