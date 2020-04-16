@@ -1,6 +1,11 @@
 ## Where can I download Slimefun or Addons?
 To download and install Slimefun you can refer to [this guide here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).  
-You can find Addons which you may want to [download here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) and then install these just like you did with Slimefun, putting them in the `/plugins` folder.
+You can find Addons for Slimefun4 on our ["Addons" - page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons).<br>
+You can install these just like you did with Slimefun, putting them in the `/plugins/` folder of your Server.
+
+## Can I install Slimefun on a Singleplayer world?
+No.<br>
+Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
 
 ## I have an error/bug with Slimefun
 Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if you aren't in it already and go to `#bug-discussions`. We need to determine if it is a bug, user error or intended behaviour.
