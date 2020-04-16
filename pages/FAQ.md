@@ -26,7 +26,7 @@ No.<br>
 Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
 
 ## I have an error/bug with Slimefun
-Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if you aren't in it already and go to `#bug-discussions`. We need to determine if it is a bug, user error or intended behaviour.
+Ok, first things first, join our [Support Server](https://discord.gg/fsD4Bkh) if you aren't in it already and go to `#bug-discussions`. We need to determine if it is a bug, user error or intended behaviour. Note that we **do not accept bug reports on discord, only on GitHub**. But experience has shown that 9 of 10 "bugs" tend to be the result of really outdated plugin versions or similar, so please try to discuss these issues with others on our discord server first, so that developers can focus on confirmed bug reports.
 
 Now, send us the following information (in the `#bug-discussions` channel):
 1. Run /sf versions and send us a screenshot. We need the exact versions you are using, otherwise, we will not be able to help you.
