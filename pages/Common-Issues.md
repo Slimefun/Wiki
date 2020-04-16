@@ -19,6 +19,8 @@ Most of the following will require varying degrees of permission only staff memb
 Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager).<br>
 These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
+_Note: make sure this isn't due to a ghost block (check "Unplaceable Blocks")!_
+
 ### How to fix this (Stage 1)
 Remove any regulators/managers below the floating tag, then stand close to it and run this as operator:
 >/execute as <your_name> at @s run execute as @e[type=armor_stand,nbt={Invisible:1b},distance=..3] run data merge entity @s {Invisible:0}
@@ -35,23 +37,30 @@ You should see the invisible armor stand and better gauge where the feet are; us
 The regulator will try to place its own armor stand which will replace the corrupt ones and behave normally: you should now be able to remove the regulator you've just placed, removing all tags.
 
 ### How to fix this (Stage 3)
-Use WorldEdit to select the 3-4 blocks you need cleared (the 2 occupied by the armor stand, one above and one below; feel free to make the selection larger if needed) and then execute:
->//set 0
+If the hologram keeps respawning you're very likely to be dealing with a ghost block like the ones dealt with under Unplaceable blocks, with the only difference it's also spawning a hologram because it's one of the items listed up top.
+Simply follow the procedure to get rid of any ghost block and you should be golden.
 
 ## Unplaceable blocks
 If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
 
-_Note: make sure this isn't due to an invisible armor stand (check "Floating Tags")!_
-
-### How to fix this
-Use WorldEdit to select the block's surroundings and execute:
->//set stone
-
-It doesn't matter how big of an area you change as long as the incriminated location becomes a solid block.
-Run the following as operator:
+### How to fix this (Isolated block)
+Get a debug fish by running the following as operator:
 >/sf debug_fish
 
-Shift left click the block. An animation of the block being broken and the event being canceled should be seen and you'll get a message in chat. This will remove whatever Slimefun data is still linked to the location.
+_(Optional): Use the shift right click function to place a dummy head where the ghost block is and try to punch it out: if a Slimefun head drops you're sure to have a ghost block (the opposite is not necessarily true as the ghost Slimefun item could've been a full block and not a head, it's less likely though and just good to get a confirmation if possible)._
+
+Shift right click to place a dummy head, then shift left click it: an animation of the head being broken and the event being canceled should be seen and you'll get a message in chat; this will remove whatever data is still linked to the location.
+
+Punch out the dummy head.
+
+### How to fix this (Cluster of blocks)
+This is very similar to the procedure for isolated blocks: in this case instead of placing all the dummy heads one by one you can run WorldEdit commands to speed up the placing process.
+
+Use WorldEdit to select the cluster of blocks and its surroundings and execute:
+>//set stone
+
+As per the isolated blocks procedure, shift right click all the incriminated spots to remove any data they may retain.
+
 Remove the stone by executing:
 >//undo
 
