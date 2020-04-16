@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Where can I download Slimefun or Addons?](#where-can-i-download-slimefun-or-addons)
+- [How can I download / install Slimefun or its Addons?](#how-can-i-download--install-slimefun-or-its-addons)
 - [Can I install Slimefun on a Singleplayer world?](#can-i-install-slimefun-on-a-singleplayer-world)
 - [I have an error/bug with Slimefun](#i-have-an-errorbug-with-slimefun)
 - [What's the difference between the talisman and ender talisman?](#whats-the-difference-between-the-talisman-and-ender-talisman)
