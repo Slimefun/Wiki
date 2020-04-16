@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Table of Contents](#table-of-contents)
+  - [Floating tags](#floating-tags)
+    - [How to fix this (Stage 1)](#how-to-fix-this-stage-1)
+    - [How to fix this (Stage 2)](#how-to-fix-this-stage-2)
+    - [How to fix this (Stage 3)](#how-to-fix-this-stage-3)
+  - [Unplaceable blocks](#unplaceable-blocks)
+    - [How to fix this](#how-to-fix-this)
+  - [Circuit Boards not dropping](#circuit-boards-not-dropping)
+    - [How to fix this (Stage 1)](#how-to-fix-this-stage-1-1)
+    - [How to fix this (Stage 2)](#how-to-fix-this-stage-2-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 This page contains useful information about common in game issues and how to resolve them.<br>
 Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
 
