@@ -20,6 +20,10 @@ Once you've sent us all this info then one of our staff or a community member wi
 ## What's the difference between the talisman and ender talisman?
 The Ender Talismans work even while in the Ender Chest however the normal [Talismans](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Talismans) requires for it to be in your inventory.
 
+## Can you stack Talismans?
+Talismans by themselves are stackable items but having more than one Talisman of the same type will not increase their effects.<br>
+However, some Talismans get consumed when you use them, so having multiple of these handy will last you longer obviously.
+
 ## What can I do with stone chunks?
 4 Stone Chunks can be put into the [Compressor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Compressor) to craft one cobblestone.
 
