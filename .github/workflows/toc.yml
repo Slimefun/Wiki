@@ -22,3 +22,4 @@ jobs:
           COMMIT_NAME: 'TheBusyBot'
           FOLDING: true
           CREATE_PR: false
+          MAX_HEADER_LEVEL: 2
