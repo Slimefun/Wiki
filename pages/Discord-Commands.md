@@ -14,6 +14,7 @@ Here is a full list:
 | Command | Description | Example |
 | ------- | ----------- | ------- |
 | `!wiki <page>` | Gives you a direct link to the wiki page you are referring to. | `!wiki Discord Rules` |
+| `!item <item>` | Gives you some information about an Item from Slimefun, including its recipe. | `!item Steel Ingot` |
 | `!latest [project]` | Retrieves the latest version of one of our projects and also gives you a direct download link. | `!latest Slimefun4`  |
 | `!latex <input>` | Parses a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) input and formats it as a nice formula. | `!latex f(x) = x^2` |
 | `!helpful` | Assigns yourself our `@Helpful` role. This role gives others the explicit permission to tag you if they have a question. | `!helpful` |
