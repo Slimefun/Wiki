@@ -1,21 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [How can I download / install Slimefun or its Addons?](#how-can-i-download--install-slimefun-or-its-addons)
-- [Can I install Slimefun on a Singleplayer world?](#can-i-install-slimefun-on-a-singleplayer-world)
-- [I have an error/bug with Slimefun](#i-have-an-errorbug-with-slimefun)
-- [What's the difference between the talisman and ender talisman?](#whats-the-difference-between-the-talisman-and-ender-talisman)
-- [Can you stack Talismans?](#can-you-stack-talismans)
-- [What can I do with stone chunks?](#what-can-i-do-with-stone-chunks)
-- [How do I disable items per-world?](#how-do-i-disable-items-per-world)
-- [How much RAM does Slimefun use?](#how-much-ram-does-slimefun-use)
-- [How does XYZ work?](#how-does-xyz-work)
-- [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
-- [Is it Slimefun or SlimeFun](#is-it-slimefun-or-slimefun)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## How can I download / install Slimefun or its Addons?
 To download and install Slimefun you can refer to [this guide here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).  
 You can find Addons for Slimefun4 on our ["Addons" - page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons).<br>
