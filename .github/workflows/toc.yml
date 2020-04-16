@@ -20,5 +20,5 @@ jobs:
           TOC_TITLE: '**Table of Contents**'
           COMMIT_MESSAGE: 'Updated Table of Contents'
           COMMIT_NAME: 'TheBusyBot'
-          FOLDABLE: true
+          FOLDING: true
           CREATE_PR: false
