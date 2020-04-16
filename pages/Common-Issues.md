@@ -1,6 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
 - [Table of Contents](#table-of-contents)
   - [Floating tags](#floating-tags)
@@ -13,6 +14,7 @@
     - [How to fix this (Stage 1)](#how-to-fix-this-stage-1-1)
     - [How to fix this (Stage 2)](#how-to-fix-this-stage-2-1)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 This page contains useful information about common in game issues and how to resolve them.<br>
