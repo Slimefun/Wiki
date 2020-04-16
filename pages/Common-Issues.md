@@ -3,16 +3,9 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Table of Contents](#table-of-contents)
-  - [Floating tags](#floating-tags)
-    - [How to fix this (Stage 1)](#how-to-fix-this-stage-1)
-    - [How to fix this (Stage 2)](#how-to-fix-this-stage-2)
-    - [How to fix this (Stage 3)](#how-to-fix-this-stage-3)
-  - [Unplaceable blocks](#unplaceable-blocks)
-    - [How to fix this](#how-to-fix-this)
-  - [Circuit Boards not dropping](#circuit-boards-not-dropping)
-    - [How to fix this (Stage 1)](#how-to-fix-this-stage-1-1)
-    - [How to fix this (Stage 2)](#how-to-fix-this-stage-2-1)
+- [Floating tags](#floating-tags)
+- [Unplaceable blocks](#unplaceable-blocks)
+- [Circuit Boards not dropping](#circuit-boards-not-dropping)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
