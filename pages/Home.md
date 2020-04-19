@@ -7,6 +7,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [How to install Slimefun](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun)
 * [Addons for Slimefun 4](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons)
 * [Getting Started](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started)
+* [Permissions](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Permissions) & [Commands](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Commands)
 * [Help us expand the Wiki!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
 * [Help us translate Slimefun!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Translating-Slimefun)
 * [Frequently Asked Questions (FAQ)](https://github.com/TheBusyBiscuit/Slimefun4/wiki/FAQ)
