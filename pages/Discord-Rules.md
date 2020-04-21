@@ -12,7 +12,7 @@ You must be at least 13 years old to use Discord and to interact with our discor
 
 ### 1. No Harassment
 Do not harass or insult other users.<br>
-Feel free to swear as long as you don't insult people to purposefully hurt them.
+Swearing won't be punished as long as you don't insult people to purposefully hurt them.
 
 ### 2. No Discrimination
 No racism, no sexism, no discrimination of any kind!
@@ -26,54 +26,53 @@ We may ban you for inappropriate profile pictures or custom statuses.
 ### 4. Don't argue with members of staff
 If we tell you to stop something, stop it.<br>
 You should have read these rules before-hand, you can feel free to ask a question about these rules if they are unclear.<br>
-But arguing with our staff will be a waste of time.
+But arguing with our staff will be a waste of time, they are there to enforce the rules, not to argue about them.
 
 ### 5. Stay on-topic!
 Every channel has a specified topic.
 * Questions about Slimefun? `#questions`
 * You have a suggestion? `#suggestions`
+* Wanna promote your Slimefun server? `#server-showcase`
 * You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or `#other-addons`
 * Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions`
-* For any conversations unrelated to Slimefun, go to `#offtopic`
+* For any conversations that are not directly related to Slimefun, go to `#offtopic`
 
 ### 6. Don't tag people
 Do **NOT** tag someone to just to get their attention.<br>
 Even more important: Do **NOT** tag members of staff just to draw their attention...<br>
 You shouldn't directly message a member of staff either unless they explicitly told you to.<br>
-Our Staff is not your personal 24/7 support hotline, they have better things to do.
+The job of our staff members is to enforce these rules and keep the server clean and friendly, not to answer every single question you have about why something isn't working or how something works.<br>
+**TL;DR:** Our Staff is not your personal 24/7 support hotline, they have better things to do.
 
-If you are in a crowded conversation and it wouldn't be clear who you are responding to, then you may tag someone to clarify that you're replying to that person.
-
-Tagging entire groups of people (`@everyone`, `@here`, `@admin`, etc...) is **STRICTLY PROHIBITED**.<br>
-We may tag everyone on the Server for important announcements though, we try to keep that to a minimum though.
-
-The **only exception** to this rule is the role `@helpful`, when asking a question in `#questions`, then you are allowed to tag `@helpful`, as long as you don't abuse it.<br>
+The **only exception** to this rule is the role `@helpful`, when asking a question in `#questions`, you are allowed to tag `@helpful` if the question is very urgent, as long as you don't abuse it.<br>
 Tag this group once in your question but only once, follow-up messages should **NOT** contain any tags at all.<br>
 You can assign yourself the role `@helpful` by writing `!helpful`.<br>
 This will mark you as a helpful person but also gives everyone the explicit permission to tag you when they need help, so be warned.
 
 ### 7. No Spam
 Do **NOT** spam messages.<br>
-Write one proper message instead of a dozen short ones.<br>
-Excessive use of caps is also not allowed.
+* Post your message once in one channel, don't spam it across multiple channels.
+* Write one proper message instead of a dozen short ones.
+* Excessive use of caps is also not allowed.
 
 ### 8. No Advertisement
 You are **NOT** allowed to advertise products on this discord server.<br>
-You are **NOT** allowed to post links to other discord servers.<br>
+You are **NOT** allowed to post invitation links to other discord servers.<br>
 You are **NOT** allowed to promote a fundraising campaign or any other means to collect money.<br>
-Raising awareness for charity or non-profit-organizations is allowed if approved by an Admin.
+Raising awareness for charity or non-profit-organizations is allowed **if approved by an Admin**, please inform us before you post such things.
 
 Advertising Minecraft Servers is allowed, but **ONLY** in `#server-showcase`<br>
 IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
 ### 9. English Only
-Please speak English on our discord, as that is the main language of this plugin.
+Please speak English on our discord, as that is the main language of this plugin.<br>
+We are not fluent in dozens of different languages, so we will just stick with English to ensure everybody is on the same page.
 
 ### 10. Sensitive topics
 Hard and sensitive topics should be kept away from our main channels.<br>
 Sensitive topics that are considered mature or could spark a lot of controversies should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
 We do not encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
-If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.<br>
+If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.
 
 ### 11. Other
 The staff at their own discretion if there be a need can take appropriate action. 
