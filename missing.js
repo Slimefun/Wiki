@@ -1,15 +1,15 @@
 const fs = require('fs');
 const http = require("https");
 
-const url = "https://github.com/TheBusyBiscuit/Slimefun4/wiki/";
-const regex = /\(https:\/\/github\.com\/TheBusyBiscuit\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
+const url = "https://github.com/Slimefun/Slimefun/wiki/";
+const regex = /\(https:\/\/github\.com\/Slimefun\/Slimefun\/wiki\/[A-Za-z-]+\)/g;
 
 const options = {
     method: "PATCH",
     hostname: "api.github.com",
-    path: "/repos/TheBusyBiscuit/Slimefun4-wiki/issues/2",
+    path: "/repos/Slimefun/Slimefun-wiki/issues/2",
     headers: {
-        "User-Agent": "Slimefun4-wiki Action",
+        "User-Agent": "Slimefun-wiki Action",
         "authorization": "token " + process.env.ACCESS_TOKEN,
         "content-type": "application/x-www-form-urlencoded"
     }
@@ -59,7 +59,7 @@ fs.promises.readdir("pages").then((files) => {
         }
 
         content += "\nIt would be really nice if someone added them and made a Pull Request.\n";
-        content += "https://github.com/TheBusyBiscuit/Slimefun4-Wiki/pulls";
+        content += "https://github.com/Slimefun/Slimefun-Wiki/pulls";
 
         request.write(JSON.stringify({
             title: "Missing Pages: " + missing.length,
