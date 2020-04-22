@@ -119,7 +119,7 @@ https://github.com/TweepCoding/New-Begginings
 * Mythril is almost impossible to find and the code behind it is really not good at all.
 * Some items are way too overpowered
 * The code is quite inefficient, especially because you perform up to 4 map operations that could have all been reduced to one
-* Lack of a README file
+* Lack of a README file, _just pointing it out there, the README was not subject to the review_
 * Some formatting errors
 * Lots of hardcoded values, such as world names
 * You should always declare constants as "final", especially your collections in MainListener which shouldn't be static btw
