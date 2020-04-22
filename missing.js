@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require("https");
 
-const url = "https://github.com/Slimefun/Slimefun/wiki/";
+const url = "https://github.com/Slimefun/Slimefun-wiki/";
 const regex = /\(https:\/\/github\.com\/TheBusyBiscuit\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
 
 const options = {
@@ -59,7 +59,7 @@ fs.promises.readdir("pages").then((files) => {
         }
 
         content += "\nIt would be really nice if someone added them and made a Pull Request.\n";
-        content += "https://github.com/Slimefun/Slimefun-Wiki/pulls";
+        content += url + "pulls";
 
         request.write(JSON.stringify({
             title: "Missing Pages: " + missing.length,
