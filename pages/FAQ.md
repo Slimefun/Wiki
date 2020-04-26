@@ -13,6 +13,7 @@
 - [How much RAM does Slimefun use?](#how-much-ram-does-slimefun-use)
 - [How does XYZ work?](#how-does-xyz-work)
 - [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
+- [Can I enchant Slimefun items?](#can-i-enchant-slimefun-items)
 - [Is it Slimefun or SlimeFun](#is-it-slimefun-or-slimefun)
 
 </details>
