@@ -36,6 +36,7 @@ SoundMuffler | J3fftw1 | <details><summary>expand</summary>This Addon adds a mac
 SlimeCalculator | John000708 | <details><summary>expand</summary>This Addon gives you the ability to calculate the resources needed to craft Slimefun items.</details> | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator) | N/A | [BukkitDev](https://dev.bukkit.org/projects/slimecalculator/files)
 ClayTech | ClayCoffee | <details><summary>expand</summary>This Addon adds some weapons, armors, decoration, machines and diffrent kinds of food & drinks. It also improved Vanilla game experience with items like the High Speed Rail.</details> | N/A | [GitHub](https://github.com/ClayCoffee/ClayTech) | [Releases](https://github.com/ClayCoffee/ClayTech/releases)
 ExtraTools | Sfiguz | <details><summary>expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
+TranscEndence | Sfiguz | <details><summary>expand</summary>This Addon adds tools to get permanent potion effects via a quantum physics-like experience. It was submitted as an entry to the 2020 Slimefun Addon Jam.</details> | N/A | [GitHub](https://github.com/Sfiguz7/TranscEndence) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/TranscEndence/master/)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
