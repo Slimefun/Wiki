@@ -69,6 +69,10 @@ Contributions are very much welcome!
 | :x: | [Bulgarian](https://gitlocalize.com/repo/3841/bg/src/main/resources/languages) | `bg` | ![gitlocalized](https://gitlocalize.com/repo/3841/bg/badge.svg) |
 | :heavy_check_mark: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
 | :x: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
+| :x: | [Macedonian](https://gitlocalize.com/repo/3841/mk/src/main/resources/languages) | `mk` | ![gitlocalized](https://gitlocalize.com/repo/3841/mk/badge.svg) |
+| :x: | [Serbian](https://gitlocalize.com/repo/3841/sr/src/main/resources/languages) | `sr` | ![gitlocalized](https://gitlocalize.com/repo/3841/sr/badge.svg) |
+| :x: | [Croatian](https://gitlocalize.com/repo/3841/hr/src/main/resources/languages) | `hr` | ![gitlocalized](https://gitlocalize.com/repo/3841/hr/badge.svg) |
+| :x: | [Belarusian](https://gitlocalize.com/repo/3841/be/src/main/resources/languages) | `be` | ![gitlocalized](https://gitlocalize.com/repo/3841/be/badge.svg) |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
