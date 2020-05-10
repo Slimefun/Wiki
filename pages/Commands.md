@@ -27,3 +27,4 @@ But for simplicity, we will list commands as /sf.
 | /sf teleporter (Player) | Shows you a specific Player's GPS Waypoints and allows you to teleport to them | slimefun.command.teleporter |
 | /sf timings | Shows you Slimefun's Diagnostics Tools, use it to identify the impact on your server from certain machines | slimefun.command.timings |
 | /sf debug_fish | Gives you a debugging tool. Use it to query or remove Slimefun Block Data | Requires to be OP |
+| /sf backpack (Player) (ID) | Gives you a restored backpack matching the parameters. Should only be used to retrieve the items | slimefun.command.backpack |
