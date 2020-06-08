@@ -18,3 +18,7 @@ It is also used in the following [alloys](https://github.com/TheBusyBiscuit/Slim
 * [Gilded Iron](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron)
 * [Nickel Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nickel-Ingot)
 * [Cobalt Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cobalt-Ingot)
+
+... and directly in creating other items:
+
+* [Magnet](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magnet)
