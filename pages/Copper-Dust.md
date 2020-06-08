@@ -16,4 +16,4 @@ It is also used in the following [alloys](https://github.com/TheBusyBiscuit/Slim
 * [Nickel Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nickel-Ingot)
 * [Cobalt Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cobalt-Ingot)
 
-Copper is one of the most used dusts in SlimeFun recipes, either as dust or as [Copper Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Copper-Ingot).
+Copper is one of the most used dusts in Slimefun recipes, either as dust or as [Copper Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Copper-Ingot).
