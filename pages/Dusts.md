@@ -11,6 +11,8 @@ Slimefun adds the following 9 dusts as [resources](https://github.com/TheBusyBis
 
 ## Obtaining
 Dusts can be obtained by processing [Sifted Ore](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Sifted-Ore) through an [Ore Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Dust-Washer).<br>
+There is an even chance of getting any kind of dust during the process (= ~11.11% chance).
+ 
 They can also be produced by crushing the corresponding [ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Metals) in an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer).
 
 ## Usage
