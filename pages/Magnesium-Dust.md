@@ -7,7 +7,7 @@ Magnesium Dust has a ~11.11% chance of being extracted from [Sifted Ore](https:/
 ## Usage
 Magnesium Dust can be smelted into [Magnesium Ingots](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magnesium-Ingot) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory).
 
-It is also  directly in creating other items:
+It is also directly used in creating other items:
 
 * [Magnesium Salt](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Magnesium-Salt)
 
