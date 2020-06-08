@@ -3,7 +3,7 @@ They are differentiated by their purity (measured in "carats"), with the lowest 
 
 ## Obtaining
 Smelting [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-carat Gold Ingot.<br>
-Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus a 11 [Gold Dust](https://github.com/TheBusyBiscuit/Gold-Dust) is needed to create a single 24-carat Gold Ingot. 
+Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](https://github.com/TheBusyBiscuit/Gold-Dust) is needed to create a single 24-carat Gold Ingot. 
 
 ## Usage
 Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
