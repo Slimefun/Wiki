@@ -19,9 +19,3 @@ It is also used in the following [alloys](https://github.com/TheBusyBiscuit/Slim
 * [Synthetic Emerald](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Synthetic-Emerald)
 
 Aluminum is one of the most used dusts in Slimefun recipes, either as dust or as [Aluminum Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Ingot).
-
-## Trivia
-
-* In real life, "aluminium ore/dust" is called "bauxite", which is high content aluminum rock.
-
-* Both "Aluminum" & "Aluminium" refers to the same chemical element - the former is mainly US/Canadian, the latter is British spelling. 
