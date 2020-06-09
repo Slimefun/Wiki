@@ -1,13 +1,12 @@
 
 ## Obtaining
-Smelting one [Lead Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) yields one Lead Ingot.<br>
+Smelting one [Lead Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lead-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) yields one Lead Ingot.<br>
 
 Lead Ingot can be turned back to [Lead Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Lead-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 
 ## Usage
 Lead Ingot is used in the following [alloys](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Smeltery):
 * [Solder Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Solder-Ingot)
-
 * [Aluminum Brass Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Brass-Ingot)
 * [Aluminum Bronze Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Bronze-Ingot)
 
