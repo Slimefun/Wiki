@@ -1,6 +1,6 @@
 
 ## Obtaining
-Smelting one [Silver Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Copper-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) yields one Silver Ingot.<br>
+Smelting one [Silver Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Silver-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) yields one Silver Ingot.<br>
 
 Silver Ingot can be turned back to [Silver Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Silver-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 
