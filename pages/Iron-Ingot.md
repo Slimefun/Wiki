@@ -4,7 +4,7 @@ Although they are not added by Slimefun, the plugin offers an additional way to 
 ## Obtaining
 You can produce Iron Ingots by smelting [Iron Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory).
 
-Iron Ingot can be turned back to [Iron Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
+Iron Ingots can be turned back to [Iron Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 
 ## Usage
 Besides their uses in the game's base recipes, Iron Ingots can be turned into [Iron Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Iron-Dust) by crushing them in an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer).

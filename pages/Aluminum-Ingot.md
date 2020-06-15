@@ -2,10 +2,10 @@
 ## Obtaining
 Smelting one [Aluminum Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Dust) in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory) yields one Aluminum Ingot.<br>
 
-Aluminum Ingot can be turned back to [Aluminum Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
+Aluminum Ingots can be turned back to [Aluminum Dust](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Dust) by an [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 
 ## Usage
-Aluminum Ingot is used in the following [alloys](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Smeltery):
+Aluminum Ingots are used in the following [alloys](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ingots#Alloys) for the [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or the [Electric Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Smeltery):
 * [Duralumin Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Duralumin-Ingot)
 * [Aluminum Brass Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Brass-Ingot)
 * [Aluminum Bronze Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Aluminum-Bronze-Ingot)
