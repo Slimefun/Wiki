@@ -5,6 +5,7 @@
 
 - [How can I download / install Slimefun or its Addons?](#how-can-i-download--install-slimefun-or-its-addons)
 - [Can I install Slimefun on a Singleplayer world?](#can-i-install-slimefun-on-a-singleplayer-world)
+- [Will Slimefun be available for Minecraft version XYZ?](#will-slimefun-be-available-for-minecraft-version-xyz)
 - [I have an error/bug with Slimefun](#i-have-an-errorbug-with-slimefun)
 - [What's the difference between the talisman and ender talisman?](#whats-the-difference-between-the-talisman-and-ender-talisman)
 - [Can you stack Talismans?](#can-you-stack-talismans)
