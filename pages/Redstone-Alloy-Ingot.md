@@ -1,7 +1,7 @@
 
 ## Obtaining
 
-Combining the following items in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Smeltery) yields one Hardened Redstone Alloy Ingot:
+Combining the following items in a [Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Smeltery) yields one Redstone Alloy Ingot:
 
 * 1 Redstone Dust
 * 1 Block of Redstone
