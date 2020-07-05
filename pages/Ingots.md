@@ -25,7 +25,7 @@ The following ingots are obtained by combining metals in a [Smeltery](https://gi
 * [Duralumin Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Duralumin-Ingot)
 * [Ferrosilicon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Ferrosilicon)
 * [Gilded Iron](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Gilded-Iron)
-* [Hardened Metal Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hardened-Metal-Ingot)
+* [Hardened Metal](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Hardened-Metal)
 * [Nickel Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Nickel-Ingot)
 * [Redstone Alloy Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Redstone-Alloy-Ingot)
 * [Reinforced Alloy Ingot](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Reinforced-Alloy-Ingot)

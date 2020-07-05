@@ -47,6 +47,7 @@ For more information on the individual items in this category, see the table of 
 * [Crop Growth Accelerator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Crop-Growth-Accelerator)
 * [EXP Collector](https://github.com/TheBusyBiscuit/Slimefun4/wiki/EXP-Collector)
 * [Electric Dust Washer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Dust-Washer)
+* [Electric Furnace](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Furnace)
 * [Electric Gold Pan](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Gold-Pan)
 * [Electric Ingot Factory](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Factory)
 * [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer)
