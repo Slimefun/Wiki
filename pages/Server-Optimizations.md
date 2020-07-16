@@ -74,7 +74,7 @@ options:
 ```
 
 ## 5. Slower Tick-rates
-Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks very 12 ticks (20 ticks = 1 second).<br>
+Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks every 12 ticks (20 ticks = 1 second).<br>
 You can increase this delay to slow down block-ticks which *might* help your server's performance. 
 However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
 
