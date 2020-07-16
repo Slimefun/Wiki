@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
+- [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
+- [3. Disabling backwards-compatibility](#3-disabling-backwards-compatibility)
+- [4. Slower Tick-rates](#4-slower-tick-rates)
+- [5. Limiting Cargo networks](#5-limiting-cargo-networks)
+- [6. Enabling Automatic updates](#6-enabling-automatic-updates)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 Slimefun is a really big plugin and therefore always raises questions about its performance.<br>
 The plugin has been around since 2013 and has received many alterations and optimizations over the years. But depending on how you use this plugin, performance might differ.
 
