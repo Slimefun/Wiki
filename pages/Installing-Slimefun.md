@@ -40,6 +40,9 @@ the ability to use all of Slimefun right off the bat.
 Any changes you make should be saved, then restart the server. Again, ***do not use /reload.*** If you are experiencing issues, and you issued a server reload,
 just stop and restart the server, since this fixes most issues.
 
+### Server Optimization
+Here is a full article on how to [Optimize your Slimefun Server](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Server-Optimizations)
+
 # Additional Addons
 If you wish to install additional addons, refer to [this page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
