@@ -45,7 +45,13 @@ PaperMC has proven itself to have slightly better performance than Spigot and al
 But there are countless other forks of Bukkit/Spigot out there which claim to improve performance.
 We suggest you to look into these yourself and make your own choice.
 
-## 3. Disabling backwards-compatibility
+## 3. Avoiding /reload
+**Do not use `/reload`. Ever.**<br>
+Whenever you add a new plugin or edit a config file, restart your Server. Using `/reload` can cause huge [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) that negatively impact your Server's performance. `/reload` is not safe to use and you should avoid it at all costs.
+
+A lot of plugins are not meant to deal with reloads and Slimefun is one of them, you should always restart your server instead.
+
+## 4. Disabling backwards-compatibility
 Slimefun has been around for a long time and there have been many Servers who use it since years.<br>
 Any Server that has used Slimefun **before summer 2019** will have a bunch of old Slimefun Items which still use an old Item format which is slow and inefficient.
 The old format relied on lengthy Item comparisons and lookups. 
@@ -66,7 +72,7 @@ options:
   backwards-compatibility: false
 ```
 
-## 4. Slower Tick-rates
+## 5. Slower Tick-rates
 Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks very 12 ticks (20 ticks = 1 second).<br>
 You can increase this delay to slow down block-ticks which *might* help your server's performance. 
 However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
@@ -85,7 +91,7 @@ options:
   armor-update-interval: 10
 ```
 
-## 5. Limiting Cargo networks
+## 6. Limiting Cargo networks
 Cargo networks are known to cause some performance drops depending on how they are set up.<br>
 They have gone through many optimizations over the years but they can still cause a bit of trouble from time to time.
 
@@ -113,7 +119,7 @@ networks:
   cargo-ticker-delay: 1
 ```
 
-## 6. Enabling Automatic updates
+## 7. Enabling Automatic updates
 Lastly, one of the most effective ways to optimize your performance is to keep automatic Slimefun updates enabled at all times!<br>
 We regularly release patches, fixes and small performance optimizations and the plugin gets better (content- and performance-wise) with every newly released build.
 You should always use the latest version, so we highly recommend you to enable `auto-updates` in your `plugins/Slimefun/config.yml`.
