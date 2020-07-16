@@ -46,6 +46,14 @@ PaperMC has proven itself to have slightly better performance than Spigot and al
 But there are countless other forks of Bukkit/Spigot out there which claim to improve performance.
 We suggest you to look into these yourself and make your own choice.
 
+If you have control over your Server's Java version, we suggest you to choose the latest possible version of Java.
+
+Once you have chosen a Server Software that you think is right for you, you should probably also dedicate some time to configuring this software.<br>
+There have been many external guides on how to do that, so we will just link some of them here (*They are better at this than we are*):
+* [Reducing Lag - A basic guide](https://www.spigotmc.org/wiki/reducing-lag/) (SpigotMC Wiki)
+* [Server Optimization Guide](https://www.spigotmc.org/threads/guide-server-optimization%E2%9A%A1.283181/) (Posted by @Celbrimbor on the SpigotMC Forums)
+* [Optimizing Java Garbage Collection](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) (@aikar's personal blog)
+
 ## 3. Avoiding /reload
 **Do not use `/reload`. Ever.**<br>
 Whenever you add a new plugin or edit a config file, restart your Server. Using `/reload` can cause huge [memory leaks](https://en.wikipedia.org/wiki/Memory_leak) that negatively impact your Server's performance. `/reload` is not safe to use and you should avoid it at all costs.
