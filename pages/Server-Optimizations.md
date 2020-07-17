@@ -40,6 +40,11 @@ By running `/sf timings` you get an overview of what chunks, what machines or ev
 Try it out and get yourself familiar!
 You will surely see some differences between the different content in Slimefun and any addons.
 
+### c) Advanced Server Profiling
+In addition to your standard timings-tool, there are also some third-party tools which can help you and developers to track down where the lag is coming from code-wise.
+We personally recommend [Spark by @Luck](https://www.spigotmc.org/resources/spark.57242/).
+Reports from Spark have helped us tackle a few optimiation problems already, so it seems like a very useful asset.
+
 ## 2. Choosing the right Server Software
 Choosing the right Server Software plays an important role in Server-optimization.<br>
 PaperMC has proven itself to have slightly better performance than Spigot and also provides better and more detailed timings-reports.
