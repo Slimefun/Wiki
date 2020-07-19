@@ -40,18 +40,18 @@ By running `/sf timings` you get an overview of what chunks, what machines or ev
 Try it out and get yourself familiar!
 You will surely see some differences between the different content in Slimefun and any addons.
 
-### c) Advanced Server Profiling
+### c) Plugin-based Server Profiling
 In addition to your standard timings-tool, there are also some third-party tools which can help you and developers to track down where the lag is coming from code-wise.
-We personally recommend [Spark by @Luck](https://www.spigotmc.org/resources/spark.57242/).
-Reports from Spark have helped us tackle a few optimiation problems already, so it seems like a very useful asset.
+We personally recommend [:zap: Spark by @Luck](https://www.spigotmc.org/resources/spark.57242/).
+Reports from Spark have helped us tackle a few optimization problems and identify bottlenecks already, so it seems like a very useful asset for both, server owners and developers.
 
 ## 2. Choosing the right Server Software
 Choosing the right Server Software plays an important role in Server-optimization.<br>
 PaperMC has proven itself to have slightly better performance than Spigot and also provides better and more detailed timings-reports.
-But there are countless other forks of Bukkit/Spigot out there which claim to improve performance.
-We suggest you to look into these yourself and make your own choice.
+But there are countless other forks of Bukkit/Spigot out there which claim to also improve performance.
+We suggest you to look into this yourself and make your own choice.
 
-If you have control over your Server's Java version, we suggest you to choose the latest possible version of Java.
+If you have control over your Server's Java version, try to choose the latest possible version of Java.
 
 Once you have chosen a Server Software that you think is right for you, you should probably also dedicate some time to configuring this software.<br>
 There have been many external guides on how to do that, so we will just link some of them here (*They are better at this than we are*):
@@ -67,18 +67,19 @@ A lot of plugins are not meant to deal with reloads and Slimefun is one of them,
 
 ## 4. Disabling backwards-compatibility
 Slimefun has been around for a long time and there have been many Servers who use it since years.<br>
-Any Server that has used Slimefun **before summer 2019** will have a bunch of old Slimefun Items which still use an old Item format which is slow and inefficient.
+Any Server that has used Slimefun **before summer 2019** will have a bunch of old Slimefun Items. 
+These items are likely to still use an old Item format which is slow and inefficient.
 The old format relied on lengthy Item comparisons and lookups. 
 Everytime a player clicks with an Item in their hand, Slimefun has to compare this item with every Slimefun item in existence, including any items from addons.
-This is a relatively quick operation but it increases with the amount of addons and the amount of players on your server.
+This is a relatively quick operation but the time increases with the amount of addons and the amount of players on your server.
 
 The new item format instead assigns any Slimefun item NBT tags that tell the plugin what item the player is actually holding.
-This is significantly quicker and reduced all these comparisons to just one simple lookup operation. 
-However in order to not break any old items without these NBT tags, we will still fallback to the old system to preserve compatibility with older items.
+This is significantly quicker and reduced all these comparisons to just one simple lookup operation.<br>
+However as we do not want to break any old items without these NBT tags, the system will still fallback to the old one in order to preserve compatibility with older items.
 
-If you are confident that you have no Items crafted before summer 2019, you can disable this fallback and use the new system exclusively.<br>
-This will improve your Server's performance significantly.
-But be aware that any Items crafted before summer 2019 will break when doing so.
+If you are confident that you have no Items which were crafted before summer 2019, you can disable this fallback and use the new system exclusively.<br>
+This will improve your Server's performance significantly.<br>
+But be aware that any items crafted before summer 2019 might break when doing so.
 
 You can optimize your Server with this method by setting `backwards-compatibility` to `false` in your `plugins/Slimefun/config.yml`.
 ```yaml
@@ -91,7 +92,7 @@ Many Slimefun blocks execute code on a very regular basis, the default for this 
 You can increase this delay to slow down block-ticks which *might* help your server's performance. 
 However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
 
-You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes the default value of 12 ticks when necessary.
+You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 12 ticks when necessary.
 ```yaml
 URID:
   custom-ticker-delay: 12
