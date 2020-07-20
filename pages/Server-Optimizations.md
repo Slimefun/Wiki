@@ -47,7 +47,10 @@ Reports from Spark have helped us tackle a few optimization problems and identif
 
 ## 2. Choosing the right Server Software
 Choosing the right Server Software plays an important role in Server-optimization.<br>
-PaperMC has proven itself to have slightly better performance than Spigot and also provides better and more detailed timings-reports.
+Since the discontinuation of CraftBukkit, [Spigot](https://www.spigotmc.org/) has become the standard Server software.
+But there are countless alternatives and forks to choose from.
+[Paper](https://papermc.io/) for example is a fork of Spigot and has proven itself to have slightly better performance than Spigot and also provides better and more detailed timings-reports.<br>
+**Cargo networks** from Slimefun have been optimized to work best when using [Paper](https://papermc.io/).<br>
 But there are countless other forks of Bukkit/Spigot out there which claim to also improve performance.
 We suggest you to look into this yourself and make your own choice.
 
@@ -106,9 +109,11 @@ options:
   armor-update-interval: 10
 ```
 
-## 6. Limiting Cargo networks
+## 6. Handling Cargo networks
 Cargo networks are known to cause some performance drops depending on how they are set up.<br>
 They have gone through many optimizations over the years but they can still cause a bit of trouble from time to time.
+
+With the merge of [Pull Request #2106](https://github.com/TheBusyBiscuit/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
 
 Here are two ways how you can limit cargo networks to prevent your players from making large networks that hurt your server's performance.
 
