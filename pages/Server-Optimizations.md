@@ -8,7 +8,7 @@
 - [3. Avoiding /reload](#3-avoiding-reload)
 - [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
 - [5. Slower Tick-rates](#5-slower-tick-rates)
-- [6. Limiting Cargo networks](#6-limiting-cargo-networks)
+- [6. Handling Cargo networks](#6-handling-cargo-networks)
 - [7. Enabling Automatic updates](#7-enabling-automatic-updates)
 
 </details>
