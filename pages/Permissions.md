@@ -15,6 +15,7 @@ Most of them are used for commands, so make sure to also see the wiki page about
 | slimefun.command.search | Allows you to use `/sf search` | Everyone |
 | slimefun.command.open_guide | Allows you to use `/sf open_guide` | OP |
 | slimefun.command.backpack | Allows you to use `/sf backpack` | OP |
+| slimefun.debugging | Allows you to use `/sf debug_fish` | OP |
 
 ## Permissions for blocks
 | Permission | Description | Default assignment |
