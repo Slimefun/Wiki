@@ -17,6 +17,7 @@ N/A = Not applicable
 | ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: |
 | BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A |
+| ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A |
 | Factions | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
 | FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
