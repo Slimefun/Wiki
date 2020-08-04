@@ -53,7 +53,7 @@ Contributions are very much welcome!
 | :x: | [Portugese (Portugal)](https://gitlocalize.com/repo/3841/pt/src/main/resources/languages) | `pt` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt//badge.svg) |
 | :heavy_check_mark: | [Portugese (Brazil)](https://gitlocalize.com/repo/3841/pt-BR/src/main/resources/languages) | `pt-BR` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt-BR//badge.svg) |
 | :heavy_check_mark: | [Vietnamese](https://gitlocalize.com/repo/3841/vi/src/main/resources/languages) | `vi` | ![gitlocalized](https://gitlocalize.com/repo/3841/vi/badge.svg) |
-| :x: | [Indonesian](https://gitlocalize.com/repo/3841/id/src/main/resources/languages) | `id` | ![gitlocalized](https://gitlocalize.com/repo/3841/id/badge.svg) |
+| :heavy_check_mark: | [Indonesian](https://gitlocalize.com/repo/3841/id/src/main/resources/languages) | `id` | ![gitlocalized](https://gitlocalize.com/repo/3841/id/badge.svg) |
 | :x: | [Hebrew](https://gitlocalize.com/repo/3841/he/src/main/resources/languages) | `he` | ![gitlocalized](https://gitlocalize.com/repo/3841/he/badge.svg) |
 | :heavy_check_mark: | [Arabic](https://gitlocalize.com/repo/3841/ar/src/main/resources/languages) | `ar` | ![gitlocalized](https://gitlocalize.com/repo/3841/ar/badge.svg) |
 | :x: | [Danish](https://gitlocalize.com/repo/3841/da/src/main/resources/languages) | `da` | ![gitlocalized](https://gitlocalize.com/repo/3841/da/badge.svg) |
@@ -69,7 +69,7 @@ Contributions are very much welcome!
 | :x: | [Romanian](https://gitlocalize.com/repo/3841/ro/src/main/resources/languages) | `ro` | ![gitlocalized](https://gitlocalize.com/repo/3841/ro/badge.svg) |
 | :x: | [Bulgarian](https://gitlocalize.com/repo/3841/bg/src/main/resources/languages) | `bg` | ![gitlocalized](https://gitlocalize.com/repo/3841/bg/badge.svg) |
 | :heavy_check_mark: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
-| :x: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
+| :heavy_check_mark: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
 | :x: | [Macedonian](https://gitlocalize.com/repo/3841/mk/src/main/resources/languages) | `mk` | ![gitlocalized](https://gitlocalize.com/repo/3841/mk/badge.svg) |
 | :x: | [Serbian](https://gitlocalize.com/repo/3841/sr/src/main/resources/languages) | `sr` | ![gitlocalized](https://gitlocalize.com/repo/3841/sr/badge.svg) |
 | :x: | [Croatian](https://gitlocalize.com/repo/3841/hr/src/main/resources/languages) | `hr` | ![gitlocalized](https://gitlocalize.com/repo/3841/hr/badge.svg) |
