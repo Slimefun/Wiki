@@ -10,28 +10,30 @@ These rules apply to **any** channel on the server.
 You are expected to adhere to Discord's Terms of Service and their community guidelines.<br>
 You must be at least 13 years old to use Discord and to interact with our discord server.
 
-### 1. No Harassment
-Do not harass or insult other users.<br>
-Swearing won't be punished as long as you don't insult people to purposefully hurt them.
+### 1. No harassment
+Do not harass or insult other users. You should always remain respectful towards others.<br>
+Swearing itself won't be punished as long as you don't insult people to purposefully hurt them.
 
-### 2. No Discrimination
-No racism, no sexism, no discrimination of any kind!
+### 2. No discrimination
+No racism, no sexism, no discrimination of any kind!<br>
+We take offenses like these very seriously and don't tolerate any form of discrimination against our members.
 
-### 3. No Nudity or other inappropriate images
+### 3. No nudity or other inappropriate imagery
 You are not allowed to post any nude content or other inappropriate images (e.g. symbols of hate or discrimination).<br>
 Same applies for profile pictures or custom statuses.
-
-We may ban you for inappropriate profile pictures or custom statuses.
+<br>
+**We may ban you from the server for very inappropriate profile pictures or custom statuses.**
 
 ### 4. Don't argue with members of staff
-If we tell you to stop something, stop it.<br>
-You should have read these rules before-hand, you can feel free to ask a question about these rules if they are unclear.<br>
-But arguing with our staff will be a waste of time, they are there to enforce the rules, not to argue about them.
+If we tell you to stop something, just stop it.<br>
+You should have read these rules before-hand, you can of course feel free to ask a question about our rules if they are unclear.<br>
+But arguing with our staff will be a waste of time for both of you, they are there to enforce the rules, not to argue about them.
 
 ### 5. Stay on-topic!
 Every channel has a specified topic.
 * Questions about Slimefun? `#questions`
 * You have a suggestion? `#suggestions`
+* You wanna make an addon or talk about programming in general? `#programming-help`
 * Wanna promote your Slimefun server? `#server-showcase`
 * You want to talk about a Slimefun Addon? Try to go to one of the addons' channels or `#other-addons`
 * Found a weird bug that you wanna discuss to see if others experience the same? `#bug-discussions`
@@ -39,11 +41,11 @@ Every channel has a specified topic.
 
 ### 6. Don't tag people
 Do **NOT** tag someone to just to get their attention.<br>
-Even more important: Do **NOT** tag members of staff just to draw their attention...<br>
+More importantly: Do **NOT** tag members of staff just to get your answer more quickly..., you'll be punished instead!<br>
 You shouldn't directly message a member of staff either unless they explicitly told you to.<br>
 The job of our staff members is to enforce these rules and keep the server clean and friendly, not to answer every single question you have about why something isn't working or how something works.<br>
 **TL;DR:** Our Staff is not your personal 24/7 support hotline, they have better things to do.
-
+<br><br>
 The **only exception** to this rule is the role `@helpful`, when asking a question in `#questions`, you are allowed to tag `@helpful` if the question is very urgent, as long as you don't abuse it.<br>
 Tag this group once in your question but only once, follow-up messages should **NOT** contain any tags at all.<br>
 You can assign yourself the role `@helpful` by writing `!helpful`.<br>
@@ -52,6 +54,7 @@ This will mark you as a helpful person but also gives everyone the explicit perm
 ### 7. No Spam
 Do **NOT** spam messages.<br>
 * Post your message once in one channel, don't spam it across multiple channels.
+* Don't send the same message multiple times in a row.
 * Write one proper message instead of a dozen short ones.
 * Excessive use of caps is also not allowed.
 
@@ -59,19 +62,21 @@ Do **NOT** spam messages.<br>
 You are **NOT** allowed to advertise products on this discord server.<br>
 You are **NOT** allowed to post invitation links to other discord servers.<br>
 You are **NOT** allowed to promote a fundraising campaign or any other means to collect money.<br>
-Raising awareness for charity or non-profit-organizations is allowed **if approved by an Admin**, please inform us before you post such things.
-
+Raising awareness for charity or non-profit-organizations is allowed **if approved by an Admin**, please contact us privately and state your intentions before you post such things.
+<br><br>
 Advertising Minecraft Servers is allowed, but **ONLY** in `#server-showcase`<br>
 IPs to Minecraft Servers are not allowed to be posted in any other channel.
 
 ### 9. English Only
 Please speak English on our discord, as that is the main language of this plugin.<br>
-We are not fluent in dozens of different languages, so we will just stick with English to ensure everybody is on the same page.
+We are not fluent in dozens of different languages, so we will just stick with English to ensure everybody is on the same page.<br>
+This also helps us to moderate the server effectively.
 
 ### 10. Sensitive topics
 Hard and sensitive topics should be kept away from our main channels.<br>
-Sensitive topics that are considered mature or could spark a lot of controversies should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
-We do not encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
+Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
+This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate.
+We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
 If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.
 
 ### 11. Other
