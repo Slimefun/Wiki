@@ -10,7 +10,9 @@ on:
 jobs:
   sync:
 
+    name: Synchronize Wiki
     runs-on: ubuntu-latest
+    if: github.repository == 'Slimefun/Slimefun-Wiki'
 
     steps:
     - name: Checking out Repository
