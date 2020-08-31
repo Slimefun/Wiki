@@ -194,4 +194,6 @@ Full example:<br>
 </dependency>
 ```
 
+**Note that your addon should still work on any development version released after the RC version you are building against. API changes are usually only done ater a new RC build has been released, so you can safely build against the RC version while still using the development versions of Slimefun for your server.**
+
 [**> Continue with Part 2**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
