@@ -157,4 +157,41 @@ Look up online guides on how to do that, remember to always **commit** and **pus
 And you are done! You now successfully configured and set up your first Slimefun Addon.<br>
 We know this was all very complicated, so feel free to ask any questions on discord.
 
+## 5. Locking your dependency versions
+Our default `pom.xml` file from the template uses self-updating versions.<br>
+But we **highly recommend** using explicit versions for your dependencies, it simply is good practice as it prevents things from suddenly breaking whenever you open up your IDE.
+
+Search for the section in your `pom.xml` file which defines the Slimefun version:
+```xml
+<dependency>
+  <groupId>com.github.TheBusyBiscuit</groupId>
+  <artifactId>Slimefun4</artifactId>
+  <version>master-SNAPSHOT</version>
+  <scope>provided</scope>
+  <!-- ... -->
+</dependency>
+```
+
+To build your addon against a specific version of Slimefun, simply override the `<version>` tag.<br>
+It is best to build against an `RC` - version of Slimefun, simply set the version to `RC-` followed by the version.<br>
+To build against RC-15 for example, simply replace your version like this:
+
+`<version>master-SNAPSHOT</version>` -> `<version>RC-15</version>`
+
+You can find a full list of versions to build against in the "Releases" section on Slimefun's github repository:<br>
+https://github.com/TheBusyBiscuit/Slimefun4/releases
+
+You can also find a "Maven dependency reference" for every released version. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency.
+
+Full example:<br>
+```xml
+<dependency>
+  <groupId>com.github.TheBusyBiscuit</groupId>
+  <artifactId>Slimefun4</artifactId>
+  <version>RC-15</version>
+  <scope>provided</scope>
+  <!-- ... -->
+</dependency>
+```
+
 [**> Continue with Part 2**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
