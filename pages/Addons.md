@@ -37,6 +37,7 @@ ClayTech | ClayCoffee | <details><summary>expand</summary>This Addon adds some w
 ExtraTools | Sfiguz | <details><summary>expand</summary>ExtraTools is a Slimefun4 Addon created to supply useful tools which, although unnecessary, are certain to improve your Slimefun experience.</details> | N/A | [GitHub](https://github.com/Sfiguz7/ExtraTools) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/ExtraTools/master/)
 TranscEndence | Sfiguz | <details><summary>expand</summary>This Addon adds tools to get permanent potion effects via a quantum physics-like experience. It was submitted as an entry to the 2020 Slimefun Addon Jam.</details> | N/A | [GitHub](https://github.com/Sfiguz7/TranscEndence) | [Builds](https://thebusybiscuit.github.io/builds/Sfiguz7/TranscEndence/master/)
 SFCalc | Seggan | <details><summary>expand</summary>This Addon is a continuation of the old SlimeCalculator by John000708. It provides a command to calculate the required amounts of base resources for any given Slimefun item.</details> | N/A | [GitHub](https://github.com/Seggan/SFCalc) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/SFCalc/master/)
+Tinkers (WIP) | Skizzles | <details><summary>expand</summary>An addon for Slimefun to add Tinkers Construct into Servers. This adds modifiers that can be crafted and added to Tools and Armor.</details> | N/A | [GitHub](https://github.com/Skizzles/Tinkers) | [Releases](https://github.com/Skizzles/Tinkers/releases)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
