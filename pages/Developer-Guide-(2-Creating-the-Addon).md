@@ -83,15 +83,4 @@ You can use your Config to set up values that Server Owners should be able to co
 **Important hint: If your IDE nags about not being able to find `Config`, then make sure to import the Config class from the me.mrCookieSlime.Slimefun.cscorelib2 package**<br>
 You will need to import each external class you will use.
 
-## 3. Metrics / bStats (Optional)
-I you are interested in the usage of your addon, you may wanna check out https://bstats.org/<br>
-Slimefun uses bStats to collect anonymous usage statistics, so it is there already, feel free to use it too if you want.<br>
-To set it up, simply do the following inside your `onEnable()` method.<br>
-
-```java
-new Metrics(this, id);
-```
-
-You will have to replace `id` with the bStats-Id of your plugin, you can find that id on your bStats page once you set up your project there.
-
 [**> Continue with Part 3**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
