@@ -9,7 +9,7 @@ Many issues you come across can be solved on your side and save us a lot of time
 This guide aims to help you at identifying issues and informing you on what **you** can do to prevent these issues.<br>
 If everything fails, we will also help you how to make detailed and efficient bug reports, so that we can give you the best help possible.
 
-_Also see: [Common Issues](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Common-Issues)_
+_Also see: [Common Issues](https://github.com/Slimefun/Slimefun4/wiki/Common-Issues)_
 
 **But first off:**<br>
 Always remember that Slimefun4 is open-source and community-developed.<br>

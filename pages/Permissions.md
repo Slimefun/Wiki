@@ -1,5 +1,5 @@
 This is a full list of all Permission nodes added by Slimefun.
-Most of them are used for commands, so make sure to also see the wiki page about [Commands](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Commands).
+Most of them are used for commands, so make sure to also see the wiki page about [Commands](https://github.com/Slimefun/Slimefun4/wiki/Commands).
 
 ## Permissions for commands
 

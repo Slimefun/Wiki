@@ -13,10 +13,10 @@
 This page contains useful information about common in game issues and how to resolve them.<br>
 Most of the following will require varying degrees of permission only staff members may have: make sure to link people higher up in your staff team here if you don't!
 
-**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs)**
+**WARNING: some issues have more than one viable solution, indicated by a division in stages from the least to the most intrusive; it is HIGHLY recommended you try all previous stages before you follow any further approach as lower stages are less risky and will solve most occurencies anyways. If you've tried everything in the list with no success, consider [filing a bug report!](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs)**
 
 ## Floating tags
-Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Manager).<br>
+Some Slimefun items automatically create floating tags when placed, in particular the [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) and the [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager).<br>
 These tags are supposed to disappear when breaking the machine but sometimes things can go wrong and you're left with some text that just doesn't want to go away. How can you solve this?
 
 _Note: make sure this isn't due to a ghost block (check "Unplaceable Blocks")!_
@@ -41,7 +41,7 @@ If the hologram keeps respawning you're very likely to be dealing with a ghost b
 Simply follow the procedure to get rid of any ghost block and you should be golden.
 
 ## Unplaceable blocks
-If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
+If you encounter a location that seems empty but will cancel your action when you try to place any block there you're probably looking at a ghost Slimefun block.<br> This means a Slimefun item used to be placed there (usually an [android](https://github.com/Slimefun/Slimefun4/wiki/Androids) or a [cargo component](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)) and its data was not correctly removed.
 
 ### How to fix this (Isolated block)
 Get a debug fish by running the following as operator:
@@ -74,4 +74,4 @@ Or ask the authors of that plugin whether there is a way to toggle this behaviou
 
 ### How to fix this (Stage 2)
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
-_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)_
+_At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)_

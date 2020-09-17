@@ -1,5 +1,5 @@
-This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [fifth Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(5-Researches)), then please do that.
+This is the **sixth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [fifth Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(5-Researches)), then please do that.
 
 ## 1. Our usual recap
 In the last part we covered how to create Researches.<br>
@@ -169,4 +169,4 @@ research.register();
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
-[**> Continue with Part 7**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
+[**> Continue with Part 7**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))

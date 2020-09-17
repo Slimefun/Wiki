@@ -46,7 +46,7 @@ These Plugins are not Addons, but integrate with Slimefun in some way or another
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
 Brewery | Sn0wStorm and others | <details><summary>expand</summary>Brewery is a Bukkit / Spigot plugin for an alternate brewing process, including alcoholic Potions. It allows you to customize recipes, add your own beverages and more. Brewery supports the usage of items from Slimefun and any of its addons (including ExoticGarden) in their recipes.</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
-PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/TheBusyBiscuit/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
+PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/Slimefun/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 EmeraldEnchants | TheBusyBiscuit | <details><summary>expand</summary>EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter.</details> | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
 WhatIsThis | steve4744 | <details><summary>expand</summary>WhatIsThis is a plugin inspired by the Minecraft mod WAILA, it adds a little info display to give you information about the block you are looking at. Later versions also support this feature for Slimefun blocks.</details> | N/A | [GitHub](https://github.com/steve4744/WhatIsThis) | [SpigotMC](https://www.spigotmc.org/resources/whatisthis-identify-the-block-you-are-looking-at-multi-language-support.65050/)
 
@@ -55,10 +55,10 @@ In 2020 we started hosting our very first "Slimefun Addon Jam" on our discord se
 We hope to make this a re-occurring thing. The basic premise is the following: At the start of the Jam we will announce a theme and every developer has a limited time frame to create a Slimefun Addon - from scratch - based on that theme. When the Jam has ended we will review their submissions, rate them and hand out prizes to the addons that performed the best.<br>
 Here is a list of all Addon Jams that have been hosted so far:
 
-1. [Addon Jam 2020](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addon-Jam-2020)
+1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
 
 ### Creating your own Addons?
-Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).
+Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, then just create an Issue and select the "Addition" template:
 https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues

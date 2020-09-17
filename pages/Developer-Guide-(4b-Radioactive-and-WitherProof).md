@@ -1,11 +1,11 @@
-This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [third Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
+This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [third Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
 
 *The fourth part is divided into two sections, this is Section b*.
 
 ## 1. A Recap of part 4a
 Part 4a is not necessarily *required* to follow this part.<br>
-However we introduced some very important principles that we will need here too, so instead of re-explaining everything, go check out [part 4a](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks)) if something is unclear.
+However we introduced some very important principles that we will need here too, so instead of re-explaining everything, go check out [part 4a](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks)) if something is unclear.
 
 Alright, last time we created a custom cake that sets you on fire when you try to eat it.<br>
 But it also gives one XP level when you right-click with that cake in your hand.<br>
@@ -291,4 +291,4 @@ So at the end of the day we have made a Cake that...
 I think that is a pretty cool item, given that it is a little... strange and unusual.<br>
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
 
-[**> Continue with Part 5**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(5-Researches))
+[**> Continue with Part 5**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(5-Researches))
