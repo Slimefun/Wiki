@@ -1,7 +1,7 @@
-The Grappling Hook is a useful [tool](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Tools) which provides great mobility, allowing you to access otherwise hard-to-reach places.
+The Grappling Hook is a useful [tool](https://github.com/Slimefun/Slimefun4/wiki/Tools) which provides great mobility, allowing you to access otherwise hard-to-reach places.
 
 ## Obtaining
-The Grappling Hook can be crafted in an [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Grappling Hook can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
 Right-clicking with a Grappling Hook in your main hand will shoot an arrow with a lead attached to it.<br>

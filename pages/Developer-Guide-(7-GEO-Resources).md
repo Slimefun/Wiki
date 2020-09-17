@@ -1,9 +1,9 @@
-This is the **seventh Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [sixth Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads)), then please do that.
+This is the **seventh Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [sixth Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads)), then please do that.
 
 ## 1. A recap
 In the last part we discussed how to create custom heads and use these heads in items and categories.<br>
-Today we will expand upon that knowledge and create a new ore that is obtainable through the [GEO - Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/GEO-Miner).<br>
+Today we will expand upon that knowledge and create a new ore that is obtainable through the [GEO - Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner).<br>
 But before we dive into that, here is our code from the last part:
 
 ```java

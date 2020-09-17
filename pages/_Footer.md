@@ -3,7 +3,7 @@ This Wiki is made by the community and for the community.
 Here are a few ways you can help with that:
 
 1. [Report an Issue with the Wiki](https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues)
-2. [Contribute to the Wiki by adding/editing pages](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki)
+2. [Contribute to the Wiki by adding/editing pages](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
 
 If you have any questions, you can also just join Slimefun's Discord Server and ask there:
 <p align="center">

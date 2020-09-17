@@ -1,5 +1,5 @@
-This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [third Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
+This is the **fourth Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [third Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item)), then please do that.
 
 *The fourth part is divided into two sections, this is Section a*.
 
@@ -307,4 +307,4 @@ Phew, now we have shown you how to make your custom slimefun item perform action
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.<br>
 I hope this was helpful to you and I expect to see lots of awesome addons very soon!
 
-[**> Continue with Part 4b**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
+[**> Continue with Part 4b**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))

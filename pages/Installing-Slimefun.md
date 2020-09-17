@@ -41,10 +41,10 @@ Any changes you make should be saved, then restart the server. Again, ***do not 
 just stop and restart the server, since this fixes most issues.
 
 ### Server Optimization
-Here is a full article on how to [Optimize your Slimefun Server](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Server-Optimizations)
+Here is a full article on how to [Optimize your Slimefun Server](https://github.com/Slimefun/Slimefun4/wiki/Server-Optimizations)
 
 # Additional Addons
-If you wish to install additional addons, refer to [this page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
+If you wish to install additional addons, refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
 These additional addons require Slimefun4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
 Configuration should be very straight forward for these plugins as well.

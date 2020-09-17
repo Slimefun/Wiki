@@ -1,6 +1,6 @@
 Slimefun is a Bukkit Plugin that aims to make Bukkit Servers feel like a modpack.<br>
-If you want to know how to install Slimefun, go [here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Installing-Slimefun).<br>
-If you are looking for a guide on how to use Slimefun, start [here](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Getting-Started).
+If you want to know how to install Slimefun, go [here](https://github.com/Slimefun/Slimefun4/wiki/Installing-Slimefun).<br>
+If you are looking for a guide on how to use Slimefun, start [here](https://github.com/Slimefun/Slimefun4/wiki/Getting-Started).
 
 ## What does Slimefun do?
 Slimefun adds Items to Minecraft without the need to install mods.
@@ -30,7 +30,7 @@ These are most often just bug fixes and minor tweaks.
 Keep in mind that Slimefun4 is maintained by the community, not a single person or group of people.
 So these updates can be very irregular.
 
-But if you are looking for even more Slimefun-content, then you should check out some of [Slimefun's Addons](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addons).
+But if you are looking for even more Slimefun-content, then you should check out some of [Slimefun's Addons](https://github.com/Slimefun/Slimefun4/wiki/Addons).
 You can of course add your own content to Slimefun and make a Pull Request, it has to be reviewed and approved though.
 It is much faster and also recommended to develop an Addon instead.
 
@@ -61,7 +61,7 @@ This discord server quickly grew in popularity, hitting a total of 1,000 members
 
 During **2019** TheBusyBiscuit slowly started to get back into more active development of Slimefun, mainly focusing on code quality and performance improvements together with Walshy (@WalshyDev).
 This return to development increased during the **2020** COVID-19 pandemic which caused many to stay safely at home, giving a lot of people more time to spend home as universities, schools and workplaces around the globe closed down.
-In **April of 2020**, we held our first [Addon Jam](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Addon-Jam-2020) in which 6 people participated by developing their own Slimefun Addon which was then judged by TheBusyBiscuit and Walshy.
+In **April of 2020**, we held our first [Addon Jam](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020) in which 6 people participated by developing their own Slimefun Addon which was then judged by TheBusyBiscuit and Walshy.
 Meanwhile our discord server has reached 2,000 members at the beginning of **June in 2020**.
 Slimefun is still vivid and alive and has an incredible community behind and around it.
 

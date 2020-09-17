@@ -17,15 +17,15 @@ You can click on the discord badge at the bottom of the page to join.
 You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/) to get some more technical information about how the API is structured. But we would advise you to check this guide first.
 
 ## Table of Contents
-1. [Setting up your project](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
-2. [Creating a new Addon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
-3. [Creating your first Item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
+1. [Setting up your project](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup))
+2. [Creating a new Addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon))
+3. [Creating your first Item](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
 4. *Adding features to your Item*
-   - [Performing actions on right-clicking a block or an item](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
-   - [Making an item radioactive or wither-proof](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
-5. [Adding your own Research](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(5-Researches))
-6. [Custom heads](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
-7. [Adding resources to the GEO Miner](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
+   - [Performing actions on right-clicking a block or an item](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
+   - [Making an item radioactive or wither-proof](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4b-Radioactive-and-WitherProof))
+5. [Adding your own Research](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(5-Researches))
+6. [Custom heads](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
+7. [Adding resources to the GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
 8. *Creating electric machines*
    - Creating a simple input/output machine with recipes (soon)
    - Creating your own Generator (soon)

@@ -1,5 +1,5 @@
-This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [first Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)), then please do that.
+This is the **second Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [first Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(1-Project-Setup)), then please do that.
 
 ## 1. Your main class
 Alright, now that your workspace and project is set up properly, we can start to dive into some code.<br>
@@ -83,4 +83,4 @@ You can use your Config to set up values that Server Owners should be able to co
 **Important hint: If your IDE nags about not being able to find `Config`, then make sure to import the Config class from the me.mrCookieSlime.Slimefun.cscorelib2 package**<br>
 You will need to import each external class you will use.
 
-[**> Continue with Part 3**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
+[**> Continue with Part 3**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))

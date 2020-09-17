@@ -127,7 +127,7 @@ This channel is **ONLY** for showcasing your Server, any other messages will be 
 
 ### #bug-discussions
 This channel is only for discussions around bugs, **not for reporting them.**<br>
-For reporting bugs, please consult [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
+For reporting bugs, please consult [How to report bugs](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs).
 
 Before posting here, please follow this short guide:<br>
 1. Run `/sf versions`
@@ -137,7 +137,7 @@ Before posting here, please follow this short guide:<br>
 5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
 6. Double-check that you are using a "DEV - ..." build of Slimefun and CS-CoreLib, other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
-For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](https://github.com/TheBusyBiscuit/Slimefun4/wiki/How-to-report-bugs).
+For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs).
 
 ### #questions
 This is our main support channel, if you have a question, then come here to ask it.<br>
@@ -202,4 +202,4 @@ Here is a complete list
 | *Helpful* | *You can mark yourself as helpful by doing `!helpful`* | *Everyone is allowed to tag you* |
 
 ## See also
-You may also want to take a look at our list of [Discord commands](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Discord-Commands)
+You may also want to take a look at our list of [Discord commands](https://github.com/Slimefun/Slimefun4/wiki/Discord-Commands)
