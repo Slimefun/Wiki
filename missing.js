@@ -2,7 +2,7 @@ const fs = require('fs');
 const http = require("https");
 
 const url = "https://github.com/Slimefun/Slimefun4/wiki/";
-const regex = /\(https:\/\/github\.com\/TheBusyBiscuit\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
+const regex = /\(https:\/\/github\.com\/Slimefun\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
 
 const options = {
     method: "PATCH",
