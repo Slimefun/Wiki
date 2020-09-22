@@ -7,7 +7,7 @@ Please also follow the templates for Issues and Pull Requests we provide.
 If you find something on the wiki that is missing or just wrong, feel free to report it on our [Issues Tracker](https://github.com/Slimefun/Slimefun-Wiki/issues).<br>
 It helps us improve the wiki as a whole.
 
-## :memo: 2. Pull Requests: Bug Fixes
+## :memo: 2. Pull Requests
 You wanna help by contributing to the Wiki? Awesome!<br>
 We have written a detailed guide on how to submit changes to the wiki on the wiki :kappa:<br>
 You can find our guide for wiki submissions right here:<br>
