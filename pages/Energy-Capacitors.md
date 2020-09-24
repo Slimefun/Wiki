@@ -4,7 +4,7 @@ Energy Capacitors are [electric components](https://github.com/Slimefun/Slimefun
 There are five "tiers" of capacitors, each with an increasing capacity.
 
 ## Obtaining
-All five tiers of energy capacitors can be crafted in an [Enchanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+All six tiers of energy capacitors can be crafted in an [Enchanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
 An energy capacitor must be placed within 7 blocks of a [machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#Machines), [generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#Energy-generation), [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator), or another capacitor (in a straight line; no diagonals).
@@ -24,3 +24,4 @@ Each tier of energy capacitor has a different capacity, listed below.
 | Big Energy Capacitor | 1024 J |
 | Large Energy Capacitor | 8192 J |
 | Carbonado Edged Energy Capacitor | 65536 J |
+| Energized Energy Capacitor | 524288 J |
