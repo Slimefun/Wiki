@@ -8,6 +8,6 @@ and placing a [GPS Activation Device](https://github.com/Slimefun/Slimefun4/wiki
 The Teleporter is used to teleport to waypoints created by a [GPS Marker Tool](https://github.com/Slimefun/Slimefun4/wiki/GPS-Marker-Tool) or a [GPS Emergency Transmitter](https://github.com/Slimefun/Slimefun4/wiki/GPS-Emergency-Transmitter).
 
 Teleporting speed is determined by the distance of the given waypoint and the [GPS network complexity](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter). </br>
-If the network complexity is lower then 100, it always takes 50 seconds to teleport.
+If the network complexity is lower than 100, it will always take 50 seconds to teleport.
 If the network complexity is above 100, the speed is given by the following equation: ![Teleporting Speed Equation](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/TeleportEquation.png) seconds, where DistanceSquared
 cannot be greater than 100 000 000, and the whole expression cannot be greater than 20.5 seconds.
