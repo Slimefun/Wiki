@@ -1,5 +1,5 @@
 ## Obtaining
-Elevator Plate can be crafted in an [Enchanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+The Elevator Plate can be crafted in an [Enchanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
 Elevator plates are automatically connected when sharing the X and Z coordinates.
