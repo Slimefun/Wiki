@@ -1,6 +1,12 @@
 Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
+### Table of contents
+1. [Official Addons](#official-addons)
+2. [Third-Party Addons](#third-party-addons)
+3. [Other Third-Party Plugins](#third-party-plugins)
+4. [How to create your own Addon](https://github.com/Slimefun/Slimefun4/wiki/Addons#creating-your-own-addons)
+
 ## Official Addons
 These Addons were developed closely to Slimefun.<br>
 They were most often developed by an active contributor to the project too.
