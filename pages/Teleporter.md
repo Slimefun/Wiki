@@ -1,3 +1,5 @@
+![Teleporter](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/Teleporter.png)
+
 The Teleporter is a Multiblock GPS-based device.
 
 ## Obtaining
