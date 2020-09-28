@@ -1,6 +1,12 @@
 Want to spice up your Slimefun4-Server? Then you have come to the right place!<br>
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
+### Table of contents
+1. [Official Addons](#official-addons)
+2. [Third-Party Addons](#third-party-addons)
+3. [Other Third-Party Plugins](#third-party-plugins)
+4. [How to create your own Addon](https://github.com/Slimefun/Slimefun4/wiki/Addons#creating-your-own-addons)
+
 ## Official Addons
 These Addons were developed closely to Slimefun.<br>
 They were most often developed by an active contributor to the project too.
@@ -39,12 +45,14 @@ TranscEndence | Sfiguz | <details><summary>expand</summary>This Addon adds tools
 SFCalc | Seggan | <details><summary>expand</summary>This Addon is a continuation of the old SlimeCalculator by John000708. It provides a command to calculate the required amounts of base resources for any given Slimefun item.</details> | N/A | [GitHub](https://github.com/Seggan/SFCalc) | [Builds](https://thebusybiscuit.github.io/builds/Seggan/SFCalc/master/)
 Tinkers (WIP) | Skizzles | <details><summary>expand</summary>An addon for Slimefun to add Tinkers Construct into Servers. This adds modifiers that can be crafted and added to Tools and Armor.</details> | N/A | [GitHub](https://github.com/Skizzles/Tinkers) | [Releases](https://github.com/Skizzles/Tinkers/releases)
 MoreTools (WIP) | LinoxGH | <details><summary>expand</summary>This addon adds more tools to Slimefun. These tools are meant to improve your gameplay experience, like Crescent Hammer(Wrench) and Cargo Copier.</details> | N/A | [GitHub](https://github.com/LinoxGH/MoreTools) | [Builds](https://thebusybiscuit.github.io/builds/LinoxGH/MoreTools/build/)
+FluffyMachines | NCBPFluffyBear | <details><summary>expand</summary>This addon adds early and late game machines, generators, and items to make automation more fun. Among these are the Auto Crafting Table, Auto Ancient Altar, and Ender Chest Cargo Nodes.</details> | [Readme](https://github.com/NCBPFluffyBear/FluffyMachines/blob/master/README.md) | [Github](https://github.com/NCBPFluffyBear/FluffyMachines) | [Builds](https://thebusybiscuit.github.io/builds/NCBPFluffyBear/FluffyMachines/master/)
 
 ## Third-Party Plugins
 These Plugins are not Addons, but integrate with Slimefun in some way or another.
 
 Name | Author(s) | Description | More info | Source Code | Download
 ------------- | --------- | ----------------------------------------------- | --------- | --------- | --------- |
+SensibleToolbox (WIP) | desht, TheBusyBiscuit | <details><summary>expand</summary>SensibleToolbox is a plugin very similar to Slimefun, it was originally developed by desht in 2014. TheBusyBiscuit took over it in late 2014 and continued to update it. We are currently updating it once more, it pairs and integrates into Slimefun pretty well!</details> | N/A | [GitHub](https://github.com/Slimefun/SensibleToolbox) | [Builds](https://thebusybiscuit.github.io/builds/Slimefun/SensibleToolbox/master/)
 Brewery | Sn0wStorm and others | <details><summary>expand</summary>Brewery is a Bukkit / Spigot plugin for an alternate brewing process, including alcoholic Potions. It allows you to customize recipes, add your own beverages and more. Brewery supports the usage of items from Slimefun and any of its addons (including ExoticGarden) in their recipes.</details> | [Wiki](https://github.com/DieReicheErethons/Brewery/wiki) | [GitHub](https://github.com/DieReicheErethons/Brewery) | [Releases](https://github.com/DieReicheErethons/Brewery/releases)
 PlaceholderAPI | extended_clip, Glare | <details><summary>expand</summary>Slimefun adds placeholders that can be used with PlaceholderAPI, you can find more Info on the Wiki link.</details> | [Wiki](https://github.com/Slimefun/Slimefun4/wiki/PlaceholderAPI) | [GitHub](https://github.com/PlaceholderAPI/PlaceholderAPI) | [SpigotMC](https://www.spigotmc.org/resources/placeholderapi.6245/)
 EmeraldEnchants | TheBusyBiscuit | <details><summary>expand</summary>EmeraldEnchants adds a bunch of new Enchantments to the game! Slimefun supports those Enchantments in it's Auto Enchanter/Disenchanter.</details> | N/A | [GitHub](https://github.com/TheBusyBiscuit/EmeraldEnchants2) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EmeraldEnchants2/master/)
