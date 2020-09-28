@@ -4,7 +4,7 @@ The GPS Transmitter is a basic component of a GPS network, which is a building b
 The GPS Transmitters can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage and mechanics
-The GPS Transmitter adds GPS network complexity equal to TierModifier * Height + TierBonus, based on the tier of the Transmitter and its Y-coordinate.
+The GPS Transmitter adds GPS network complexity equal to `TierModifier * Height + TierBonus`, based on the tier of the Transmitter and its Y-coordinate.
 
 ## Tiers
 The table below describes differences between tiers of Transmitters.
