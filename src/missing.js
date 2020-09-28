@@ -26,6 +26,16 @@ const missing = [];
 // This is our placeholder text for any page that is missing
 const missingPageTemplate = fs.readFileSync("pages/missing.md", "UTF-8");
 
+// This will be the body for our issue
+var issueBody =  `## :spider_web: The following pages are still missing!
+Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
+We have a detailed guide on how to submit changes to the wiki for you right here:
+https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
+
+## :books: List of missing pages
+
+`;
+
 // Read the contents of our /pages/ directory.
 fs.promises.readdir("pages").then(files => {
     for (let i in files) {
@@ -63,23 +73,13 @@ fs.promises.readdir("pages").then(files => {
             });
         });
 
-        // This will be the body for our issue
-        var content =  `## :spider_web: The following pages are still missing!
-        Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
-        We have a detailed guide on how to submit changes to the wiki for you right here:
-        https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
-
-        ## :books: List of missing pages
-
-        `;
-
         // Sort the array alphabetically
         missing.sort();
 
         // Go over all missing pages
         for (let i in missing) {
             // Add the missing page to our bullet list
-            content += `* ${missing[i]} \n`;
+            issueBody += `* ${missing[i]} \n`;
 
             // Replace the missing file with our "Missing page" placeholder text
             fs.writeFile(`pages/${missing[i]}`, missingPageTemplate, err => {
@@ -90,12 +90,12 @@ fs.promises.readdir("pages").then(files => {
         }
 
         // A wholesome message at the end <3
-        content += "\nHelp is much appreciated :heart:";
+        issueBody += "\nHelp is much appreciated :heart:";
 
         // Update the issue via a web request
         request.write(JSON.stringify({
             title: "Missing Pages: " + missing.length,
-            body: content,
+            body: issueBody,
             state: "open"
         }));
 
