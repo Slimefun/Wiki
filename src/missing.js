@@ -1,7 +1,11 @@
+// Imports from default node modules
 const fs = require('fs');
 const http = require("https");
 
+// This is the URL to the deployed wiki
 const url = "https://github.com/Slimefun/Slimefun4/wiki/";
+
+// The regular expression to check for links that lead to a wiki page
 const regex = /\(https:\/\/github\.com\/Slimefun\/Slimefun4\/wiki\/[A-Za-z-]+\)/g;
 
 /**
@@ -14,13 +18,18 @@ const options = {
     path: "/repos/Slimefun/Wiki/issues/2",
     headers: {
         "User-Agent": "Slimefun Wiki Action",
-        "authorization": "token " + process.env.ACCESS_TOKEN,
+        "authorization": `token ${process.env.ACCESS_TOKEN}`,
         "content-type": "application/x-www-form-urlencoded"
     }
 }
 
+// The queue of file scan tasks
 const queue = [];
+
+// All found pages
 const pages = [];
+
+// All missing pages
 const missing = [];
 
 // This is our placeholder text for any page that is missing
@@ -36,25 +45,13 @@ https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
 
 `;
 
-// Read the contents of our /pages/ directory.
+// Read the contents of our /pages/ directory as an async promise
 fs.promises.readdir("pages").then(files => {
+
+    // Loop through all files in that directory
     for (let i in files) {
-        // Queue another task to find the file
-        queue.push(fs.promises.readFile("pages/" + files[i], "UTF-8").then(content => {
-            let match;
-
-            // Continue as long as a match can be found
-            do {
-                // Update our variable
-                match = regex.exec(content);
-
-                // If we found a match, handle it
-                if (match) {
-                    let page = match[0].substring(1 + url.length, match[0].length - 1);
-                    findFile(`${page}.md`);
-                }
-            } while(match);
-        }));
+        // Queue another task to find linked pages
+        queue.push(fs.promises.readFile(`pages/${files[i]}`, "UTF-8").then(scanFile));
     }
 
     // Finish working off the queue and evaluate afterwards
@@ -102,6 +99,31 @@ fs.promises.readdir("pages").then(files => {
         request.end();
     });
 });
+
+/**
+ * This method scans the given input for links to wiki pages.
+ *
+ * @param  {string} content The file content
+ */
+function scanFile(content) {
+    let match;
+
+    // This scans the document for any linked pages.
+    // This continues as long as there are matches for our regular expression
+    do {
+        // Update our match variable
+        match = regex.exec(content);
+
+        // If we found a match, handle it
+        if (match) {
+            // We will crop  out the url portion of the match
+            let page = match[0].substring(1 + url.length, match[0].length - 1);
+
+            // Start an attempt to find the .md file for the linked page
+            findFile(`${page}.md`);
+        }
+    } while(match);
+}
 
 /**
  * This method attempts to find the given page.
