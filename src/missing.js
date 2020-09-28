@@ -64,12 +64,12 @@ fs.promises.readdir("pages").then(files => {
         });
 
         // This will be the body for our issue
-        var content =  `## :spider_web:	The following pages are still missing!
-                        Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
-                        We have a detailed guide on how to submit changes to the wiki for you right here:
-                        https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
+        var content =  `## :spider_web: The following pages are still missing!
+        Help us out by contributing to the wiki and create one or more of these pages, it would be awesome! :heart:<br>
+        We have a detailed guide on how to submit changes to the wiki for you right here:
+        https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki
 
-                        ## :books: List of missing pages
+        ## :books: List of missing pages
 
         `;
 
