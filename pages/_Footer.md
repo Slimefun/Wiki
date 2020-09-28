@@ -7,7 +7,7 @@ Here are a few ways you can help with that:
 
 If you have any questions, you can also just join Slimefun's Discord Server and ask there :)
 <p align="center">
-  <a href="https://discord.gg/fsD4Bkh">
+  <a href="https://discord.gg/slimefun">
     <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
   </a>
 </p>
