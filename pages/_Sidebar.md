@@ -34,7 +34,5 @@
 * [Seasonal Categories](https://github.com/Slimefun/Slimefun4/wiki/Seasonal-Categories)
 
 <p>
-  <a href="https://discord.gg/fsD4Bkh">
-    <img src="https://discordapp.com/api/guilds/565557184348422174/widget.png?style=banner3" alt="Discord Invite"/>
-  </a>
+  <a href="https://discord.gg/slimefun">https://discord.gg/slimefun</a>
 </p>
