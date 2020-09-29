@@ -12,7 +12,7 @@ jobs:
 
     name: Synchronize Wiki
     runs-on: ubuntu-latest
-    if: github.repository == 'Slimefun/Slimefun-Wiki'
+    if: github.repository == 'Slimefun/Wiki'
 
     steps:
     - name: Checking out Repository
@@ -22,11 +22,11 @@ jobs:
       with:
         node-version: '10.x'
     - name: Scanning for dead links
-      run: node missing.js
+      run: node src/missing.js
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     - name: Syncing
-      run: sh sync.sh
+      run: sh src/sync.sh
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}

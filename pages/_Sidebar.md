@@ -33,8 +33,6 @@
 * [Cargo Management](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)
 * [Seasonal Categories](https://github.com/Slimefun/Slimefun4/wiki/Seasonal-Categories)
 
-<p align="center">
-  <a href="https://discord.gg/fsD4Bkh">
-    <img src="https://img.shields.io/discord/565557184348422174?color=7289DA&label=Discord&style=for-the-badge" alt="Discord Invite"/>
-  </a>
+<p>
+  <a href="https://discord.gg/slimefun">https://discord.gg/slimefun</a>
 </p>

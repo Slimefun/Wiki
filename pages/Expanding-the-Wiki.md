@@ -106,7 +106,7 @@ Thanks for contributing to the Slimefun4 wiki!
 
 ## Step 5: Making changes to your Pull Request
 If you have already submitted a pull request but want to make a change to your files, you can do that.
-Just repeat [Step 2](#step-2--making-your-changes).<br>
+Just repeat [Step 2](#step-2-making-your-changes).<br>
 The pull request will automatically update to include new changes until it has been merged/closed.
 
 This step is especially important if we request changes to be made.
