@@ -89,7 +89,7 @@ We first need to add an actual SlimefunItem.
 You can also create a `SeasonalCategory` or a `LockedCategory` instead of a generic `Category`.<br>
 These types of categories require a specified category tier. This integer roughly determines the position
 of the category inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria
-is the order of registering(creation of `Category` object).<br>
+is the order of registering (creation of `Category` object).<br>
 * Seasonal categories are hidden throughout the whole year except for 1 specific month.<br>
 * Locked categories require all researches on parent categories to be unlocked.
 
