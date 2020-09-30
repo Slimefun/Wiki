@@ -1,4 +1,4 @@
-The Magical Gadgets contains various gadgets with magical powers. Use your magical items to create these!
+The Magical Gadgets contains various gadgets with magical powers. Use your magical items to craft these!
 
 ## Table of contents
 ----
@@ -18,10 +18,10 @@ The Magical Gadgets contains various gadgets with magical powers. Use your magic
 [Flask of Knowledge](https://github.com/Slimefun/Slimefun4/wiki/Flask-of-Knowledge)  
 [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar)  
 [Infernal Bonemeal](https://github.com/Slimefun/Slimefun4/wiki/Infernal-Bonemeal)  
-[Elytra Scale](https://github.com/Slimefun/Slimefun4/wiki/Elytra-Scale)  
-[Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytra)  
-[Infused Elytra](https://github.com/Slimefun/Slimefun4/wiki/Infused-Elytra)  
-[Soulbound Elytra](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Elytra)  
+[Elytra Scale](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
+[Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
+[Infused Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
+[Soulbound Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
 [Totem of Undying](https://github.com/Slimefun/Slimefun4/wiki/Totem-of-Undying)  
 [Rainbow Wool](https://github.com/Slimefun/Slimefun4/wiki/Rainbow-Blocks)  
 [Rainbow Glass](https://github.com/Slimefun/Slimefun4/wiki/Rainbow-Blocks)  
