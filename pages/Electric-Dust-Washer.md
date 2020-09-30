@@ -32,6 +32,6 @@ The Level I and Level II machines have a hidden buffer of 128 J as shown below:
 
 ![Electric Dust Washer I & II Hidden Buffer](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/electric-dust-washer-1-and-2-buffer.png)
 
-The Level III machine have a hidden buffer of 512 J as shown below:
+The Level III machine has a hidden buffer of 512 J as shown below:
 
 ![Electric Dust Washer III Hidden Buffer](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/electric-dust-washer-3-buffer.png)

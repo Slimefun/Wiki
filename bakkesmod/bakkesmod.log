@@ -1,0 +1,13 @@
+[20:54:56] Creating CVarmanager
+[20:54:56] Creating console
+[20:54:56] Created console
+[20:54:56] Initialized logging
+[20:54:56] Running BakkesMod from Sep 29 2020 17:42:26
+[20:54:56] Checking steam build ID
+[20:54:56] Requesting https://config.bakkesmod.com/static/startupconfig.json
+[20:54:57] Incoming json: {"config":{"BakkesMod":true,"RankShowMod":true,"SyncInterval":300.0,"EnableQueueMod":true,"DisregardPlacements":true},"versions":{"110":{"steam":[5244119]}, "119":{"steam":[5524195,5559293]}, "120":{"steam":[5560047]}, "121":{"steam":[5560047]}, "122":{"steam":[5597994]}}, "plugins": {"broken": ["queuedeck"]}}
+
+
+[20:54:57] Got successful result!
+[20:54:57] Checking steam version: -1
+[20:54:57] Prompting user about RL version
