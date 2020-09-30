@@ -1,5 +1,5 @@
-This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide).<br>
-If you haven't checked out the [second Part of this Guide](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon)), then please do that.
+This is the **third Part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).<br>
+If you haven't checked out the [second Part of this Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(2-Creating-the-Addon)), then please do that.
 
 ## 1. A little recap
 In the last part we went over the main class of your plugin.<br>
@@ -63,7 +63,7 @@ NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
 ```
 `this` simply refers to our Plugin.
 
-### Out item
+### Our item
 Now onto the `item` of our new Category.<br>
 We will use the class CustomItem for this (Import `me.mrCookieSlime.Slimefun.cscorelib2.item.CustomItem` for this).<br>
 You can create a new named Item like this:
@@ -84,6 +84,25 @@ Category category = new Category(categoryId, categoryItem);
 
 The Category will not be visible in our Slimefun Guide at this point though.<br>
 We first need to add an actual SlimefunItem.
+
+### Seasonal and Locked categories
+You can also create a `SeasonalCategory` or a `LockedCategory` instead of a generic `Category`.<br>
+These types of categories require a specified category tier. This integer roughly determines the position
+of the category inside Slimefun guide. The guide starts populating with tier 1 and onwards. The other criteria
+is the order of registering(creation of `Category` object).<br>
+* Seasonal categories are hidden throughout the whole year except for 1 specific month.<br>
+* Locked categories require all researches on parent categories to be unlocked.
+
+```java
+Month month = Month.JAN; // This is any enum from java.time.Month.
+
+SeasonalCategory category = new SeasonalCategory(categoryId, categoryItem, tier, month);
+```
+
+```java
+// This category will require `parentCategoryA` and `parentCategoryB` to be fully unlocked.
+LockedCategory category = new LockedCategory(categoryId, categoryItem, tier, parentCategoryA.getKey(), parentCategoryB.getKey());
+```
 
 ## 3. Creating an Item
 Now that we have a Category set up, we can start to create our actual item.<br>
@@ -216,4 +235,4 @@ sfItem.register(this);
 // Our item is now registered
 ```
 
-[**> Continue with Part 4a**](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
+[**> Continue with Part 4a**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(4a-Right-Clicks))
