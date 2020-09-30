@@ -15,8 +15,9 @@ The Electric Dust Washer is crafted in the [Enhanced Crafting Table](https://git
 The Electric Dust Washer has to be connected to an [Electrical Network](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) with sufficient energy to function.  
 The slots of an Electric Dust Washer are as follows:  
 ![Electric Dust Washer Slots](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/electric-dust-washer-slots.png)
-The slots on the left (highlighted by the cyan stained glass pane) are the input slots where [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore) is taken as input.
-The slots on the right (highlighted by the orange stained glass pane) are the output slots where various [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) are produced.  
+- The two cyan glass panes on the left are the input slots where [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore) can be inserted.
+- The orange slots on the right are the output slots where various [Dusts](https://github.com/Slimefun/Slimefun4/wiki/Dusts) are produced.
+
 Once the output slots are filled, the Electric Dust Washer stops its operation until the output slots are cleared. Therefore, a [Cargo Management System](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) is the most efficient way to handle an Electric Dust Washer and can be used to create complex automated dust collection systems.
 
 ## Specifications
