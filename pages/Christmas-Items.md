@@ -3,7 +3,7 @@ These items consist of mostly foods.
 
 | Food | Ingredients | Workbench | Output Amount |
 | ---- | ----------- | --------- | ------------- |
-| Christmas Milk | 1 Bucket of Milk, 1 Glass Bottle | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table)[Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 4 |
+| Christmas Milk | 1 Bucket of Milk, 1 Glass Bottle | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 4 |
 | Christmas Chocolate Milk | 1 Christmas Milk, 1 Cocoa Beans | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 2 |
 | Christmas Egg Nog | 1 Christmas Milk, 1 Egg | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 2 |
 | Christmas Apple Cider | 1 Apple Juice, 1 Sugar | [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table) | 2 |
@@ -24,10 +24,11 @@ When you open 1 of these, you can earn a random gift.
 ### Obtaining
 The present can be crafted in [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) likewise:
 
-| - | - | - |
+
 |  | Name Tag |  |
-| Red Wool | Green Wool | Red Wool |
-| Red Wool | Green Wool | Red Wool |
+| - | -------- | - |
+| **Red Wool** | **Green Wool** | **Red Wool** |
+| **Red Wool** | **Green Wool** | **Red Wool** |
 
 The items you can earn:
 
