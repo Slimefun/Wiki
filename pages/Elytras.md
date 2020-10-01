@@ -11,8 +11,8 @@ The Elytra Scale is a crafting component, while the other three are usable elytr
 | Item | Specialities |
 | ---- | -------- |
 | Elytra | N/A |
-| Infused Elytra | comes with mending |
-| Soulbound Elytra | kept on death |
+| Infused Elytra | Comes with Mending |
+| Soulbound Elytra | Kept on death |
 
 
 Fun fact: these were implemented due to the fact that big servers run out of elytras quick, and it only became harder and harder for new players to obtain them.
