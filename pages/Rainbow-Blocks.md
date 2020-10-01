@@ -33,4 +33,4 @@ When placed, all blocks of the same type (eg. all Rainbow Wool blocks) will sync
 This does not automatically happen between two different types (eg. Rainbow wool and Rainbow glass).  
 You can still sync them if you place every new block when the surrounding blocks are white.
 
-When you break any of these items with any tool, they will drop back the original Rainbow version (this includes glass and glass panes).
+When you break any of these items with any tool, they will drop back the original Rainbow version (this includes glass and glass panes).<br>
