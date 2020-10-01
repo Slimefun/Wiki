@@ -1,4 +1,4 @@
-The Sword of Beheading is a [Weapon](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Weapons) added in Slimefun.<br>
+The Sword of Beheading is a [Weapon](https://github.com/Slimefun/Slimefun4/wiki/Weapons) added in Slimefun.<br>
 It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.
 
 ## Chance to drop head
@@ -12,4 +12,4 @@ The table belows lists the chance for each applicable entity to drop their head 
 | Zombie | 40% |
 | Wither Skeleton | 25% |
 
-If you are using [ExtraHeads](https://github.com/TheBusyBiscuit/Slimefun4/wiki/ExtraHeads), it also increases your chance to obtain heads from other mobs.
+If you are using [ExtraHeads](https://github.com/Slimefun/Slimefun4/wiki/ExtraHeads), it also increases your chance to obtain heads from other mobs.

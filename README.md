@@ -1,7 +1,8 @@
 # Slimefun4-Wiki
-This Repository houses Slimefun4's Wiki.
-It is automatically synchronized with the main wiki: 
-https://github.com/TheBusyBiscuit/Slimefun4/wiki
+This Repository houses Slimefun4's Wiki.<br>
+It is automatically synchronized with the main wiki wich you can find here:
+https://github.com/Slimefun/Slimefun4/wiki
 
 ## Want to contribute?
-https://github.com/TheBusyBiscuit/Slimefun4/wiki/Expanding-the-Wiki
+We have written a detailed guide on how to contribute to the wiki:
+https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki

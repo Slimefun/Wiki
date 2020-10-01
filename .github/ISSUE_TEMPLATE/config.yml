@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Code of Conduct
+    url: https://github.com/Slimefun/Slimefun-Wiki/blob/master/.github/CODE_OF_CONDUCT.md
+    about: Please read this before posting
+  - name: Discord Server
+    url: https://discord.gg/fsD4Bkh
+    about: Feel free to join our discord server

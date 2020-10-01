@@ -16,5 +16,5 @@ git add *
 git commit -m "GitHub Action Deployment"
 
 echo "Pushing to wiki..."
-git remote add origin https://${ACCESS_TOKEN}@github.com/TheBusyBiscuit/Slimefun4.wiki.git
+git remote add origin https://${ACCESS_TOKEN}@github.com/Slimefun/Slimefun4.wiki.git
 git push origin master --force
