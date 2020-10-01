@@ -19,7 +19,7 @@ This category mostly consists of different kinds of food.
 
 ## Christmas Present
 The Christmas Present is even more special because it has Santa's Magic!<br>
-When you open 1 of these, you obtain random gift.
+When you open 1 of these, you obtain a random item.
 
 ### Obtaining
 The present can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench) like so:
