@@ -9,4 +9,4 @@ The Soulbound Bow remains in your inventory upon death.<br>
 Arrows fired by the Explosive Bow launch the Player or Mob they hit into the air.
 
 ## Icy Bow
-Arrows fired by the Icy Bow prevent the Player or Mob they hit from moving for 2 seconds.
+Arrows fired by the Icy Bow prevent the Player or Mob they hit from moving for 2 seconds. They will be immune to freezing for 5 seconds afterwards.
