@@ -18,6 +18,6 @@ Note that some Talismans will be consumed upon use.
 | Talisman of the Knight | 30% chance to give you Regeneration IV for 5 seconds once you get hit | Yes |
 | Talisman of the Whirlwind | 60% chance to reflect Projectiles fired at you | No |
 | Talisman of the Wizard | Gives you Fortune IV or V but sometimes lowers other Enchantments | No |
-| Talisman of the Caveman | Has a 50% chance to give you haste when mining ores | No |
+| Talisman of the Caveman | Has a 50% chance to give you Haste when mining ores | No |
 | Talisman of the Wise | Has a 20% chance to give you double experience drops | No |
 | Talisman of the Resurrected | Respawns you to a safe location if you fall in the void | Yes |
