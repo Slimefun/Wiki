@@ -31,7 +31,7 @@ LiteXpansion | J3fftw1, Walshy | <details><summary>expand</summary>A remake of S
 EcoPower | TheBusyBiscuit, poma123 | <details><summary>expand</summary>This addon is focused on climate-friendly and renewable energy sources. It features, wind turbines, steam turbines and more! You can even harness energy from lightning bolts!</details> | [Github](https://github.com/TheBusyBiscuit/EcoPower) | [Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/EcoPower/master/)
 
 ## Third-Party Addons
-These Addons come from Third-Party developers.
+These Addons come from Third-Party developers, we are not responsible for this software or their content.
 We cannot provide support for these on our official Discord Server, nor can we guarantee that they work. Some of them could be outdated or broken.
 If you encounter problems with these, contact the respective developer, not us.
 
