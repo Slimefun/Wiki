@@ -1,4 +1,4 @@
-![Talisman](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-talisman.png)
+![Talisman](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-talismans.png)
 
 Talismans are items which grant you special effects while in your possession. They can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
 

@@ -1,4 +1,4 @@
-![Damascus Steel Chestplate](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-damascus-steel-chestplate.gif)
+![Damascus Steel Chestplate](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-armor.gif)
 
 The Armor category contains six new sets of armor, plus the ability to craft [Chainmail Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chainmail-Armor).
 

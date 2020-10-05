@@ -1,4 +1,4 @@
-![Blade of Vampires](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/item-blade-of-vampires.gif)
+![Blade of Vampires](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-weapons.gif)
 
 The Weapons category contains various items which can be used as weapons.
 
