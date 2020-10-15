@@ -21,9 +21,18 @@ Despite being a "coal" generator, this generator can also be fueled with blaze r
 | Fuel | Burning time | Total (Tier I) | Total (Tier II) |
 | ---- | ------------ | --------------------- | ---------------------- |
 | Block of Coal | 1m 20s |  1.28 kJ | 2.4 kJ |
+| Dried Kelp Block | 20s | 320 J | 600 J |
 | Blaze Rod | 12s | 192 J |  360 J |
 | Coal | 8s | 128 J | 240 J |
-| Any Log | 2s | 32 J | 60 J |
+| Any Log | 4s | 64 J | 120 J |
 | Any Planks | 1s | 16 J | 30 J |
+| Any Boats | 5s | 80 J | 150 J |
+| Any Wooden Slabs | 1s | 16 J | 30 J |
+| Any Wooden Buttons | 1s | 16 J | 30 J |
+| Any Wooden Fences | 1s | 16 J | 30 J |
+| Any Wooden Trapdoors | 3s | 48 J | 90 J |
+| Any Wooden Pressure Plates | 2s | 32 J | 60 J |
+| Any Wooden Doors | 3s | 48 J | 90 J |
+| Any Signs | 2s | 32 J | 60 J |
 
-Note that it is twice as efficient to turn your logs into planks before burning them as fuel. You can cut your logs in a [Table Saw](https://github.com/Slimefun/Slimefun4/wiki/Table-Saw) for even more planks.
+Note that it is twice as efficient to turn your logs into planks in a [Table Saw](https://github.com/Slimefun/Slimefun4/wiki/Table-Saw) before burning them as fuel.
