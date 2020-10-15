@@ -4,18 +4,18 @@ The Bio-Reactor is a type of [electricity](https://github.com/Slimefun/Slimefun4
 A Bio-Reactor can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-A Bio-Reactor must be placed within 7 blocks of an [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
+A Bio Reactor must be placed within 7 blocks of an [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers
-There is only one tier of Bio-Reactor.
+There is only one tier of Bio Reactor.
 
 | Tier | Energy | Buffer |
 | ---- | --- | ------ |
 | I | 8 J/s | 128 J |
 
 ## Fuel
-Despite being a "coal" generator, this generator can also be fueled with blaze rods, wood planks and logs.
+This generator can be fueled with various vegetation.
 
 | Fuel | Burning time | Total |
 | ---- | ------------ | --------------------- 
