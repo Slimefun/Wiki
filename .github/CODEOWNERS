@@ -1,0 +1,6 @@
+# Modifications to the wiki pages should be handled by the review team
+pages/*.md          @Slimefun/wiki-staff
+
+# Modifications to sensitive files should be reviewed by designated people
+/src/               @TheBusyBiscuit
+CONTRIBUTING.md     @TheBusyBiscuit

@@ -22,5 +22,6 @@ Most of them are used for commands, so make sure to also see the wiki page about
 | -------- | -------------------------| --------- |
 | slimefun.inventory.bypass | Allows you to open Slimefun machines that belong to other Players | OP |
 | slimefun.cargo.bypass | Allows you to use Cargo Nodes that belong to other Players | OP |
+| slimefun.gps.bypass | Allows you to use GPS devices that belong to other Players | OP |
 | slimefun.android.bypass | Allows you to use Programmable Androids that belong to other Players | OP |
 | slimefun.android.upload-script | Allows you to share Android Scripts with other Players on your Server | OP |
