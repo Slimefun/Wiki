@@ -1,5 +1,8 @@
 The Sword of Beheading is a [Weapon](https://github.com/Slimefun/Slimefun4/wiki/Weapons) added in Slimefun.<br>
-It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.
+It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.<br>
+
+![Sword of Beheading](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/sword-of-beheading.png)<br>
+![Sword of Beheading Lore](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/sword-of-beheading-lore.png)
 
 ## Chance to drop head
 The table belows lists the chance for each applicable entity to drop their head upon being killed.
