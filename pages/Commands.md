@@ -28,3 +28,4 @@ But for simplicity, we will list commands as /sf.
 | /sf timings | Shows you Slimefun's Diagnostics Tools, use it to identify the impact on your server from certain machines | slimefun.command.timings |
 | /sf debug_fish | Gives you a debugging tool. Use it to query or remove Slimefun Block Data | slimefun.debugging |
 | /sf backpack (Player) (ID) | Gives you a restored backpack matching the parameters. Should only be used to retrieve the items | slimefun.command.backpack |
+| /sf charge | Fully charges the item in your hand. | slimefun.command.charge |
