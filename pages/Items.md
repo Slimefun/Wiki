@@ -1,3 +1,5 @@
+![Items Category](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/category-items.png)
+
 The Items category contains various items that all have their own unique use.
 
 ## Table of Contents

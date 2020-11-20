@@ -1,6 +1,6 @@
-![Weapons Category](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-weapons.gif)
+![Weapons Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-weapons.gif)
 
-The Weapons category contains various items which can be used as weapons.
+The Weapons category contains various items which can be used as weapons.yes
 
 ## Table of contents
 * [Grandmas Walking Stick](https://github.com/Slimefun/Slimefun4/wiki/Walking-Sticks)

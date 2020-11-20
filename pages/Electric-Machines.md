@@ -1,4 +1,4 @@
-![Electric Machines Category](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-electric-machines.png)
+![Electric Machines Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-electric-machines.png)
 
 The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [programmable androids](https://github.com/Slimefun/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
 

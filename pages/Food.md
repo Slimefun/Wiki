@@ -1,4 +1,4 @@
-![Food Category](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-resources.png)
+![Food Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-resources.png)
 
 The Food category contains a variety of foods and [juices](https://github.com/Slimefun/Slimefun4/wiki/Juices)
 

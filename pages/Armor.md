@@ -1,6 +1,6 @@
-![Armor Category](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/category-armor.gif)
+![Armor Category](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/category-armor.gif)
 
-The Armor category contains six new sets of armor, plus the ability to craft [Chainmail Armor](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Chainmail-Armor).
+The Armor category contains six new sets of armor, plus the ability to craft [Chainmail Armor](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor).
 
 ## Table of contents
 * [Damascus Steel Helmet](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Armor)
