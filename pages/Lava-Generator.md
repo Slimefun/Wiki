@@ -1,14 +1,14 @@
-The Lava Generator is a type of [electricity](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) generator. There are currently two tiers of lava generators.
+The Lava Generator is a type of [Energy Generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
 
 ## Obtaining
 All tiers of lava generators can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-A lava generator must be placed within 7 blocks of an [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
+A lava generator must be placed within 7 blocks of an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.<br>
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers
-The table below compares the two tiers of lava generators.
+There are currently two tiers of lava generators.
 
 | Tier | Energy | Buffer |
 | ---- | --- | ------ |
@@ -16,7 +16,7 @@ The table below compares the two tiers of lava generators.
 | II | 40 J/s | 1024 J |
 
 ## Fuel
-This generator can be only fueled with lava buckets.
+This generator can only be fueled with lava buckets.
 
 | Fuel | Burning time | Total (Tier I) | Total (Tier II) |
 | ---- | ------------ | --------------------- | ---------------------- |
