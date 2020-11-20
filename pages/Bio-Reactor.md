@@ -1,21 +1,21 @@
-The Bio Reactor is a type of [electricity](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) generator. 
+The Bio Reactor is a type of [Energy Generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation). 
 
 ## Obtaining
 A Bio Reactor can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-A Bio Reactor must be placed within 7 blocks of an [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
+A Bio Reactor must be placed within 7 blocks of an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.<br>
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers
-There is only one tier of Bio Reactor.
+The Bio Reactor only has one tier.
 
 | Tier | Energy | Buffer |
 | ---- | --- | ------ |
 | I | 8 J/s | 128 J |
 
 ## Fuel
-This generator can be fueled with various vegetation.
+This generator can be fueled with various organic items.
 
 | Fuel | Burning time | Total |
 | ---- | ------------ | --------------------- 
@@ -56,7 +56,3 @@ This generator can be fueled with various vegetation.
 | Any Saplings | 1s |  8 J
 | Any Corals | 2s |  16 J
 | Any Coral Blocks | 2s |  16 J
-
-
-
-
