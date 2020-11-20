@@ -1,3 +1,5 @@
+![Tools Category](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/category-tools.png)
+
 The Tools category contains various tools with special properties.
 
 ## Table of contents

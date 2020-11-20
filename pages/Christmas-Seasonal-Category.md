@@ -1,3 +1,5 @@
+![Christmas Seasonal Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-christmas.png)
+
 Christmas Seasonal Category adds Christmas special items (mostly foods). Normally, this category is only visible throughout December in the Slimefun guide. 
 
 ## Table of Contents

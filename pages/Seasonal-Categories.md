@@ -1,3 +1,5 @@
+![Seasonal Categories Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-seasonal-categories.png)
+
 Seasonal categories, are categories that can only be accessed during a certain month every year.
 
 ## Table of contents

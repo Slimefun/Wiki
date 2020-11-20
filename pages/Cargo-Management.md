@@ -1,3 +1,5 @@
+![Cargo Management Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-cargo-management.png)
+
 Cargo Management is Slimefun's item transportation system.<br>
 With it, you can quickly and automatically move items between containers or [machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) over virtually any distance.
 

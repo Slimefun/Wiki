@@ -1,3 +1,5 @@
+![Technical Components Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-technical-components.png)
+
 The Technical Components category contains various items which can be used in the crafting and operation of numerous items and machines.
 
 ## Table of contents

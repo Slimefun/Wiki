@@ -1,3 +1,5 @@
+![GPS Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-GPS.png)
+
 The GPS category adds various electric and non-electric machines revolving around GPS network.
 
 ## Table of contents
