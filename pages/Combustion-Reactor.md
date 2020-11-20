@@ -21,3 +21,5 @@ This generator can be fueled using Buckets of Oil and Buckets of Fuel.
 | ---- | ------------ | --------------------- |
 | Bucket of Oil | 30s |  720 J |
 | Bucket of Fuel| 1 min 30s | 2.16 kJ |
+
+Note that it is more efficient to turn your Buckets of Oil into Buckets of Fuel in a [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery) before burning them as fuel.
