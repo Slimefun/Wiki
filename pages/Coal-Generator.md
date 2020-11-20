@@ -1,14 +1,14 @@
-The Coal Generator is a type of [electricity](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) generator. There are currently two tiers of coal generators.
+The Coal Generator is a type of [Energy Generator](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
 
 ## Obtaining
 All tiers of coal generators can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-A coal generator must be placed within 7 blocks of an [energy regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in range of one (in a straight line; no diagonals), and provided with the appropriate fuel.<br>
+A coal generator must be placed within 7 blocks of an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator) or a [Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) in a cross format (not diagonally), and provided with the appropriate fuel.<br>
 Once it is placed, right-click it and place fuel in its inventory (two slots on the left).
 
 ## Tiers
-The table below compares the two tiers of coal generators.
+There are currently two tiers of coal generators.
 
 | Tier | Energy | Buffer |
 | ---- | --- | ------ |
@@ -16,7 +16,7 @@ The table below compares the two tiers of coal generators.
 | II | 30 J/s | 256 J |
 
 ## Fuel
-Despite being a "coal" generator, this generator can also be fueled with blaze rods, wood planks and logs.
+Despite being a "coal" generator, this generator can also be fueled with blaze rods, wood logs, planks and other wooden items.
 
 | Fuel | Burning time | Total (Tier I) | Total (Tier II) |
 | ---- | ------------ | --------------------- | ---------------------- |
