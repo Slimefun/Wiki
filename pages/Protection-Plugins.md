@@ -8,28 +8,27 @@ Plugins that support offline players will even provide support for Programmable 
 If a plugin does not support offline players, then your android will always require you to be online in order to function properly
 
 :heavy_check_mark: = Full Support<br>
-:heavy_minus_sign: = Partial Support (Only in unprotected regions)<br>
+:heavy_minus_sign: = Partial Support (e.g. only in unprotected regions)<br>
 :x: = No Support<br>
 N/A = Not applicable
 
-| Plugin | Support for Players | Support for Offline Players | Support for PvP |
-| ------------------ | :----: | :----: | :----: |
-| ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: |
-| BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A |
-| ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A |
-| Factions | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
-| FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
-| LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lands | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| Lockette | :heavy_check_mark: | :heavy_check_mark: | N/A |
-| LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A |
-| PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| PreciousStones | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| RedProtect | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: |
-| Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: |
-| WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Plugin | Support for Players | Support for Offline Players | Support for PvP | Support for Entities
+| ------------------ | :----: | :----: | :----: | :---: |
+| ASkyBlock | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
+| BentoBox | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Lands | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| Lockette | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
+| LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A | N/A |
+| PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| PreciousStones | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| RedProtect | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
+| Towny | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
+| WorldGuard | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 ### You cannot see your protection plugin?
 Either the plugin offers no integration, support for it hasn't been added by the author of that plugin or it is actually supported.<br>
