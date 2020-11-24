@@ -1,4 +1,4 @@
-![Magical Gadgets Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-magical-gadgets.png)
+![Magical Gadgets Category](https://raw.githubusercontent.com/Slimefun/Slimefun4-Wiki/master/images/category-magical-gadgets.gif)
 
 The Magical Gadgets contains various gadgets with magical powers. Use your magical items to craft these!
 
