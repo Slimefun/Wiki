@@ -21,7 +21,7 @@ N/A = Not applicable
 | FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
 | LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Lands | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| Lands | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Lockette | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
 | LWC | :heavy_check_mark: | :heavy_minus_sign: | N/A | N/A |
 | PlotSquared | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
