@@ -66,7 +66,7 @@ If you wish to disable **all** items in the world by setting `enabled` to false.
 You can't give an exact number or really even an estimate, we don't know your other plugins, addons, your server software, server version and we may even change things per-build which can affect RAM usage. We can recommend **at least** 4GB for any server though with or __without__ Slimefun.
 
 ## How does XYZ work?
-If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).
+If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki).
 > **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
 
 ## How do I repair Slimefun items?
