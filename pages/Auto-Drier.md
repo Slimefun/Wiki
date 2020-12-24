@@ -2,3 +2,10 @@ The Auto Drier is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wi
 It is also able to dry cooked meat into a more saturated version.
 
 If you want to know all the recipes, just open the machine in the Slimefun guide.
+
+## Auto Drier Tiers
+
+There is only one tier of the Auto Drier and it has the following traits:  
+
+**Speed multiplier**: 1.0x  
+**Power Usage**: 10 J/s  
