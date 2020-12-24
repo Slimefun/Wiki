@@ -5,7 +5,7 @@ If you want to know all the recipes, just open the machine in the Slimefun guide
 
 ## Auto Drier Tiers
 
-There is only one tier of the Auto Drier and it has the following traits:  
+There is only one tier of the Auto Drier and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
 **Power Usage**: 10 J/s  

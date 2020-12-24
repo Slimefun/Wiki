@@ -4,7 +4,7 @@ Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki
 
 ## Auto Enchanter Tiers
 
-There is only one tier of the Auto Enchanter and it has the following traits:  
+There is only one tier of the Auto Enchanter and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
 **Power Usage**: 18 J/s  
