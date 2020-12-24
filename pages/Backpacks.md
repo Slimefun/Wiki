@@ -1,5 +1,5 @@
 Backpacks are items in which you can store other items.  
-These can be very useful when looting or scavening.
+These can be very useful when looting or scavenging.
 
 These come in 6 tiers, each tier providing more inventory slots to store items in.
 
