@@ -1,4 +1,6 @@
-## Prerequisites
-It requires a source of electricity, see [Electric Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
-## Usage
-You place the slimefun or vanilla tool in the left slot along with a book, and an indicator will appear showing the progress on the process. Upon completion, the right side will produce the respective tool, disenchanted, and an enchanted book holding the enchants of that tool.
+The Auto Disenchanter is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
+
+It can be used to disenchant enchanted tools/weapons.  
+It will then put these on a book you have to provide when you want to disenchant something.
+
+See also: [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
