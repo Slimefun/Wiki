@@ -1,10 +1,10 @@
 The Electric Dust Washer is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines). It obtains [Dusts](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Dusts) from [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore).
 
-It's like the [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer), only it does not generate by-products and thus improves the yield rate.
+It's the electric version of the [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer), only it does not generate by-products and thus improves the yield rate.
 
 ## Electric Dust Washer Tiers
 
-| Machine Level | Power  | Time   | Buffer | Energy/Ore |
+| Tier | Power  | Time   | Buffer | Energy/Ore |
 | :-----------: | :----: | :----: | :----: | :--------: |
 | I             | 6 J/s  | 4 s    | 128 J  | 24 J       |
 | II            | 10 J/s | 2 s    | 128 J  | 20 J       |
@@ -12,4 +12,4 @@ It's like the [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer
 
 ## Tip
 
-Seeing as sifted ore can produce many dusts, it is recommend to hook it up to a cargo system because it only has 2 output slots and it will be full pretty quickly.
+Seeing as sifted ore can produce many different dusts, it is recommend to hook it up to a cargo system because it only has 2 output slots and it will be full pretty quickly.

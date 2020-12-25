@@ -1,0 +1,11 @@
+The Electric Gold Pan is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines). It obtains sifted ore and from gravel, just like the [Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Gold-Pan) the [Automated Panning Machine](https://github.com/Slimefun/Slimefun4/wiki/Automated-Panning-Machine).
+
+Unlike the [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer) it still produces by-products and thus the yield rate is exactly the same as its non-electric variants.
+
+## Electric Gold Pan Tiers
+
+| Tier | Power  | Speed Multiplier | Energy/Ore |
+| :--: | :----: | :--------------: | :--------: |
+| I    | 2 J/s  | 1.0x             | 24 J       |
+| II   | 4 J/s  | 3.0x             | 20 J       |
+| III  | 14 J/s | 10.0x            | 10 J       |
