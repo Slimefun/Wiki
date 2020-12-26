@@ -3,7 +3,7 @@ It cannot smelt [Alloys](https://github.com/Slimefun/Slimefun4/wiki/Ingots#alloy
 
 The [Electric Ingot Pulverizer](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Electric-Ingot-Pulverizer) is the opposite of this machine.
 
-## Electric Ingot Pulverizer Tiers
+## Electric Ingot Factory Tiers
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |

@@ -4,7 +4,7 @@ It runs on [Organic Food](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneo
 
 ## Animal Growth Accelerator Tiers
 
-There is only one tier of the Auto Enchanter and it has the following properties:  
+There is only one tier of the Animal Growth Accelerator and it has the following properties:  
 
 **Power Usage**: 28 J/s  
 **Buffer**: 1024 J  
