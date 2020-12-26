@@ -54,7 +54,7 @@ In late **2016** mrCookieSlime announced his retirement.
 He now goes by the name of TheBusyBiscuit and pursued his interests in video game development.
 Slimefun4 is still available for download and well-maintained by the public community that has been built around the plugin over the years.
 TheBusyBiscuit still reviews code proposed by community contributors and does a little maintenance on the plugin here and there.
-The project remained somewhat active and was maintained this way for years. [Many people](https://github.com/TheBusyBiscuit/Slimefun4/graphs/contributors) have contributed to the project during this time. 
+The project remained somewhat active and was maintained this way for years. [Many people](https://github.com/Slimefun/Slimefun4/graphs/contributors) have contributed to the project during this time. 
 
 In early **2019** - after getting dozens of requests about it - TheBusyBiscuit opened up the official Slimefun discord server.
 This discord server quickly grew in popularity, hitting a total of 1,000 members in **January of 2020**.

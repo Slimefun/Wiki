@@ -4,11 +4,16 @@
 <summary>Table of Contents</summary>
 
 - [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
+  - [a) Server Profiling (/timings)](#a-server-profiling-timings)
+  - [b) Slimefun Profiling (/sf timings)](#b-slimefun-profiling-sf-timings)
+  - [c) Plugin-based Server Profiling](#c-plugin-based-server-profiling)
 - [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
 - [3. Avoiding /reload](#3-avoiding-reload)
 - [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
 - [5. Slower Tick-rates](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
+  - [a) Setting a maxmimum network size](#a-setting-a-maxmimum-network-size)
+  - [b) Setting a cargo delay](#b-setting-a-cargo-delay)
 - [7. Enabling Automatic updates](#7-enabling-automatic-updates)
 
 </details>
@@ -113,7 +118,7 @@ options:
 Cargo networks are known to cause some performance drops depending on how they are set up.<br>
 They have gone through many optimizations over the years but they can still cause a bit of trouble from time to time.
 
-With the merge of [Pull Request #2106](https://github.com/TheBusyBiscuit/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
+With the merge of [Pull Request #2106](https://github.com/Slimefun/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
 
 Here are two ways how you can limit cargo networks to prevent your players from making large networks that hurt your server's performance.
 

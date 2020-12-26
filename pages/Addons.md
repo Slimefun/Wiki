@@ -2,10 +2,11 @@ Want to spice up your Slimefun4-Server? Then you have come to the right place!<b
 Here is a list of all Slimefun Addons (that we currently know of). You can install these addons to add even more content to your Slimefun-based Minecraft Servers!
 
 ### Table of contents
-1. [Official Addons](#official-addons)
-2. [Third-Party Addons](#third-party-addons)
-3. [Other Third-Party Plugins](#third-party-plugins)
-4. [How to create your own Addon](https://github.com/Slimefun/Slimefun4/wiki/Addons#creating-your-own-addons)
+- [Official Addons](#official-addons)
+- [Third-Party Addons](#third-party-addons)
+- [Third-Party Plugins](#third-party-plugins)
+- [Addon Jams](#addon-jams)
+  - [Creating your own Addons?](#creating-your-own-addons)
 
 ## Official Addons
 These Addons were developed closely to Slimefun.<br>
@@ -75,4 +76,4 @@ Here is a list of all Addon Jams that have been hosted so far:
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 If you have made an Addon for Slimefun and want it to be listed on here, then just create an Issue and select the "Addition" template:
-https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues
+https://github.com/Slimefun/Wiki/issues
