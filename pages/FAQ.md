@@ -62,6 +62,11 @@ You can disable items per-world by finding said world file in the folder `/plugi
 
 If you wish to disable **all** items in the world by setting `enabled` to false.
 
+## How to disable all researching?
+You can disable all researching (All items researched) by going to the research file `/plugins/Slimefun/Researches.yml` and setting `enable-researching` to `false`
+
+In the same research file, you can also disable specific researches or modify the cost of them. 
+
 ## How much RAM does Slimefun use?
 You can't give an exact number or really even an estimate, we don't know your other plugins, addons, your server software, server version and we may even change things per-build which can affect RAM usage. We can recommend **at least** 4GB for any server though with or __without__ Slimefun.
 
