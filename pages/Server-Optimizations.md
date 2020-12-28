@@ -4,18 +4,12 @@
 <summary>Table of Contents</summary>
 
 - [1. Keeping an eye on performance](#1-keeping-an-eye-on-performance)
-  - [a) Server Profiling (/timings)](#a-server-profiling-timings)
-  - [b) Slimefun Profiling (/sf timings)](#b-slimefun-profiling-sf-timings)
-  - [c) Plugin-based Server Profiling](#c-plugin-based-server-profiling)
 - [2. Choosing the right Server Software](#2-choosing-the-right-server-software)
 - [3. Avoiding /reload](#3-avoiding-reload)
 - [4. Disabling backwards-compatibility](#4-disabling-backwards-compatibility)
 - [5. Slower Tick-rates](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
-  - [a) Setting a maxmimum network size](#a-setting-a-maxmimum-network-size)
-  - [b) Setting a cargo delay](#b-setting-a-cargo-delay)
 - [7. Enabling Automatic updates](#7-enabling-automatic-updates)
-
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
