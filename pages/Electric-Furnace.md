@@ -2,9 +2,7 @@ The Electric Furnace is a Machine in the [Electric Machines](https://github.com/
 
 ## Obtaining
 
-The Electric Furnace is crafted in the [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table). The recipes vary with the machine levels and can be found in the Slimefun guide. The Electric Furnace comes in three tiers
-
-
+The Electric Furnace is crafted in the [Enhanced Crafting Table](https://github.com/TheBusyBiscuit/Slimefun4/wiki/Enhanced-Crafting-Table). The recipes vary with the machine levels and can be found in the Slimefun guide. The Electric Furnace comes in three tiers.
 
 ## Usage
 
@@ -12,13 +10,13 @@ The Electric Furnaces has to be connected to an [Electrical Network](https://git
 
 All three levels of the Electric Furnace have the same layout
 
-And the slots of an Electric Furnace III is shown below:  
+And the slots of an Electric Furnace III are shown below:  
 ![Electric Furnace III Slots](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/electric-furnace.png)
 
 - The two cyan glass panes on the left are the input slots 
-- The orange slots on the right are the output slots which items will appear after they've been processed 
+- The orange slots on the right are the output slots which items will appear after they've been processed. 
 
-Once the output slots are filled, the Electric Furnaces stops its operation until the output slots are cleared. Therefore, a [Cargo Management System](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) is the most efficient way to control the input and output to make an automated system
+Once the output slots are filled, the Electric Furnaces stops its operation until the output slots are cleared. Therefore, a [Cargo Management System](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management) is the most efficient way to control the input and output to make an automated system.
 
 ## Specifications
 
