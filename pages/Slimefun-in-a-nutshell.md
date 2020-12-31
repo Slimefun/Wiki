@@ -46,7 +46,7 @@ Slimefun3 was around for quite a while.
 In **mid-2015**, mrCookieSlime opened his own Minecraft Server: "Cookie's Realm".
 At the end of the year, the fourth iteration of Slimefun (Slimefun4) was available for Beta-Testing, exclusive for Cookie's Realm at first.
 Slimefun4 added tons of new elements: item transportation, energy networks, nuclear reactors, GPS and satellite systems, little programmable androids that can mine or farm.
-There is just too much too list.
+There is just too much to list.
 This version of Slimefun was released to the public in **April of 2016**.
 The source code to Slimefun4 was also made publicly available on GitHub, it is now open-source!
 
