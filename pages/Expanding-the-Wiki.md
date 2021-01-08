@@ -99,9 +99,11 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 
 ## Step 4: Making a Pull Request
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
+
 ![Pull Requests Tab](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-tab.png)
 
 Now all you have to do is click on the bright green button that says "New pull request".
+
 ![New Pull Request Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-button.png)
 
 Then click on the next "New pull request" button and fill out the description for your pull request.<br>
