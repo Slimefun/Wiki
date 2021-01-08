@@ -3,7 +3,7 @@ name: Addition
 about: You want to add a new Section the Wiki? Did you create an Addon that you want
   to be listed?
 title: ''
-labels: Addition
+labels: "➕ Addition"
 assignees: ''
 
 ---
