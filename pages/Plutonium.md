@@ -2,7 +2,7 @@ Plutonium is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) 
 [Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation) or create better nuclear fuels.
 
 ## Obtaining
-Neptunium is a byproduct of using [Neptunium](https://github.com/Slimefun/Slimefun4/wiki/Neptunium) as a fuel for [nuclear reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
+Neptunium is a byproduct of using [Neptunium](https://github.com/Slimefun/Slimefun4/wiki/Neptunium) as a fuel for [Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
 
 ## Handling
 Plutonium is VERY HIGHLY [Radioactive](https://github.com/Slimefun/Slimefun4/wiki/Radiation). Wearing a [Hazmat Suit](https://github.com/Slimefun/Slimefun4/wiki/Hazmat-Suit) at all times while handling them is *highly recommended*. 
