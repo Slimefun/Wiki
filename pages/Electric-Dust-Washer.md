@@ -12,4 +12,4 @@ It's the electric version of the [Ore Washer](https://github.com/Slimefun/Slimef
 
 ## Tip
 
-Seeing as sifted ore can produce many different dusts, it is recommend to hook it up to a cargo system because it only has 2 output slots and it will be full pretty quickly.
+Seeing as sifted ore can produce many different dusts, it is recommended to hook it up to a cargo system because it only has 2 output slots and they will fill pretty quickly.
