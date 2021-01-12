@@ -2,7 +2,7 @@
 name: Missing documentation
 about: A part of Slimefun4 is not covered by the Wiki? Let us know!
 title: ''
-labels: Missing documentation
+labels: "\U0001F578 Missing documentation"
 assignees: ''
 
 ---
