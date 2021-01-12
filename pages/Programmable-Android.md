@@ -68,6 +68,7 @@ There is only one tier in this woodcutter android.
 
 A specialized android is created to automate the fishing process
 This android has no function other than just moving.
+You have to put water underneath for the android to work.
 
 There are three tiers on fisherman android, each with different modifiers listed below.
 
