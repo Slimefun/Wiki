@@ -33,6 +33,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS)
 * [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets)
 * [Cargo Management](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)
+* [Programmable Android](https://github.com/Slimefun/Slimefun4/wiki/Programmable-Android)
 * [Seasonal Categories](https://github.com/Slimefun/Slimefun4/wiki/Seasonal-Categories)
 
 ## Discord
