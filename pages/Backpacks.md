@@ -13,3 +13,6 @@ These come in 6 tiers, each tier providing more inventory slots to store items i
 | Woven Backpack   | 36              |
 | Gilded Bacpack   | 45              |
 | Radiant Backpack | 54              |
+
+There is also the Restored backpack, which you can obtain by executing `/sf backpack`.  
+This backpack can be used to retrieve lost items from other backpacks, and requires permissions.

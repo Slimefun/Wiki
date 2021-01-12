@@ -8,6 +8,10 @@ There is only one tier of the Auto Disenchanter and it has the following propert
 **Speed multiplier**: 1.0x  
 **Power Usage**: 18 J/s  
 
+## Tip
+
+Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
+
 ## See also
 
 [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
