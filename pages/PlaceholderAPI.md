@@ -14,7 +14,7 @@ This Placeholder will be replaced with the total amount of Researches in your Sl
 This Placeholder will be replaced with the amount of Researches you have unlocked so far.
 
 ## Total amount of XP Levels spent
-`%slimefun_total_xp_levels_spent%`
+`%slimefun_researches_total_xp_levels_spent%`
 
 This Placeholder will be replaced with the total amount of xp levels you have spent on Researches.
 
