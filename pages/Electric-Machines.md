@@ -61,4 +61,5 @@ For more information on the individual items in this category, see the table of 
 * [Freezer](https://github.com/Slimefun/Slimefun4/wiki/Freezer)
 * [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
 * [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery)
+* [Tree Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Tree-Growth-Accelator)
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
