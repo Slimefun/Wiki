@@ -1,5 +1,3 @@
-Programmable Android category contains tools for the user for automating their task to make their life easier.
-
 ## Android Interfaces
 
 ### Android Interfaces (Cargo)
