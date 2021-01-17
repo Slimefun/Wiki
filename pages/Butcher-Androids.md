@@ -1,7 +1,9 @@
-### Butcher Android
-
 A specialized android is created to kill a hostile or/and animal mobs.
 
+## Obtaining
+Butcher Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+
+## Tiers
 There are three tiers on butcher android, each with different modifiers listed below.
 
 | Tier | Fuel Efficiency | Damage |
