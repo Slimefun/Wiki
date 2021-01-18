@@ -1,9 +1,11 @@
-A specialized android is created to automate the fishing process
-This android has no function other than just moving.
-You have to put water underneath for the android to work.
+A specialized android is created to automate the fishing process.
 
 ## Obtaining
 Fisherman Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
+
+## Usage
+You have to put water underneath for the android to work.
+To power Androids you need compatible fuel source on each tiers.
 
 ## Tiers
 There are three tiers on fisherman android, each with different modifiers listed below.
