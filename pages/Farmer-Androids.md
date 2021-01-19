@@ -9,7 +9,7 @@ Farmer Androids can be programmed to harvest or/and plant crops.
 Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
 ## Tiers
-There are two tiers on farmer android, each with different modifiers listed below.
+There are two tiers on the Farmer Android, each with different modifiers listed below.
 
 | Tier | Fuel Efficiency | Special Function |
 | ---- | --------------- | ---------------- |
