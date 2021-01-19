@@ -8,4 +8,4 @@ This interface can also be connected to with a cargo network or with a hopper.
 ### Android Interfaces (Fuel)
 
 This interface is used to give fuel to the Android when the script tells them to do so.
-This interface is also can be connected through a cargo network or with a hopper.
+This interface can also be connected to with a cargo network or with a hopper.
