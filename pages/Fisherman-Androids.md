@@ -4,7 +4,7 @@ An Android that specializes in automating the fishing process.
 Fisherman Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-You have to put water underneath for the android to work.
+You have to put water underneath the Android in order for it to work.
 To power Androids you need compatible fuel source on each tiers.
 
 ## Tiers
