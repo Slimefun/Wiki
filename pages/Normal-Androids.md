@@ -8,7 +8,7 @@ Normal Androids can only be programmed to move.
 To power Androids you need compatible fuel source on each tiers.
 
 ## Tiers
-There are three tiers on normal android, each with different modifiers listed below.
+There are three tiers on the Normal Android, each with different modifiers listed below.
 
 | Tier | Fuel Efficiency |
 | ---- | --------------- |
