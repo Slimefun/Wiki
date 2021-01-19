@@ -30,11 +30,11 @@ Each tier requires different types of fuel, their possible fuels are listed belo
 | Any Planks Type  | 1s       |
 
 ### Advanced Tier
-| Item | Duration |
-| ---- | -------- |
-| Bucket of Fuel | 8m 20s |
-| Bucket of Oil | 3m 20s |
-| Lava Bucket | 1m 40s ||
+| Item           | Duration |
+| -------------- | -------- |
+| Bucket of Fuel | 8m 20s   |
+| Bucket of Oil  | 3m 20s   |
+| Lava Bucket    | 1m 40s   |
 
 ### Empowered Tier
 | Item | Duration |
