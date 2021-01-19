@@ -1,4 +1,4 @@
-A specialized android is created to automate farming process.
+An Android that specializes in automating the farming process.
 This android only works with planted seed and will not work on melon or pumpkin.
 
 ## Obtaining
