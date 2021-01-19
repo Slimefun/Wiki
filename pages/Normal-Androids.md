@@ -37,8 +37,8 @@ Each tier requires different types of fuel, their possible fuels are listed belo
 | Lava Bucket    | 1m 40s   |
 
 ### Empowered Tier
-| Item | Duration |
-| ---- | -------- |
-| Uranium | 41m 40s |
-| Neptunium | 20m 0s |
-| Boosted Uranium | 50m 0s |
+| Item            | Duration |
+| --------------- | -------- |
+| Uranium         | 41m 40s  |
+| Neptunium       | 20m 0s   |
+| Boosted Uranium | 50m 0s   |
