@@ -1,4 +1,4 @@
-A specialized android is created to kill a hostile or/and animal mobs.
+An Android that specializes in killing hostile mobs or/and animals.
 
 ## Obtaining
 Butcher Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
