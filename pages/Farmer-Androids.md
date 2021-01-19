@@ -6,7 +6,7 @@ Farmer Androids can be crafted in an [Enhanced Crafting Table](https://github.co
 
 ## Usage
 Farmer Androids can be programmed to harvest or/and plant crops.
-To power Androids you need compatible fuel source on each tiers.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
 ## Tiers
 There are two tiers on farmer android, each with different modifiers listed below.
