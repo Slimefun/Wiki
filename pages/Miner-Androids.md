@@ -4,7 +4,7 @@ An Android specialized for mining purposes, but can used to break other blocks t
 Miner Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-This android can be used to create tunnel, caves, and others.
+This android can be used to create tunnels, caves, and alikes.
 
 ## Tiers
 There is only one tier in this miner android.
