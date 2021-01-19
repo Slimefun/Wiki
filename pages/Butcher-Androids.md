@@ -11,8 +11,8 @@ Androids need fuel in order to work, you have to fill them with the [Required Fu
 ## Tiers
 There are three tiers on the Butcher Android, each with different modifiers listed below.
 
-| Tier | Fuel Efficiency | Damage |
-| ---- | --------------- | ------ |
-| Basic | 1.0x | 4 |
-| Advanced | 1.5x | 8 |
-| Empowered | 8.0x | 20 |
+| Tier      | Fuel Efficiency | Damage |
+| --------- | :-------------: | :----: |
+| Basic     | 1.0x            | 4      |
+| Advanced  | 1.5x            | 8      |
+| Empowered | 8.0x            | 20     |
