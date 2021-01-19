@@ -9,6 +9,6 @@ This android can be used to create tunnels, caves, and alikes.
 ## Tiers
 There is only one tier in this miner android.
 
-| Tier | Fuel Efficiency |
-| ---- | --------------- |
-| Basic | 1.0x |
+| Tier  | Fuel Efficiency |
+| ----- | :-------------: |
+| Basic | 1.0x            |
