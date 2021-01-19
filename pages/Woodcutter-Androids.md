@@ -1,4 +1,4 @@
-A specialized android is created to automate the process of harvesting wood and replanting it.
+An android that specializes in automating the process of harvesting and replanting trees.
 This Android will work with all types of wood.
 
 ## Obtaining
