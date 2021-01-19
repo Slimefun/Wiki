@@ -4,7 +4,7 @@ An Android that specializes in killing hostile mobs or/and animals.
 Butcher Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-Butcher Androids can be proggrammed to kill a hostile or animal type of mobs.
+Butcher Androids can be programmed to kill hostile mobs or/and animals.  
 This can also can be paired with [EXP Collector](https://github.com/Slimefun/Slimefun4/wiki/EXP-Collector) for automated EXP Farm.
 
 ## Tiers
