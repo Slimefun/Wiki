@@ -5,7 +5,7 @@ This android only works with planted seeds and will not work with melons or pump
 Farmer Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
 
 ## Usage
-Farmer Androids can be programmed to move and to harvest and replants.
+Farmer Androids can be programmed to harvest or/and plant crops.
 To power Androids you need compatible fuel source on each tiers.
 
 ## Tiers
