@@ -10,11 +10,11 @@ To power Androids you need compatible fuel source on each tiers.
 ## Tiers
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
-| Tier | Fuel Efficiency | Success Rate |
-| ---- | --------------- | ------------ |
-| Basic | 1.0x | 10% |
-| Advanced | 1.5x | 20% |
-| Empowered | 8.0x | 30% |
+| Tier      | Fuel Efficiency | Success Rate |
+| --------- | :-------------: | ------------ |
+| Basic     | 1.0x            | 10%          |
+| Advanced  | 1.5x            | 20%          |
+| Empowered | 8.0x            | 30%          |
 
 ## Loot Table
 These are items that you can get when using the Fisherman Android:
