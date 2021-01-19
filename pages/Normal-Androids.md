@@ -17,7 +17,7 @@ There are three tiers on the Normal Android, each with different modifiers liste
 | Empowered | 3.0x |
 
 ## Power Source
-Each tiers have their own fuel source listed below.
+Each tier requires different types of fuel, their possible fuels are listed below.
 
 ### Basic Tier
 | Item | Duration |
