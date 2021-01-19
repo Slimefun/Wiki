@@ -5,7 +5,7 @@ Fisherman Androids can be crafted in an [Enhanced Crafting Table](https://github
 
 ## Usage
 You have to put water underneath the Android in order for it to work.
-To power Androids you need compatible fuel source on each tiers.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
 ## Tiers
 There are three tiers on the Fisherman Android, each with different modifiers listed below.
