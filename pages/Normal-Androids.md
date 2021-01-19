@@ -10,11 +10,11 @@ To power Androids you need compatible fuel source on each tiers.
 ## Tiers
 There are three tiers on the Normal Android, each with different modifiers listed below.
 
-| Tier | Fuel Efficiency |
-| ---- | --------------- |
-| Basic | 1.0x |
-| Advanced | 1.5x |
-| Empowered | 3.0x |
+| Tier      | Fuel Efficiency |
+| --------- | :-------------: |
+| Basic     | 1.0x            |
+| Advanced  | 1.5x            |
+| Empowered | 3.0x            |
 
 ## Power Source
 Each tier requires different types of fuel, their possible fuels are listed below.
