@@ -17,7 +17,7 @@ There are three tiers on fisherman android, each with different modifiers listed
 | Empowered | 8.0x | 30% |
 
 ## Loot Table
-These are items that you can get when using Fisherman Android
+These are items that you can get when using the Fisherman Android:
 | Item |
 | ---- |
 | Raw Cod |
