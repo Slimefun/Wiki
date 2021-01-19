@@ -8,7 +8,7 @@ You have to put water underneath the Android in order for it to work.
 To power Androids you need compatible fuel source on each tiers.
 
 ## Tiers
-There are three tiers on fisherman android, each with different modifiers listed below.
+There are three tiers on the Fisherman Android, each with different modifiers listed below.
 
 | Tier | Fuel Efficiency | Success Rate |
 | ---- | --------------- | ------------ |
