@@ -20,14 +20,14 @@ There are three tiers on the Normal Android, each with different modifiers liste
 Each tier requires different types of fuel, their possible fuels are listed below.
 
 ### Basic Tier
-| Item | Duration |
-| ---- | -------- |
-| Block of Coal | 1m 20s |
-| Dried Kelp Block | 1m 10s |
-| Blaze Rod | 45s |
-| Coal/Charcoal | 8s |
-| Any (Stripped) Wood/Log Type | 2s |
-| Any Planks Type | 1s |
+| Item             | Duration |
+| ---------------- | -------- |
+| Block of Coal    | 1m 20s   |
+| Dried Kelp Block | 1m 10s   |
+| Blaze Rod        | 45s      |
+| Coal/Charcoal    | 8s       |
+| Any Wood Log     | 2s       |
+| Any Planks Type  | 1s       |
 
 ### Advanced Tier
 | Item | Duration |
