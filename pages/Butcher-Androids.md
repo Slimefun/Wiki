@@ -6,6 +6,7 @@ Butcher Androids can be crafted in an [Enhanced Crafting Table](https://github.c
 ## Usage
 Butcher Androids can be programmed to kill hostile mobs or/and animals.  
 This can also can be paired with [EXP Collector](https://github.com/Slimefun/Slimefun4/wiki/EXP-Collector) for automated EXP Farm.
+Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
 ## Tiers
 There are three tiers on butcher android, each with different modifiers listed below.
