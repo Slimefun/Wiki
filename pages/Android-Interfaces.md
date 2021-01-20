@@ -1,5 +1,3 @@
-## Android Interfaces
-
 ### Android Interfaces (Cargo)
 
 This interface is used to store items from an Android when the script tells them to do so.
