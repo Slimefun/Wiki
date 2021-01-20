@@ -1,4 +1,4 @@
-Programmable Androids category contain robots for the user to automate some task.
+The Programmable Androids category contains robots that are able to automate tasks.
 
 ## Table of Contents
 * [Android Interfaces](https://github.com/Slimefun/Slimefun4/wiki/Android-Interfaces)
