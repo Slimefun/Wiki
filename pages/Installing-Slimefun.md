@@ -1,6 +1,5 @@
 ## Prerequisites
 * A Bukkit/Spigot Server (most preferabbly the latest version)
-* Slimefun 4 will require a compatible version of CS-CoreLib, which can be found [here](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/).
 
 ### Slimefun 4 Downloads
 You can choose between two branches of slimefun, the ["stable" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/stable/) or the ["development" branch](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/).
@@ -8,7 +7,7 @@ Stable builds have been around for quite a while and were thoroughly tested, dev
 If your Server is very reliant on a working build of Slimefun, choose a stable build.
 But if you want to help contribute to Slimefun4 by reporting issues and helping us identify those more quickly, please consider using a development build (Bug Reports from "stable" builds may be ignored since they are outdated).
 
-You can click on any Slimefun/CS-CoreLib build to see all compatible Minecraft Versions for that build.
+You can click on any Slimefun build to see all compatible Minecraft Versions for that build.
 
 ## How to install
 Drag and drop the necessary jar files into your servers */plugins* directory. Then, restart your server.
@@ -46,6 +45,6 @@ Here is a full article on how to [Optimize your Slimefun Server](https://github.
 # Additional Addons
 If you wish to install additional addons, refer to [this page](https://github.com/Slimefun/Slimefun4/wiki/Addons) to see all the addons that are compatible with your version of Slimefun4.
 
-These additional addons require Slimefun4 and CS-CoreLib, and will create their own independent folders within your /plugins folder.
+These additional addons require Slimefun4 and will create their own independent folders within your /plugins folder.
 Configuration should be very straight forward for these plugins as well.
 Remember that you can also disable any Items from Addons in Slimefun's Items.yml file.
