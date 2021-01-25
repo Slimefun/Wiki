@@ -18,22 +18,20 @@ There are three tiers on the Fisherman Android, each with different modifiers li
 
 ## Loot Table
 These are items that you can get when using the Fisherman Android:
-| Item           |
-| -------------- |
-| Raw Cod        |
-| Raw Salmon     |
-| Tropical Fish  |
-| Pufferfish     |
-| Cooked Cod     |
-| Cooked Salmon  |
-| Bone           |
-| String         |
-| Ink Sac        |
-| Kelp           |
-| Stick          |
-| Rotten Flesh   |
-| Leather        |
-| Bamboo         |
-| Saddle         |
-| Name Tag       |
-| Nautilus Shell |
+- Raw Cod
+- Raw Salmon
+- Tropical Fish
+- Pufferfish
+- Cooked Cod
+- Cooked Salmon
+- Bone
+- String
+- Ink Sac
+- Kelp
+- Stick
+- Rotten Flesh
+- Leather
+- Bamboo
+- Saddle
+- Name Tag
+- Nautilus Shell
