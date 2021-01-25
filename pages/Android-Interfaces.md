@@ -1,3 +1,6 @@
+There are two types of Android Interfaces, Cargo and Fuel.
+Each type of Android Interfaces have their own function listed below.
+
 ### Android Interfaces (Cargo)
 
 This interface is used to store items from an Android when the script tells them to do so.
