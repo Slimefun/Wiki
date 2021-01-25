@@ -1,5 +1,5 @@
 An Android that specializes in automating the farming process.
-This android only works with planted seeds and will not work with melons or pumpkins.
+This android only works with planted seeds and will not work neither with melons, pumpkins, sugar cane, nor cactus.
 
 ## Obtaining
 Farmer Androids can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
