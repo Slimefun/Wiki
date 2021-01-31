@@ -32,6 +32,7 @@ Contributions to the Wiki are therefore much appreciated!
 * [Energy & Electricity](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines)
 * [GPS](https://github.com/Slimefun/Slimefun4/wiki/GPS)
 * [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets)
+* [Programmable Androids](https://github.com/Slimefun/Slimefun4/wiki/Androids)
 * [Cargo Management](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management)
 * [Seasonal Categories](https://github.com/Slimefun/Slimefun4/wiki/Seasonal-Categories)
 
