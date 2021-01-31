@@ -99,7 +99,7 @@ name: SlimefunAddon
 version: ${project.version}
 author: CHANGEME
 description: A generic Slimefun4-Addon
-website: https://github.com/TheBusyBiscuit/Slimefun4-Addon
+website: https://github.com/Slimefun/Addon-Template
 
 main: me.CHANGEME.slimefunaddon.SlimefunAddon
 depend: [Slimefun]
@@ -179,7 +179,7 @@ To build against RC-15 for example, simply replace your version like this:
 `<version>master-SNAPSHOT</version>` -> `<version>RC-15</version>`
 
 You can find a full list of versions to build against in the "Releases" section on Slimefun's github repository:<br>
-https://github.com/TheBusyBiscuit/Slimefun4/releases
+https://github.com/Slimefun/Slimefun4/releases
 
 You can also find a "Maven dependency reference" for every released version. Simply copy & paste/replace the version tag into your `pom.xml` to update your dependency.
 
