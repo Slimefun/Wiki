@@ -77,5 +77,7 @@ Here is a list of all Addon Jams that have been hosted so far:
 ### Creating your own Addons?
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
-If you have made an Addon for Slimefun and want it to be listed on here, then just create an Issue and select the "Addition" template:
-https://github.com/Slimefun/Wiki/issues
+If you have made an Addon for Slimefun and want it to be listed on here, simply make a new pull request on our wiki repository. You can find a tutorial here:
+https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki.  
+If a pull request is not possible, then just create an Issue and select the "Addition" template:  
+https://github.com/TheBusyBiscuit/Slimefun4-Wiki/issues
