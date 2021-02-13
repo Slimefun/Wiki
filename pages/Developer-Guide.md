@@ -27,7 +27,7 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
 6. [Custom heads](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(6-Custom-Heads))
 7. [Adding resources to the GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(7-GEO-Resources))
 8. Creating electric machines
-   - *Creating a simple input/output machine with recipes (soon)*
+   - [Creating a simple input/output machine with recipes](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(8a-Simple-Machine))
    - *Creating your own Generator (soon)*
 
 ?. [Publishing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing))
