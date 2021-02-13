@@ -336,3 +336,5 @@ public class EnderOreResource implements GEOResource {
 ```
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
+
+[**> Continue with Part 8a**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(8a-Simple-Machine))

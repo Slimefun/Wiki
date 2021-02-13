@@ -3,7 +3,8 @@ If you haven't checked out the [seventh Part of this Guide](https://github.com/S
 
 ## 1. A recap
 In the last part, part we discussed how to create new ores obtainable through the [GEO - Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner).<br>
-This time, we will be discussing how to use machines and recipes to turn our new EnderOre into Ender Pearls. Before we get to that, here is a recap of our plugin so far:
+This time, we will be discussing how to use machines and recipes to turn our new EnderOre into Ender Pearls.<br>
+Before we get to that, here is a recap of our plugin so far:
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
@@ -80,8 +81,8 @@ public class EnderExcavator extends AContainer {
 Whew, that's a lot! Let's break it down a bit.<br>
 First we have our imports. These will be after the `package` declaration for this class.<br>
 Next, we extend the AContainer to make our EnderExcavator class, meaning we get all the functionality of the AContainer even if we don't specifically code it.<br>
-We then declare a variable that's private to our EnderExcavator: enderOreItem. We will be using this to create the Ender Ore to Ender Pearl recipe later.
-Lastly, we make the initialization method for our EnderExcavator. This will tell the machine what category it should go in inside the guide, the item that it is represented by, how this machine in crafted, the exact recipe needed, and finally our Ender Ore item.<br>
+We then declare a variable that's private to our EnderExcavator: enderOreItem. We will be using this to create the Ender Ore to Ender Pearl recipe later.<br>
+Lastly, we make the initialization method for our EnderExcavator. This will tell the machine what category it should go in inside the guide, the item that it is represented by, how this machine is crafted, the exact recipe needed, and finally our Ender Ore item.<br>
 Inside this initialization, we first need to pass variables backwards to AContainer (this class's "super" type) to set up the backend for us, and then we will set the machine's `enderOreItem` variable to the SlimefunItemStack passed in.
 
 Moving onward, there are a few mandatory methods we will need to override, namely the methods for getting the machine identifier and progress bar:
@@ -138,9 +139,8 @@ The `registerRecipe` method takes 3 arguments: the number of seconds the recipe 
 Optionally, it can take two ItemStack arrays to designate recipes with more than one input or output.<br>
 Note that AContainers only have 2 input slots and 2 output slots by default, so array recipes with more than 2 ItemStacks will likely not work.
 
-We now have a fully functional machine! All that's left to do is instantiate it and register it to the plugin.
-
-To summarize, here is the complete EnderExcavator class declaration:
+We now have a fully functional machine! All that's left to do is instantiate it and register it to the plugin.<br>
+Before we do that though, here is the complete EnderExcavator class declaration:
 
 ```java
 import org.bukkit.Material;
@@ -217,8 +217,8 @@ enderExcavatorMachine.register(this);
 
 ## 5. (Optional) Adding machine variants
 
-You may have noticed that the attributes and the logic for AContainers is separate.<br>
-This is done to greatly simplify adding machine variants to your addon.<br>
+You may have noticed that the attributes and the logic for AContainers are totally separate.<br>
+It is done this way to greatly simplify adding machine variants to your addon.<br>
 For example, if we wanted to add a level 2 or level 3 variant of the Ender Excavator, we could do that in four easy steps:
 
 1. Make a new SlimefunItemStack to represent the machine variant, changing the lore as needed
@@ -226,7 +226,7 @@ For example, if we wanted to add a level 2 or level 3 variant of the Ender Excav
 3. Set the new instance's attributes, making sure to match values with the lore
 4. Register the new instance
 
-This is extremely powerful and allows you to easily add progression in your plugin.<br>
+This is extremely powerful and allows you to easily add progression to your plugin.<br>
 We will not explicitly cover this in this guide, and it is left as an exercise for the reader. 😄
 
 ## 6. The wrap up
@@ -278,3 +278,5 @@ enderExcavatorMachine.register(this);
 ```
 
 If you have any questions, feel free to hop on discord and ask them in `#programming-help`.
+
+*> Continue with Part 8b (soon)*
