@@ -65,4 +65,8 @@ In **April of 2020**, we held our first [Addon Jam](https://github.com/Slimefun/
 Meanwhile our discord server has reached 2,000 members at the beginning of **June in 2020**.
 Slimefun is still vivid and alive and has an incredible community behind and around it.
 
+By early **2021**, the discord server has reached 4,500 members and we are growing our second organization: [Slimefun Addon Community](https://github.com/Slimefun-Addon-Community), a place for developers to express their creativity, connect with others and share experiences. The goal of that project was to bring people together and allow them to work on addons collaboratively. The second [Addon Jam](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021) is also taking place in **April of 2021**.
+By now, Slimefun has turned 8 years old.
+If Slimefun was a child, it would already be sitting in elementary school... which is strange when you think about it. But the community behind this has persisted over so many years and still continues to grow!
+
 *To be continued...*
