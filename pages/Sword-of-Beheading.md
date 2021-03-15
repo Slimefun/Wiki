@@ -1,6 +1,5 @@
 The Sword of Beheading is a [Weapon](https://github.com/Slimefun/Slimefun4/wiki/Weapons) added in Slimefun.<br>
 It is an Iron Sword enchanted with Beheading II, which has a chance to drop a Player's or Mob's head upon killing them.<br>
-It is a single research, and costs 6 xp levels. (Researching it only unlocks this item)
 
 ![Sword of Beheading](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/sword-of-beheading.png)<br>
 ![Sword of Beheading Lore](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/sword-of-beheading-lore.png)
