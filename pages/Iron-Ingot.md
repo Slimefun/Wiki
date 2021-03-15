@@ -16,7 +16,7 @@ Additionally, Iron Ingots are used to make the following alloys:
 * [Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Steel-Ingot)
 
 They are also a crafting ingredient for the following items and machines:
-* [Ancient Rune [Lightning]](https://github.com/Slimefun/Slimefun4/wiki/Lightning-Rune)
+* [Ancient Rune [Lightning]](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes)
 * [Block Placer](https://github.com/Slimefun/Slimefun4/wiki/Block-Placer)
 * [Electric Gold Pan (II)](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
 * [Portable Dustbin](https://github.com/Slimefun/Slimefun4/wiki/Portable-Dustbin)
