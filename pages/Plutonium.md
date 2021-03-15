@@ -1,5 +1,5 @@
 Plutonium is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to power 
-[Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation) or create better nuclear fuels.
+[Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation) or to create even better radioactive fuels.
 
 ## Obtaining
 Neptunium is a byproduct of using [Neptunium](https://github.com/Slimefun/Slimefun4/wiki/Neptunium) as a fuel for [Nuclear Reactors](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation).
