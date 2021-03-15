@@ -9,12 +9,12 @@ The Soulbound Bow remains in your inventory upon death.<br>
 Arrows fired by the Explosive Bow launch the Player or Mob they hit into the air.<br>
 This is part of a group research, and costs 22 xp levels. (Researching also unlocks Icy Bow)
 
-![Explosive Bow](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/explosive-bow.png)<br>
-![Explosive Bow Lore](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/explosive-bow-lore.png)
+![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/explosive-bow.png)<br>
+![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/explosive-bow-lore.png)
 
 ## Icy Bow
 Arrows fired by the Icy Bow prevent the Player or Mob they hit from moving for 2 seconds. They will be immune to freezing for 5 seconds afterwards.<br>
 This is part of a group research, and costs 22 xp levels. (Researching also unlocks Explosive Bow)
 
-![Icy Bow](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/icy-bow.png)<br>
-![Icy Bow Lore](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/icy-bow-lore.png)
+![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/icy-bow.png)<br>
+![image label](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/icy-bow-lore.png)
