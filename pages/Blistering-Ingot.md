@@ -1,4 +1,4 @@
-Blistering Ingots are [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources)s that can be used to craft [reactor-related](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) items.
+Blistering Ingots are [Resources](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to craft [Reactor](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines#energy-generation) related items and [End-Game Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines).
 
 ## Obtaining
 Blistering Ingots can be crafted in a [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber) using [1 24-Carat Gold Ingot](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot) and [1 Uranium](https://github.com/Slimefun/Slimefun4/wiki/Uranium).
