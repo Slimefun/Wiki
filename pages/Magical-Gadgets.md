@@ -10,7 +10,7 @@ The Magical Gadgets contains various gadgets with magical powers. Use your [Magi
 - [Elemental Staff - Fire](https://github.com/Slimefun/Slimefun4/wiki/Elemental-Staves)  
 - [Elemental Staff - Storm](https://github.com/Slimefun/Slimefun4/wiki/Elemental-Staves)  
 - [Magical Zombie Pills](https://github.com/Slimefun/Slimefun4/wiki/Magical-Zombie-Pills)  
-- [Infused Magnet](https://github.com/Slimefun/Slimefun4/wiki/Infused-Magnets)  
+- [Infused Magnet](https://github.com/Slimefun/Slimefun4/wiki/Infused-Magnet)  
 - [Soulbound Backpack](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Backpack)  
 - [Reinforced Spawner](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Spawner)  
 - [Scroll of Dimensional Teleposition](https://github.com/Slimefun/Slimefun4/wiki/Scroll-of-Dimensional-Teleposition)  
