@@ -141,7 +141,7 @@ The `name` is then followed by zero or more lines of lore. (Color codes also sup
 
 So the full result of our `SlimefunItemStack` may look like this:
 ```java
-SlimefunItemStack itemStack = new SlimefunitemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
+SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
 ```
 
 For the lore I left the first line empty, this is not required but consistent with other items from Slimefun.<br>
