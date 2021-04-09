@@ -19,6 +19,7 @@ N/A = Not applicable
 | BlockLocker | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
 | ChestProtect | :heavy_check_mark: | :heavy_check_mark: | N/A | N/A |
 | FactionsUUID | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| FunnyGuilds | :heavy_check_mark: | :x: | :heavy_minus_sign: | :heavy_minus_sign: |
 | GriefPrevention | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_check_mark: |
 | LandLord | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Lands | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
