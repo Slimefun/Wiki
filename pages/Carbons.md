@@ -1,8 +1,8 @@
 Carbon is a [Resource](https://github.com/Slimefun/Slimefun4/wiki/Resources) that can be used to craft a variety of other items. It comes in three forms:
 
 - Carbon
-- Carbon Chunk
 - Compressed Carbon
+- Carbon Chunk
 
 ## Obtaining
 Carbon can be crafted in the [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor) using 8 Coal.  
