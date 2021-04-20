@@ -10,9 +10,9 @@ The Resources category contains many natural and man-made resources which are us
 * [Raw Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
 * [Carbonado](https://github.com/Slimefun/Slimefun4/wiki/Carbonado)
 ### Elements and compounds
-* [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbons)
-* [Compressed Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbons)
-* [Carbon Chunk](https://github.com/Slimefun/Slimefun4/wiki/Carbons)
+* [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
+* [Compressed Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
+* [Carbon Chunk](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
 * [Magnesium Salt](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-Salt)
 * [Sulfate](https://github.com/Slimefun/Slimefun4/wiki/Sulfate)
 * [Silicon](https://github.com/Slimefun/Slimefun4/wiki/Silicon)
