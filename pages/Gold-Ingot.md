@@ -25,7 +25,7 @@ It is also used in the following recipes:
 * [Gold Ingot (10-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-10-Carat)
 * [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar)
 * [Ancient Pedestal](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Pedestal)
-* [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Common-Talisman)
+* [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Common-Talisman)
 
 ### Gold Ingot (10-Carat)
 10-carat gold is used in the following recipes:
