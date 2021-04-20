@@ -14,7 +14,7 @@ This category contains various machines that have simple functionalities and do 
 * [Digital Miner](https://github.com/Slimefun/Slimefun4/wiki/Digital-Miners)
 * [Advanced Digital Miner](https://github.com/Slimefun/Slimefun4/wiki/Digital-Miners)
 * [Automated Panning Machine](https://github.com/Slimefun/Slimefun4/wiki/Automated-Panning-Machine)
-* [Automated Ignition Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automated-Ignition-Chamber)
+* [Automatic Ignition Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automatic-Ignition-Chamber)
 * [Juicer](https://github.com/Slimefun/Slimefun4/wiki/Juicer)
 * [Composter](https://github.com/Slimefun/Slimefun4/wiki/Composter)
 * [Crucible](https://github.com/Slimefun/Slimefun4/wiki/Crucible)
