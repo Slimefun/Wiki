@@ -4,7 +4,7 @@
 Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery) yields one Steel Ingot:
 
 * 1 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
-* 1 [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
+* 1 [Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbons)
 * 1 [Iron Ingot](https://github.com/Slimefun/Slimefun4/wiki/Iron-Ingot)
 
 #### Total base material cost 
