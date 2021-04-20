@@ -2,7 +2,7 @@ Iron Dust is one of the nine [dusts](https://github.com/Slimefun/Slimefun4/wiki/
 
 ## Obtaining
 Crushing Iron Ore in an [Ore Crusher](https://github.com/Slimefun/Slimefun4/wiki/Ore-Crusher) or an [Electric Ore Grinder](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ore-Grinder) yields two pieces of Iron Dust, effectively doubling it.<br>
-If you are using the [SlimefunOreChunks](https://github.com/Slimefun/Slimefun4/wiki/SlimefunOreChunks) addon, you can use the same machines to turn Iron Ore Chunks from the [GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner) into Iron Dust.
+If you are using the [SlimefunOreChunks](https://github.com/Slimefun/Slimefun4/wiki/Addons#official-addons) addon, you can use the same machines to turn Iron Ore Chunks from the [GEO Miner](https://github.com/Slimefun/Slimefun4/wiki/GEO-Miner) into Iron Dust.
 
 Iron Dust has a ~11.11% chance of being extracted from [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore), by processing it through an [Ore Washer](https://github.com/Slimefun/Slimefun4/wiki/Ore-Washer) or an [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer).
 
