@@ -25,11 +25,10 @@ It is absolutely **crucial** that you check your versions, 90% of issues can alr
 Gather the following information:
 * **Your Server Software** *(Are you running Bukkit, Spigot, Paper or something else?)*
 * **Your Minecraft Version** *(Is it 1.8, is it 1.14, 1.9001? You should know that.)*
-* **Your CS-CoreLib Version** *(CS-CoreLib is a dependency of Slimefun, so gather that version too)*
 * **Your Slimefun Version** *(What version have you installed? Is it a DEV build or a "stable" version?)*
 
 You can quickly gather all this info at once by running the command `/sf versions`.<br>
-If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your CS-CoreLib and Slimefun Version. That and a quick info on what version of Minecraft you are using is already very helpful!
+If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your Minecraft and Slimefun Version. That is already very helpful!
 
 If you are reporting a bug on us, then we will need this info, otherwise we have absolutely no chance to figure out what we're dealing with.<br>
 It's like finding a nail in a pile of hay, but the pile is on fire and on an entirely different planet than the nail.<br>
@@ -40,7 +39,6 @@ It's like finding a nail in a pile of hay, but the pile is on fire and on an ent
 The next step is to compare the versions you acquired in step 1 to the most recent versions.
 
 * **Is your Server Software up to date?** *(Check if there has been an update to Spigot, Paper, Bukkit or whatever you are using)*
-* **Is CS-CoreLib up to date?** *(You can check whether there are newer versions than yours [on the download page](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/))*
 * **Is Slimefun up to date?** *(You can check whether there are newer versions than yours [on the download page](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/))*
 * **Are you using a DEV build?** *(Stable builds are, well "stable" but far from bug-free)*
 
