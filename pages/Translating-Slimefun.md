@@ -32,53 +32,51 @@ Development builds of Slimefun may allow a few unreleased languages already.<br>
 
 Contributions are very much welcome!
 
-| Released | Language | language code | Progress |
-| --- | ---------- | --- | ----------- |
-| :heavy_check_mark: | English | `en` | 100% (Default) |
-| :heavy_check_mark: | [German](https://gitlocalize.com/repo/3841/de/src/main/resources/languages) | `de` | ![gitlocalized](https://gitlocalize.com/repo/3841/de/badge.svg) |
-| :heavy_check_mark: | [French](https://gitlocalize.com/repo/3841/fr/src/main/resources/languages) | `fr` | ![gitlocalized](https://gitlocalize.com/repo/3841/fr/badge.svg) |
-| :heavy_check_mark: | [Italian](https://gitlocalize.com/repo/3841/it/src/main/resources/languages) | `it` | ![gitlocalized](https://gitlocalize.com/repo/3841/it/badge.svg) |
-| :heavy_check_mark: | [Spanish](https://gitlocalize.com/repo/3841/es/src/main/resources/languages) | `es` | ![gitlocalized](https://gitlocalize.com/repo/3841/es/badge.svg) |
-| :x: | [Polish](https://gitlocalize.com/repo/3841/pl/src/main/resources/languages) | `pl` | ![gitlocalized](https://gitlocalize.com/repo/3841/pl/badge.svg) |
-| :heavy_check_mark: | [Swedish](https://gitlocalize.com/repo/3841/sv/src/main/resources/languages) | `sv` | ![gitlocalized](https://gitlocalize.com/repo/3841/sv/badge.svg) |
-| :x: | [Dutch](https://gitlocalize.com/repo/3841/nl/src/main/resources/languages) | `nl` | ![gitlocalized](https://gitlocalize.com/repo/3841/nl/badge.svg) |
-| :heavy_check_mark: | [Russian](https://gitlocalize.com/repo/3841/ru/src/main/resources/languages) | `ru` | ![gitlocalized](https://gitlocalize.com/repo/3841/ru/badge.svg) |
-| :heavy_check_mark: | [Hungarian](https://gitlocalize.com/repo/3841/hu/src/main/resources/languages) | `hu` | ![gitlocalized](https://gitlocalize.com/repo/3841/hu/badge.svg) |
-| :x: | [Greek](https://gitlocalize.com/repo/3841/el/src/main/resources/languages) | `el` | ![gitlocalized](https://gitlocalize.com/repo/3841/el/badge.svg) |
-| :heavy_check_mark: | [Czech](https://gitlocalize.com/repo/3841/cs/src/main/resources/languages) | `cs` | ![gitlocalized](https://gitlocalize.com/repo/3841/cs/badge.svg) |
-| :x: | [Latvian](https://gitlocalize.com/repo/3841/lv/src/main/resources/languages) | `lv` | ![gitlocalized](https://gitlocalize.com/repo/3841/lv/badge.svg) |
-| :heavy_check_mark: | [Slovak](https://gitlocalize.com/repo/3841/sk/src/main/resources/languages) | `sk` | ![gitlocalized](https://gitlocalize.com/repo/3841/sk/badge.svg) |
-| :heavy_check_mark: | [Chinese (China)](https://gitlocalize.com/repo/3841/zh-CN/src/main/resources/languages) | `zh-CN` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-CN//badge.svg) |
-| :heavy_check_mark: | [Chinese (Taiwan)](https://gitlocalize.com/repo/3841/zh-TW/src/main/resources/languages) | `zh-TW` | ![gitlocalized](https://gitlocalize.com/repo/3841/zh-TW//badge.svg) |
-| :x: | [Portugese (Portugal)](https://gitlocalize.com/repo/3841/pt/src/main/resources/languages) | `pt` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt//badge.svg) |
-| :heavy_check_mark: | [Portugese (Brazil)](https://gitlocalize.com/repo/3841/pt-BR/src/main/resources/languages) | `pt-BR` | ![gitlocalized](https://gitlocalize.com/repo/3841/pt-BR//badge.svg) |
-| :heavy_check_mark: | [Vietnamese](https://gitlocalize.com/repo/3841/vi/src/main/resources/languages) | `vi` | ![gitlocalized](https://gitlocalize.com/repo/3841/vi/badge.svg) |
-| :heavy_check_mark: | [Indonesian](https://gitlocalize.com/repo/3841/id/src/main/resources/languages) | `id` | ![gitlocalized](https://gitlocalize.com/repo/3841/id/badge.svg) |
-| :x: | [Hebrew](https://gitlocalize.com/repo/3841/he/src/main/resources/languages) | `he` | ![gitlocalized](https://gitlocalize.com/repo/3841/he/badge.svg) |
-| :heavy_check_mark: | [Arabic](https://gitlocalize.com/repo/3841/ar/src/main/resources/languages) | `ar` | ![gitlocalized](https://gitlocalize.com/repo/3841/ar/badge.svg) |
-| :x: | [Danish](https://gitlocalize.com/repo/3841/da/src/main/resources/languages) | `da` | ![gitlocalized](https://gitlocalize.com/repo/3841/da/badge.svg) |
-| :x: | [Finnish](https://gitlocalize.com/repo/3841/fi/src/main/resources/languages) | `fi` | ![gitlocalized](https://gitlocalize.com/repo/3841/fi/badge.svg) |
-| :x: | [Norwegian](https://gitlocalize.com/repo/3841/no/src/main/resources/languages) | `no` | ![gitlocalized](https://gitlocalize.com/repo/3841/no/badge.svg) |
-| :heavy_check_mark: | [Ukrainian](https://gitlocalize.com/repo/3841/uk/src/main/resources/languages) | `uk` | ![gitlocalized](https://gitlocalize.com/repo/3841/uk/badge.svg) |
-| :x: | [Afrikaans](https://gitlocalize.com/repo/3841/af/src/main/resources/languages) | `af` | ![gitlocalized](https://gitlocalize.com/repo/3841/af/badge.svg) |
-| :x: | [Malay](https://gitlocalize.com/repo/3841/ms/src/main/resources/languages) | `ms` | ![gitlocalized](https://gitlocalize.com/repo/3841/ms/badge.svg) |
-| :heavy_check_mark: | [Japanese](https://gitlocalize.com/repo/3841/ja/src/main/resources/languages) | `ja` | ![gitlocalized](https://gitlocalize.com/repo/3841/ja/badge.svg) |
-| :x: | [Persian](https://gitlocalize.com/repo/3841/fa/src/main/resources/languages) | `fa` | ![gitlocalized](https://gitlocalize.com/repo/3841/fa/badge.svg) |
-| :heavy_check_mark: | [Thai](https://gitlocalize.com/repo/3841/th/src/main/resources/languages) | `th` | ![gitlocalized](https://gitlocalize.com/repo/3841/th/badge.svg) |
-| :heavy_check_mark: | [Tagalog](https://gitlocalize.com/repo/3841/tl/src/main/resources/languages) | `tl` | ![gitlocalized](https://gitlocalize.com/repo/3841/tl/badge.svg) |
-| :x: | [Romanian](https://gitlocalize.com/repo/3841/ro/src/main/resources/languages) | `ro` | ![gitlocalized](https://gitlocalize.com/repo/3841/ro/badge.svg) |
-| :x: | [Bulgarian](https://gitlocalize.com/repo/3841/bg/src/main/resources/languages) | `bg` | ![gitlocalized](https://gitlocalize.com/repo/3841/bg/badge.svg) |
-| :heavy_check_mark: | [Turkish](https://gitlocalize.com/repo/3841/tr/src/main/resources/languages) | `tr` | ![gitlocalized](https://gitlocalize.com/repo/3841/tr/badge.svg) |
-| :heavy_check_mark: | [Korean](https://gitlocalize.com/repo/3841/ko/src/main/resources/languages) | `ko` | ![gitlocalized](https://gitlocalize.com/repo/3841/ko/badge.svg) |
-| :x: | [Macedonian](https://gitlocalize.com/repo/3841/mk/src/main/resources/languages) | `mk` | ![gitlocalized](https://gitlocalize.com/repo/3841/mk/badge.svg) |
-| :x: | [Serbian](https://gitlocalize.com/repo/3841/sr/src/main/resources/languages) | `sr` | ![gitlocalized](https://gitlocalize.com/repo/3841/sr/badge.svg) |
-| :x: | [Croatian](https://gitlocalize.com/repo/3841/hr/src/main/resources/languages) | `hr` | ![gitlocalized](https://gitlocalize.com/repo/3841/hr/badge.svg) |
-| :x: | [Belarusian](https://gitlocalize.com/repo/3841/be/src/main/resources/languages) | `be` | ![gitlocalized](https://gitlocalize.com/repo/3841/be/badge.svg) |
+| Released | Language | language code
+| --- | ---------- | --- |
+| :heavy_check_mark: | English | `en` |
+| :heavy_check_mark: | [German](https://crowdin.com/project/slimefun/de) | `de` |
+| :heavy_check_mark: | [French](https://crowdin.com/project/slimefun/fr) | `fr` |
+| :heavy_check_mark: | [Italian](https://crowdin.com/project/slimefun/it) | `it` |
+| :heavy_check_mark: | [Spanish](https://crowdin.com/project/slimefun/es) | `es` |
+| :x: | [Polish](https://crowdin.com/project/slimefun/pl) | `pl` |
+| :heavy_check_mark: | [Swedish](https://crowdin.com/project/slimefun/sv) | `sv` |
+| :x: | [Dutch](https://crowdin.com/project/slimefun/nl) | `nl` |
+| :heavy_check_mark: | [Russian](https://crowdin.com/project/slimefun/ru) | `ru` |
+| :heavy_check_mark: | [Hungarian](https://crowdin.com/project/slimefun/hu) | `hu` |
+| :x: | [Greek](https://crowdin.com/project/slimefun/el) | `el` |
+| :heavy_check_mark: | [Czech](https://crowdin.com/project/slimefun/cs) | `cs` |
+| :x: | [Latvian](https://crowdin.com/project/slimefun/lv) | `lv` |
+| :heavy_check_mark: | [Slovak](https://crowdin.com/project/slimefun/sk) | `sk` |
+| :heavy_check_mark: | [Chinese (China)](https://crowdin.com/project/slimefun/zh-CN) | `zh-CN` |
+| :heavy_check_mark: | [Chinese (Taiwan)](https://crowdin.com/project/slimefun/zh-TW) | `zh-TW` |
+| :x: | [Portugese (Portugal)](https://crowdin.com/project/slimefun/pt) | `pt` |
+| :heavy_check_mark: | [Portugese (Brazil)](https://crowdin.com/project/slimefun/pt-BR) | `pt-BR` |
+| :heavy_check_mark: | [Vietnamese](https://crowdin.com/project/slimefun/vi) | `vi` |
+| :heavy_check_mark: | [Indonesian](https://crowdin.com/project/slimefun/id) | `id` |
+| :x: | [Hebrew](https://crowdin.com/project/slimefun/he) | `he` |
+| :heavy_check_mark: | [Arabic](https://crowdin.com/project/slimefun/ar) | `ar` |
+| :x: | [Danish](https://crowdin.com/project/slimefun/da) | `da` |
+| :x: | [Finnish](https://crowdin.com/project/slimefun/fi) | `fi` |
+| :x: | [Norwegian](https://crowdin.com/project/slimefun/no) | `no` |
+| :heavy_check_mark: | [Ukrainian](https://crowdin.com/project/slimefun/uk) | `uk` |
+| :x: | [Afrikaans](https://crowdin.com/project/slimefun/af) | `af` |
+| :x: | [Malay](https://crowdin.com/project/slimefun/ms) | `ms` |
+| :heavy_check_mark: | [Japanese](https://crowdin.com/project/slimefun/ja) | `ja` |
+| :x: | [Persian](https://crowdin.com/project/slimefun/fa) | `fa` |
+| :heavy_check_mark: | [Thai](https://crowdin.com/project/slimefun/th) | `th` |
+| :heavy_check_mark: | [Tagalog](https://crowdin.com/project/slimefun/tl) | `tl` |
+| :x: | [Romanian](https://crowdin.com/project/slimefun/ro) | `ro` |
+| :x: | [Bulgarian](https://crowdin.com/project/slimefun/bg) | `bg` |
+| :heavy_check_mark: | [Turkish](https://crowdin.com/project/slimefun/tr) | `tr` |
+| :heavy_check_mark: | [Korean](https://crowdin.com/project/slimefun/ko) | `ko` |
+| :x: | [Macedonian](https://crowdin.com/project/slimefun/mk) | `mk` |
+| :x: | [Croatian](https://crowdin.com/project/slimefun/hr) | `hr` |
+| :x: | [Belarusian](https://crowdin.com/project/slimefun/be) | `be` |
 
 ### You want to help us translate?
 Just click on the language you want to help translate.
-It will bring you to [gitlocalize.com](https://gitlocalize.com/repo/3841/) where the different translations of this repository are hosted.
-You will need a GitHub account for this.
+It will bring you to [Crowdin](https://crowdin.com/project/slimefun/) where the different translations of this repository are hosted.
 
 Once you are there, just swap out all the messages for your translations and hit "Create review request" once you are done.<br>
 We will then start reviewing your changes and add them to this plugin.
