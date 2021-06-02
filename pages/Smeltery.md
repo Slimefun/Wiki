@@ -19,4 +19,4 @@ Now right-click the Nether Brick Fence and you should see the Smeltery craft you
 Since the Smeltery's fire can be consumed every so often, make sure to either have a Flint and Steel ready or do one of the following tricks:
 * Put a piece of netherrack 2 blocks under the smeltery, so the fire does not randomly go out without actually using it.
 * Use a dispenser filled with Flint & Steel to ignite the fire again. You can hook it up to an Observer Block or a redstone clock to automate the re-ignition.
-* Utilize the [Automated Ignition Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automated-Ignition-Chamber), which will automatically re-ignite the fire.
+* Utilize the [Automatic Ignition Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automatic-Ignition-Chamber), which will automatically re-ignite the fire.

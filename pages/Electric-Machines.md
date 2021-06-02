@@ -19,6 +19,7 @@ For more information on the individual items in this category, see the table of 
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
 * [Bio Reactor](https://github.com/Slimefun/Slimefun4/wiki/Bio-Reactor)
 * [Coal Generator](https://github.com/Slimefun/Slimefun4/wiki/Coal-Generator)
+* [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
 * [Lava Generator](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
