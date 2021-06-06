@@ -22,7 +22,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * [Steel Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
 * [Steel Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
-* [Steel Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Steel Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Steel Plate](https://github.com/Slimefun/Slimefun4/wiki/Steel-Plate)
 * [Enhanced Furnace (Tier I-XI)](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Furnaces)
 * [Big Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
@@ -33,7 +33,3 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
 * [Chain](https://github.com/Slimefun/Slimefun4/wiki/Chain)
 * [Hook](https://github.com/Slimefun/Slimefun4/wiki/Hook)
-
-
-
-

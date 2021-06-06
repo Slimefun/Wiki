@@ -37,7 +37,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
 * [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
 * [Reinforced Alloy Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Reinforced Alloy Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Reinforced Alloy Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Reinforced Alloy Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
 * [Talisman of the Warrior](https://github.com/Slimefun/Slimefun4/wiki/Talismans)
 * [Reinforced Plate](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Plate)

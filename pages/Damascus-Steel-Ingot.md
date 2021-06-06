@@ -31,5 +31,5 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Food Composter](https://github.com/Slimefun/Slimefun4/wiki/Food-Composter)
 * [Electric Smeltery II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Smeltery)
 * [Damascus Steel Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Damascus Steel Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Damascus Steel Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Damascus Steel Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
