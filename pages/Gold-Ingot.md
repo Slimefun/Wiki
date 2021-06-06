@@ -35,10 +35,7 @@ It is also used in the following recipes:
 ### Gold Ingot (12-Carat)
 12-carat gold is used in the following recipes:
 * [Gold Ingot (14-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-14-Carat)
-* [Gold Boots](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Helmet](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Leggings](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
+* [Gold Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#gold-armor)
 
 ### Gold Ingot (14-Carat)
 14-carat gold is used in the following recipes:
