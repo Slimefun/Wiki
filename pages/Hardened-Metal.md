@@ -5,7 +5,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * 1 [Damascus Steel Ingot](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Ingot)
 * 1 [Duralumin Ingot](https://github.com/Slimefun/Slimefun4/wiki/Duralumin-Ingot)
-* 1 [Compressed Carbon](https://github.com/Slimefun/Slimefun4/wiki/Compressed-Carbon)
+* 1 [Compressed Carbon](https://github.com/Slimefun/Slimefun4/wiki/Carbon)
 * 1 [Aluminum Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Bronze-Ingot)
 
 #### Total base material cost 
