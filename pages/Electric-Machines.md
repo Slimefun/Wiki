@@ -54,6 +54,7 @@ For more information on the individual items in this category, see the table of 
 * [Freezer](https://github.com/Slimefun/Slimefun4/wiki/Freezer)
 * [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
 * [Iron Golem Assembler](https://github.com/Slimefun/Slimefun4/wiki/Iron-Golem-Assembler)
+* [Produce Collector](https://github.com/Slimefun/Slimefun4/wiki/Produce-Collector)
 * [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery)
 * [Tree Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Tree-Growth-Accelator)
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
