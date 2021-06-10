@@ -23,9 +23,7 @@ For more information on the individual items in this category, see the table of 
 * [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
 * [Lava Generator](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
-* [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
-* [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nether-Star-Reactor)
-* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
+* [Reactors](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
 
 ### Machines
 * [Animal Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Animal-Growth-Accelerator)
