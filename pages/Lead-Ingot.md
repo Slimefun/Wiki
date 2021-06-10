@@ -22,4 +22,3 @@ It is used in the following recipes:
 * [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
 * [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
-
