@@ -2,6 +2,7 @@ The Refinery is an [Electric Machine](https://github.com/Slimefun/Slimefun4/wiki
 It takes 40 seconds to convert one Bucket of Oil. It has no other uses.
 
 ## Tiers
-It currently only comes in one tier.
-**Buffer:** 256 J
-**Power Usage:** 32 J/s
+It currently only comes in one tier.  
+
+**Buffer:** 256 J  
+**Power Usage:** 32 J/s  
