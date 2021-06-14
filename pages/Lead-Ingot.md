@@ -19,7 +19,6 @@ It is used in the following recipes:
 * [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
 * [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 * [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
-* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device-Personal)
+* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
 * [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
-

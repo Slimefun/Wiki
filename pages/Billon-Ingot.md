@@ -26,4 +26,4 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Medium Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Food Fabricator](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
 * [Input Node](https://github.com/Slimefun/Slimefun4/wiki/Input-Node)
-* [GPS Activation Device (Shared)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device-Shared)
+* [GPS Activation Device (Shared)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)

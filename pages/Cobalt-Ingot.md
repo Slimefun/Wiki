@@ -26,5 +26,5 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Electromagnet)
 * [Electric Gold Pan III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
 * [GPS Control Panel](https://github.com/Slimefun/Slimefun4/wiki/GPS-Control-Panel)
-* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device-Personal)
+* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
 * [Output Node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node)
