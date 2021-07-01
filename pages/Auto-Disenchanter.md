@@ -10,7 +10,7 @@ There is only one tier of the Auto Disenchanter and it has the following propert
 
 ## Tip
 
-Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
+Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
 
 ## See also
 

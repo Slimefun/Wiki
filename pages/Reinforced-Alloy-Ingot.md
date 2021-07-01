@@ -35,7 +35,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Food Composter II](https://github.com/Slimefun/Slimefun4/wiki/Food-Composter)
 * [Carbon Press III](https://github.com/Slimefun/Slimefun4/wiki/Carbon-Press)
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
-* [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
+* [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor)
 * [Reinforced Alloy Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
 * [Reinforced Alloy Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Reinforced Alloy Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
