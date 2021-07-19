@@ -17,6 +17,7 @@ The Magical Gadgets contains various gadgets with magical powers. Use your [Magi
 - [Tome of Knowledge Sharing](https://github.com/Slimefun/Slimefun4/wiki/Tome-of-Knowledge-Sharing)  
 - [Flask of Knowledge](https://github.com/Slimefun/Slimefun4/wiki/Flask-of-Knowledge)  
 - [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar)  
+- [Ancient Pedestal](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Pedestal)
 - [Infernal Bonemeal](https://github.com/Slimefun/Slimefun4/wiki/Infernal-Bonemeal)  
 - [Elytra Scale](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
 - [Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
