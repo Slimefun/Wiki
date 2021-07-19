@@ -12,7 +12,6 @@ This is a category that contains a bunch of items to craft [Magical Gadgets](htt
 - [Essence of Afterlife](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Essence-of-Afterlife)
 - [Synthetic Shulker Shell](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Synthetic-Shulker-Shell)
 - [Broken Spawner](https://github.com/Slimefun/Slimefun4/wiki/Broken-Spawner)
-- [Ancient Pedestal](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Pedestal)
 - [Ancient Runes](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Runes)
 - [Strange Nether Goo](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Strange-Nether-Goo)
 
