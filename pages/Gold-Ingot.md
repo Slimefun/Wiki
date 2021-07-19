@@ -3,13 +3,13 @@ They are differentiated by their purity (measured in "carats"), with the lowest 
 
 ## Obtaining
 Smelting [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) in a [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery) or an [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory) produces a 4-carat Gold Ingot.<br>
-Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](https://github.com/TheBusyBiscuit/Gold-Dust) are needed to create a single 24-carat Gold Ingot. 
+Higher purity gold is obtained by smelting any carat gold along with a piece of [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust). This "adds" 2 carats, up until 24-carat gold, thus 11 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) are needed to create a single 24-carat Gold Ingot. 
 
 ## Usage
 Slimefun Gold Ingots cannot substitute regular Gold Ingots in vanilla recipes. Instead, they are used in new recipes.
 
 ### Gold Ingot (4-Carat)
-4-carat gold can be turned into [Gold Dust](https://github.com/TheBusyBiscuit/Gold-Dust) by crushing it in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer).<br>
+4-carat gold can be turned into [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust) by crushing it in an [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer).<br>
 It is also used in the following recipes:
 * [Gold Ingot (6-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-6-Carat)
 * [Block Placer](https://github.com/Slimefun/Slimefun4/wiki/Block-Placer)
@@ -25,7 +25,7 @@ It is also used in the following recipes:
 * [Gold Ingot (10-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-10-Carat)
 * [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar)
 * [Ancient Pedestal](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Pedestal)
-* [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Common-Talisman)
+* [Common Talisman](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items#Common-Talisman)
 
 ### Gold Ingot (10-Carat)
 10-carat gold is used in the following recipes:
@@ -35,10 +35,7 @@ It is also used in the following recipes:
 ### Gold Ingot (12-Carat)
 12-carat gold is used in the following recipes:
 * [Gold Ingot (14-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-14-Carat)
-* [Gold Boots](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Helmet](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Leggings](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
+* [Gold Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#gold-armor)
 
 ### Gold Ingot (14-Carat)
 14-carat gold is used in the following recipes:

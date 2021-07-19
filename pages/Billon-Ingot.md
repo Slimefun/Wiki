@@ -22,8 +22,8 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * [Billon Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
 * [Billon Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Billon Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Billon Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Medium Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Food Fabricator](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
 * [Input Node](https://github.com/Slimefun/Slimefun4/wiki/Input-Node)
-* [GPS Activation Device (Shared)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device-Shared)
+* [GPS Activation Device (Shared)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)

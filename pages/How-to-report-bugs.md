@@ -1,5 +1,5 @@
 Reporting bugs is crucial to this open-source project.<br>
-So please consider reporting bugs on our [Issue Tracker](https://github.com/TheBusyBiscuit/Slimefun4/issues)
+So please consider reporting bugs on our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues)
 
 But before reporting a bug, you should read through the following Troubleshooting Guide.<br>
 Many issues you come across can be solved on your side and save us a lot of time and effort.
@@ -25,11 +25,10 @@ It is absolutely **crucial** that you check your versions, 90% of issues can alr
 Gather the following information:
 * **Your Server Software** *(Are you running Bukkit, Spigot, Paper or something else?)*
 * **Your Minecraft Version** *(Is it 1.8, is it 1.14, 1.9001? You should know that.)*
-* **Your CS-CoreLib Version** *(CS-CoreLib is a dependency of Slimefun, so gather that version too)*
 * **Your Slimefun Version** *(What version have you installed? Is it a DEV build or a "stable" version?)*
 
 You can quickly gather all this info at once by running the command `/sf versions`.<br>
-If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your CS-CoreLib and Slimefun Version. That and a quick info on what version of Minecraft you are using is already very helpful!
+If your Server Owner has not given you access to this command, then Shift and Right-Click your Slimefun Guide, there should be a Book and Quill there that will at least tell you your Minecraft and Slimefun Version. That is already very helpful!
 
 If you are reporting a bug on us, then we will need this info, otherwise we have absolutely no chance to figure out what we're dealing with.<br>
 It's like finding a nail in a pile of hay, but the pile is on fire and on an entirely different planet than the nail.<br>
@@ -40,7 +39,6 @@ It's like finding a nail in a pile of hay, but the pile is on fire and on an ent
 The next step is to compare the versions you acquired in step 1 to the most recent versions.
 
 * **Is your Server Software up to date?** *(Check if there has been an update to Spigot, Paper, Bukkit or whatever you are using)*
-* **Is CS-CoreLib up to date?** *(You can check whether there are newer versions than yours [on the download page](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/CS-CoreLib/master/))*
 * **Is Slimefun up to date?** *(You can check whether there are newer versions than yours [on the download page](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/))*
 * **Are you using a DEV build?** *(Stable builds are, well "stable" but far from bug-free)*
 
@@ -54,7 +52,7 @@ This is not a joke. Try turning it off and on again, often times it can work and
 
 ### 4. See if it is a known issue
 
-Take a look at our [Issue Tracker](https://github.com/TheBusyBiscuit/Slimefun4/issues).<br>
+Take a look at our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues).<br>
 Maybe your issue has already been reported, please don't post it again in that case.
 But you are encouraged to comment on that issue and give some information on how you were able to reproduce the problem.
 
@@ -97,7 +95,7 @@ The narrower and detailed you can get, the better.
 
 ### 8. Posting the Issue via GitHub
 
-If updating or restarting did not help, then please report your issue via our [Issue Tracker](https://github.com/TheBusyBiscuit/Slimefun4/issues/).
+If updating or restarting did not help, then please report your issue via our [Issue Tracker](https://github.com/Slimefun/Slimefun4/issues/).
 
 * We will need all the version information you gathered in Step 1.
 * Please give a detailed description of the issue

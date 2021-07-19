@@ -22,6 +22,5 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * [Solder Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
 * [Solder Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
-* [Billon Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Billon Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Portable Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/Portable-Geo-Scanner)
-

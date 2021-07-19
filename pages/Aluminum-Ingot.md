@@ -14,7 +14,7 @@ It is used in the following recipes:
 * [Trash Can](https://github.com/Slimefun/Slimefun4/wiki/Trash-Can)
 * [Synthetic Sapphire](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Sapphire)
 * [Synthetic Emerald](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Emerald)
-* [Cooling Unit](https://github.com/TheBusyBiscuit/Slimefun4-Wiki/Cooling-Unit)
+* [Cooling Unit](https://github.com/Slimefun/Slimefun4/wiki/Cooling-Unit)
 * [Cooler](https://github.com/Slimefun/Slimefun4/wiki/Cooler)
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
 * [Electric Gold Pan](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)

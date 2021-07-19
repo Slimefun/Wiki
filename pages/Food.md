@@ -18,4 +18,4 @@ The Food category contains a variety of foods and [juices](https://github.com/Sl
 * [Sweet Berry Juice](https://github.com/Slimefun/Slimefun4/wiki/Juices)
 * [Golden Apple Juice](https://github.com/Slimefun/Slimefun4/wiki/Juices)
 
-*If you are looking for more Food, check out the Slimefun Addon [ExoticGarden](https://github.com/Slimefun/Slimefun4/wiki/ExoticGarden).*
+*If you are looking for more Food, check out the Slimefun Addon [ExoticGarden](https://github.com/Slimefun/Slimefun4/wiki/Addons#official-addons).*

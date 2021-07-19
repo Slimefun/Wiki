@@ -19,20 +19,12 @@ For more information on the individual items in this category, see the table of 
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
 * [Bio Reactor](https://github.com/Slimefun/Slimefun4/wiki/Bio-Reactor)
 * [Coal Generator](https://github.com/Slimefun/Slimefun4/wiki/Coal-Generator)
+* [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
 * [Lava Generator](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
 * [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nether-Star-Reactor)
 * [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
-
-### [Programmable Androids](https://github.com/Slimefun/Slimefun4/wiki/Androids)
-* [Android Interfaces](https://github.com/Slimefun/Slimefun4/wiki/Android-Interfaces)
-* [Programmable Android (Normal)](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids)
-* [Programmable Android (Miner)](https://github.com/Slimefun/Slimefun4/wiki/Miner-Androids)
-* [Programmable Android (Farmer)](https://github.com/Slimefun/Slimefun4/wiki/Farmer-Androids)
-* [Programmable Android (Woodcutter)](https://github.com/Slimefun/Slimefun4/wiki/Woodcutter-Androids)
-* [Programmable Android (Fisherman)](https://github.com/Slimefun/Slimefun4/wiki/Fisherman-Androids)
-* [Programmable Android (Butcher)](https://github.com/Slimefun/Slimefun4/wiki/Butcher-Androids)
 
 ### Machines
 * [Animal Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Animal-Growth-Accelerator)

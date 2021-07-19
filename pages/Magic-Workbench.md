@@ -1,4 +1,4 @@
-The Magic Workbench is a [Basic Machine](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machine) in Slimefun. It is a multiblock structure.<br>
+The Magic Workbench is a [Basic Machine](https://github.com/Slimefun/Slimefun4/wiki/Basic-Machines) in Slimefun. It is a multiblock structure.<br>
 
 ## Obtaining
 The Magic Workbench is a multiblock structure which consists of a bookshelf, crafting table and dispenser placed side by side.<br>

@@ -54,7 +54,7 @@ In late **2016** mrCookieSlime announced his retirement.
 He now goes by the name of TheBusyBiscuit and pursued his interests in video game development.
 Slimefun4 is still available for download and well-maintained by the public community that has been built around the plugin over the years.
 TheBusyBiscuit still reviews code proposed by community contributors and does a little maintenance on the plugin here and there.
-The project remained somewhat active and was maintained this way for years. [Many people](https://github.com/TheBusyBiscuit/Slimefun4/graphs/contributors) have contributed to the project during this time. 
+The project remained somewhat active and was maintained this way for years. [Many people](https://github.com/Slimefun/Slimefun4/graphs/contributors) have contributed to the project during this time. 
 
 In early **2019** - after getting dozens of requests about it - TheBusyBiscuit opened up the official Slimefun discord server.
 This discord server quickly grew in popularity, hitting a total of 1,000 members in **January of 2020**.
@@ -64,5 +64,9 @@ This return to development increased during the **2020** COVID-19 pandemic which
 In **April of 2020**, we held our first [Addon Jam](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020) in which 6 people participated by developing their own Slimefun Addon which was then judged by TheBusyBiscuit and Walshy.
 Meanwhile our discord server has reached 2,000 members at the beginning of **June in 2020**.
 Slimefun is still vivid and alive and has an incredible community behind and around it.
+
+By early **2021**, the discord server has reached 4,500 members and we are growing our second organization: [Slimefun Addon Community](https://github.com/Slimefun-Addon-Community), a place for developers to express their creativity, connect with others and share experiences. The goal of that project was to bring people together and allow them to work on addons collaboratively. The second [Addon Jam](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021) is also taking place in **April of 2021**.
+By now, Slimefun has turned 8 years old.
+If Slimefun was a child, it would already be sitting in elementary school... which is strange when you think about it. But the community behind this has persisted over so many years and still continues to grow!
 
 *To be continued...*
