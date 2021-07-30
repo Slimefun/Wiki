@@ -81,6 +81,7 @@ We hope to make this a re-occurring thing. The basic premise is the following: A
 Here is a list of all Addon Jams that have been hosted so far:
 
 1. [Addon Jam 2020](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2020)
+2. [Addon Jam 2021](https://github.com/Slimefun/Slimefun4/wiki/Addon-Jam-2021)
 
 ## :black_nib: Create your own addons!
 Do you want to create your own Slimefun Addon? Check out this [Developer Guide](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
