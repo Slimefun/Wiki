@@ -180,8 +180,8 @@ https://github.com/Seggan/EMC2
 
 #### Cons
 * Horrible user experience, lack of explanation
-* The Analyzer opens the Beacon UI
-* EMC does not take Slimefun items into account, only vanilla materials
+* The Atomizer opens the Beacon UI
+* "QGC" does not take Slimefun items into account, only vanilla materials which results in a servere disbalance and exploits
 * Very limited features
 * Concept essentially copied from EE2 and not really any "new" or "unique" elements to it
 * No visual effects, using the machines is not very rewarding or satisfying, you just see a number go up
@@ -191,7 +191,7 @@ https://github.com/Seggan/EMC2
 * The code uses `Stream`s very excessively which will hurt performance
 * 99% of the code in the `ItemValues` class is within the constructor
 * Total overuse of singletons and static members
-* All chat messages are uncolored and just plain white
+* Most chat messages are uncolored and just plain white
 
 #### Conclusion
 The code is alright but with a lot of room for improvement.
