@@ -2,7 +2,7 @@
 name: Misinformation
 about: Is there a page that is just wrong and spreads misinformation?
 title: ''
-labels: Misinformation
+labels: "❗ Misinformation"
 assignees: ''
 
 ---

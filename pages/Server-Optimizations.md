@@ -10,7 +10,6 @@
 - [5. Slower Tick-rates](#5-slower-tick-rates)
 - [6. Handling Cargo networks](#6-handling-cargo-networks)
 - [7. Enabling Automatic updates](#7-enabling-automatic-updates)
-
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -113,7 +112,7 @@ options:
 Cargo networks are known to cause some performance drops depending on how they are set up.<br>
 They have gone through many optimizations over the years but they can still cause a bit of trouble from time to time.
 
-With the merge of [Pull Request #2106](https://github.com/TheBusyBiscuit/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
+With the merge of [Pull Request #2106](https://github.com/Slimefun/Slimefun4/pull/2106) Cargo networks have been drastically optimized to run best when using [Paper](https://papermc.io/). You can find more info about Server Software in section [2. Choosing the right Server Software](#2-choosing-the-right-server-software).
 
 Here are two ways how you can limit cargo networks to prevent your players from making large networks that hurt your server's performance.
 

@@ -1,34 +1,29 @@
-The Armor category contains six new sets of armor, plus the ability to craft [Chainmail Armor](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor).
+The Armor category contains six new sets of armor, plus the ability to craft Chainmail Armor.
 
-## Table of contents
-* [Damascus Steel Helmet](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Armor)
-* [Damascus Steel Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Armor)
-* [Damascus Steel Leggings](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Armor)
-* [Damascus Steel Boots](https://github.com/Slimefun/Slimefun4/wiki/Damascus-Steel-Armor)
-* [Reinforced Helmet](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
-* [Reinforced Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
-* [Reinforced Leggings](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
-* [Reinforced Boots](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Armor)
-* [Cactus Helmet](https://github.com/Slimefun/Slimefun4/wiki/Cactus-Armor)
-* [Cactus Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Cactus-Armor)
-* [Cactus Leggings](https://github.com/Slimefun/Slimefun4/wiki/Cactus-Armor)
-* [Cactus Boots](https://github.com/Slimefun/Slimefun4/wiki/Cactus-Armor)
-* [Chainmail Helmet](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor)
-* [Chainmail Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor)
-* [Chainmail Leggings](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor)
-* [Chainmail Boots](https://github.com/Slimefun/Slimefun4/wiki/Chainmail-Armor)
-* [Gilded Iron Helmet](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron-Armor)
-* [Gilded Iron Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron-Armor)
-* [Gilded Iron Leggings](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron-Armor)
-* [Gilded Iron Boots](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron-Armor)
-* [Scuba Helmet](https://github.com/Slimefun/Slimefun4/wiki/Hazmat-Suit)
-* [Hazmat Suit](https://github.com/Slimefun/Slimefun4/wiki/Hazmat-Suit)
-* [Hazmat Leggings](https://github.com/Slimefun/Slimefun4/wiki/Hazmat-Suit)
-* [Rubber Boots](https://github.com/Slimefun/Slimefun4/wiki/Hazmat-Suit)
-* [Gold Helmet](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Chestplate](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Leggings](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
-* [Gold Boots](https://github.com/Slimefun/Slimefun4/wiki/Gold-Armor)
+## Armor Sets
+### Damascus Steel Armor Set
+The Damascus Steel Armor Set is an Iron Armor Set with Protection V and Unbreaking V on every piece.
+
+### Reinforced Armor Set
+The Reinforced Armor Set is an Iron Armor Set with Protection IX and Unbreaking IX on every piece.
+
+### Cactus Armor Set
+The Cactus Armor Set is a (green-dyed) Leather Armor Set with Thorns III and Unbreaking VI.
+
+### Chainmail Armor Set
+This set is the same set as vanilla minecraft offers, it was just made craftable.
+
+### Gilded Iron Armor Set
+The Gilded Iron Armor Set is a Gold Armor Set with Protection VIII and Unbreaking VI on every piece.
+
+### Hazmat Suit
+The Hazmat suit is a (orange/black-dyed) Leather Armor Set which provides full immunity towards [Radiation](https://github.com/Slimefun/Slimefun4/wiki/Radiation) and Bee Stings when wearing the full set.  
+
+The Scuba Helmet allows you to breath underwater.  
+The Hazma Suit Chestplate makes you immune to fire and lava.
+
+### Gold Armor Set
+The Gold Armor Set is a vanilla Gold Armor Set with Unbreaking X on every piece.
 
 ## See also
 * [Magical Armor](https://github.com/Slimefun/Slimefun4/wiki/Magical-Armor)

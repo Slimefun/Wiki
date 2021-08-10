@@ -2,7 +2,7 @@
 name: Typo / Mistake
 about: Did you find a page where something is misspelled?
 title: ''
-labels: Typo / Mistake
+labels: "✒ Typo / Mistake"
 assignees: ''
 
 ---

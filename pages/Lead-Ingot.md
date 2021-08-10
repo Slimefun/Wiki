@@ -13,13 +13,12 @@ Lead Ingots are used in the following [alloys](https://github.com/Slimefun/Slime
 It is used in the following recipes:
 * [Trash Can](https://github.com/Slimefun/Slimefun4/wiki/Trash-Can)
 * [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest)
-* [Wither-Proof Glass](https://github.com/TheBusyBiscuit/Slimefun4-Wiki/Wither-Proof-Blocks)
-* [Wither-Proof Obsidian](https://github.com/TheBusyBiscuit/Slimefun4-Wiki/Wither-Proof-Blocks)
+* [Wither-Proof Glass](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
+* [Wither-Proof Obsidian](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
 * [Electrified Crucible](https://github.com/Slimefun/Slimefun4/wiki/Electrified-Crucible)
 * [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
 * [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Pulverizer)
 * [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
-* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device-Personal)
+* [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
 * [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
-

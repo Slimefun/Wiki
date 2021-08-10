@@ -71,7 +71,7 @@ In the same research file, you can also disable specific researches or modify th
 You can't give an exact number or really even an estimate, we don't know your other plugins, addons, your server software, server version and we may even change things per-build which can affect RAM usage. We can recommend **at least** 4GB for any server though with or __without__ Slimefun.
 
 ## How does XYZ work?
-If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).).
+If you'd like to know how an item works please refer to [our wiki](https://github.com/Slimefun/Slimefun4/wiki).
 > **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
 
 ## How do I repair Slimefun items?
@@ -79,6 +79,15 @@ You will need to use the [Auto-Anvil](https://github.com/Slimefun/Slimefun4/wiki
 
 ## Can I enchant Slimefun items?
 You can only enchant an Item from Slimefun by using an [Auto-Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).
+
+## How long does coolant last in reactors?
+Coolant lasts for 25 seconds no matter the type (normal or Nether Ice). Here is a table with the required amount of coolant per piece of fuel:
+| Fuel            | Duration    | Coolant type | Coolant amount |
+| --------------- | ----------- | ------------ | -------------- |
+| Uranium         | 20m (1200s) | Normal       | 48             |
+| Neptunium       | 10m (600s)  | Normal       | 24             |
+| Boosted Uranium | 25m (1500s) | Normal       | 60             |
+| Nether Star     | 30m (1800s) | Nether Ice   | 72             |
 
 ## Is it Slimefun or SlimeFun
 It's Slimefun, one day everyone will know the correct spelling... one day... maybe... who knows honestly.

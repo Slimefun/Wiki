@@ -23,8 +23,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * [Small Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Electric Gold Pan II](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
-* [Magnesium Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-Generator)
+* [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
 * [Duralumin Jetpack](https://github.com/Slimefun/Slimefun4/wiki/Jetpacks)
-* [Duralumin Jetboots](https://github.com/Slimefun/Slimefun4/wiki/Jetboots)
+* [Duralumin Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Duralumin Multi Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
-

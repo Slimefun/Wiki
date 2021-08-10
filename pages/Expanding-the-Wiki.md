@@ -18,15 +18,17 @@ Now you can choose whether you want to create a new File or edit an existing Fil
 
 ### 2.1 Creating a new page
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
+
 ![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
 
 Now click on the button "Create new File".
+
 ![New File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-new-file.png)
 
 File names have to follow the following conditions:
 * File names need to end with ".md"
 * File names are not allowed to contain spaces, special characters or any other weird symbols
-* Instead of spaces use hyphons "-" to seperate words
+* Instead of spaces use hyphens "-" to seperate words
 
 Examples: "Walking-Sticks.md", "Expanding-the-Wiki.md", "Gold-Pan.md" or "Home.md".
 
@@ -38,10 +40,12 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 ### 2.2 Editing existing pages
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "pages".
+
 ![Pages directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pages.png)
 
 Now open up any of the ".md" files you see in that folder.<br>
 To edit this page, simply click on the "edit"-icon.
+
 ![Edit File Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-edit.png)
 
 Now you can edit that page's content.<br>
@@ -52,13 +56,15 @@ If you need to embed images, please jump to [Step 2.3: Uploading images](#23-upl
 
 ### 2.3 Uploading images
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the folder called "images".
+
 ![Images directory](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-images.png)
 
 Now click on the button "Upload files".
+
 ![Upload files button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-upload-image.png)
 
 Make sure that all your images use the PNG image format and have proper names.
-The names should be in lower case, contain no spaces and use hyphons to seperate words.
+The names should be in lower case, contain no spaces and use hyphens to seperate words.
 Examples: "enhanced-crafting-table.png", "gold-pan-usage.png", "exoticgarden-apple-tree.png".
 
 Drag and drop the images you want to upload onto the grey area and hit "Commit changes".<br>
@@ -93,9 +99,11 @@ Whenever you edit/create pages on the wiki, follow the following guidelines.
 
 ## Step 4: Making a Pull Request
 Go visit your Fork (You can always find your fork on GitHub's dashboard or your profile page) and navigate to the "Pull Requests" tab.
+
 ![Pull Requests Tab](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-tab.png)
 
 Now all you have to do is click on the bright green button that says "New pull request".
+
 ![New Pull Request Button](https://raw.githubusercontent.com/Slimefun/Slimefun-Wiki/master/images/github-tutorial-pr-button.png)
 
 Then click on the next "New pull request" button and fill out the description for your pull request.<br>
