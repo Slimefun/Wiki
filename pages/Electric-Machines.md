@@ -1,7 +1,7 @@
-The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [programmable androids](https://github.com/Slimefun/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
+The Energy and Electricity category adds various machines which generate, consume or transfer energy (measured in Joules or J). It also includes [Programmable Androids](https://github.com/Slimefun/Slimefun4/wiki/Androids), which can be programmed to execute a series of tasks.
 
-Besides a way to generate electricity for your machines, an energy network requires an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator): without it, power transfer cannot happen.<br>
-You may also want to use [capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors), as they can store excess energy and extend the range of your network.
+Besides a way to generate electricity for your machines, an energy network requires an [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator): without it, power transfer cannot happen.  
+You may also want to use [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors), as they can store excess energy and extend the range of your network. The [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector) can also extend your network, but it does not store power.
 
 Some machines have a buffer, meaning they can store a certain amount of energy. Unlike capacitors, however, if the energy isn't used before it reaches maximum capacity, it will be reset entirely.
 
@@ -12,6 +12,7 @@ For more information on the individual items in this category, see the table of 
 ## Table of contents
 ### Energy management
 * [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
+* [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector)
 * [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
 
@@ -22,9 +23,7 @@ For more information on the individual items in this category, see the table of 
 * [Magnesium-powered Generator](https://github.com/Slimefun/Slimefun4/wiki/Magnesium-powered-Generator)
 * [Lava Generator](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
-* [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nuclear-Reactor)
-* [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nether-Star-Reactor)
-* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
+* [Reactors](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
 
 ### Machines
 * [Animal Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Animal-Growth-Accelerator)
@@ -52,6 +51,8 @@ For more information on the individual items in this category, see the table of 
 * [Food Fabricator](https://github.com/Slimefun/Slimefun4/wiki/Food-Fabricator)
 * [Freezer](https://github.com/Slimefun/Slimefun4/wiki/Freezer)
 * [Heated Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
+* [Iron Golem Assembler](https://github.com/Slimefun/Slimefun4/wiki/Iron-Golem-Assembler)
+* [Produce Collector](https://github.com/Slimefun/Slimefun4/wiki/Produce-Collector)
 * [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery)
 * [Tree Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Tree-Growth-Accelator)
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
