@@ -15,4 +15,4 @@ The following items will induce radiation while in your inventory:
 * [Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Nether-Ice)
 * [Enriched Nether Ice](https://github.com/Slimefun/Slimefun4/wiki/Enriched-Nether-Ice)
 
-Not listed here is the [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nether-Star-Reactor), which makes nearby entities wither, but does not actually cause radiation.
+Not listed here is the [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors), which makes nearby entities wither, but does not actually cause radiation.
