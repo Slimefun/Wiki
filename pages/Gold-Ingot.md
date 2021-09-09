@@ -17,7 +17,7 @@ It is also used in the following recipes:
 ### Gold Ingot (6-Carat)
 6-carat gold is used in the following recipes:
 * [Gold Ingot (8-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-8-Carat)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 * [Small Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 
 ### Gold Ingot (8-Carat)

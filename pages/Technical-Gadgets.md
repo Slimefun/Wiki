@@ -27,13 +27,16 @@ The Technical Gadgets category has a variety of gadgets that are useful when pla
 * [Jet Boots - VI](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Jet Boots - VII](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Armored Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Parachute
-The parachute can be used to slowly descent when you're in the air. You need to wear it and crouch for it to activate.
+The Parachute can be used to slowly descent when you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
 The Solar Helmet, when worn, will charge any items and armor in that user's inventory.
 
 ### Night Vision Goggles
 When worn, this piece of head armour gives you night vision.
+
+### Multimeter
+The Multimeter is a simple tool that will show you how much energy a certain block has.
