@@ -31,5 +31,5 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [GPS Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/GPS-Geo-Scanner)
 * [Portable Geo Scanner](https://github.com/Slimefun/Slimefun4/wiki/Portable-Geo-Scanner)
 * [Combustion Reactor](https://github.com/Slimefun/Slimefun4/wiki/Combustion-Reactor)
-* [Chain](https://github.com/Slimefun/Slimefun4/wiki/Chain)
-* [Hook](https://github.com/Slimefun/Slimefun4/wiki/Hook)
+* [Chain](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
+* [Hook](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
