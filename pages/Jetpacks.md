@@ -6,10 +6,10 @@ They can be used to fly around using electricity. Put the jetpack in your chestp
 
 | Tier  | Storage Capacity | Thrust |
 | :---: | :--------------: | :----: |
-|   I   |      20 J/s      |  0.35  |
-|  II   |      30 J/s      |  0.40  |
-|  III  |      45 J/s      |  0.45  |
-|  IV   |      60 J/s      |  0.50  |
-|   V   |      75 J/s      |  0.55  |
-|  VI   |     100 J/s      |  0.60  |
-|  VII  |     150 J/s      |  0.7   |
+|   I   |       20 J       |  0.35  |
+|  II   |       30 J       |  0.40  |
+|  III  |       45 J       |  0.45  |
+|  IV   |       60 J       |  0.50  |
+|   V   |       75 J       |  0.55  |
+|  VI   |      100 J       |  0.60  |
+|  VII  |      150 J       |  0.7   |
