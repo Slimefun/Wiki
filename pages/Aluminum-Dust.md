@@ -15,7 +15,7 @@ It is also used in the following [alloys](https://github.com/Slimefun/Slimefun4/
 ... and directly in creating other items:
 
 * [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
-* [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Duct-Tape)
+* [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
 * [Synthetic Emerald](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Emerald)
 
 Aluminum is one of the most used dusts in Slimefun recipes, either as dust or as [Aluminum Ingot](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Ingot).

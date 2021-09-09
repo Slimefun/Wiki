@@ -11,10 +11,12 @@
 - [Can you stack Talismans?](#can-you-stack-talismans)
 - [What can I do with stone chunks?](#what-can-i-do-with-stone-chunks)
 - [How do I disable items per-world?](#how-do-i-disable-items-per-world)
+- [How to disable all or individual researches?](#how-to-disable-all-or-individual-researches)
 - [How much RAM does Slimefun use?](#how-much-ram-does-slimefun-use)
 - [How does XYZ work?](#how-does-xyz-work)
 - [How do I repair Slimefun items?](#how-do-i-repair-slimefun-items)
 - [Can I enchant Slimefun items?](#can-i-enchant-slimefun-items)
+- [How long does coolant last in reactors?](#how-long-does-coolant-last-in-reactors)
 - [Is it Slimefun or SlimeFun](#is-it-slimefun-or-slimefun)
 
 </details>
@@ -75,7 +77,7 @@ If you'd like to know how an item works please refer to [our wiki](https://githu
 > **Note**: The Wiki is still missing pages and is community ran! If you can help add content then please refer to [this guide](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)
 
 ## How do I repair Slimefun items?
-You will need to use the [Auto-Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil) and [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Duct-Tape).
+You will need to use the [Auto-Anvil](https://github.com/Slimefun/Slimefun4/wiki/Auto-Anvil) and [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items).
 
 ## Can I enchant Slimefun items?
 You can only enchant an Item from Slimefun by using an [Auto-Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter).
