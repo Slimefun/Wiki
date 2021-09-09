@@ -21,4 +21,4 @@ It is used in the following recipes:
 * [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
 * [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
 * [Nuclear Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
-* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
+* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
