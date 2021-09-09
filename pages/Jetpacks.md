@@ -1,6 +1,6 @@
 Jetpacks are part of the [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets) category. They need to be charged in a [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench) before usage.
 
-They can be used to fly around using electricity. Put the jetpack in your chestplate slot and crouch to use.
+They can be used to fly around using electricity. Put the Jetpack in your chestplate slot and crouch to use.
 
 ## Jetpack Tiers
 
