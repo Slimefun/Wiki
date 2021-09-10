@@ -2,7 +2,7 @@
 * Rag
 * Bandage
 * Splint
-* Vitamines
+* Vitamins
 * Medicine
 
 ### Rag
@@ -14,7 +14,7 @@ Using this item will restore 4 hearts and extinguishes fire if you were to be on
 ### Splint
 Using this item will restore 2 hearts.
 
-### Vitamines
+### Vitamins
 Using this item will restore 4 hearts and will get rid of any negative effects (fire, poison, wither, radiation).
 
 ### Medicine
