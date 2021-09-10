@@ -19,9 +19,8 @@ These items do not have special properties on their own, so underneath you'll fi
 * Small Chunk of Uranium
 * Cloth
 * Tin Can
-* Gold Block (24*Carat)
+* Gold Block (24-Carat)
 * Reinforced Plate
 * Duct Tape
-* various Organic Foods
-* various Organic Fertilizers
-* 
+* Various Organic Foods
+* Various Organic Fertilizers
