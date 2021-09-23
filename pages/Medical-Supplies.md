@@ -6,10 +6,10 @@
 * Medicine
 
 ### Rag
-Using this item will restore 2 hearts and extinguishes fire if you were to be on fire.
+Using this item will restore 2 hearts and will extinguish fire if you were to be on fire.
 
 ### Bandage
-Using this item will restore 4 hearts and extinguishes fire if you were to be on fire.
+Using this item will restore 4 hearts and will extinguish fire if you were to be on fire.
 
 ### Splint
 Using this item will restore 2 hearts.
