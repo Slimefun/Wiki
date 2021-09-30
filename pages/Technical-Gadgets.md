@@ -33,7 +33,7 @@ The Technical Gadgets category has a variety of gadgets that are useful when pla
 The Parachute can be used to slowly descent when you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
-The Solar Helmet, when worn, will charge any items and armor in that user's inventory.
+The Solar Helmet when worn will charge any electric armor and anything electric in the player's hands.
 
 ### Night Vision Goggles
 When worn, this piece of head armour gives you night vision.
