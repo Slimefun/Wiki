@@ -1,6 +1,6 @@
 Multi Tools are part of the [Technical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets) category. They need to be charged in a [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench) before usage.
 
-To use, right click, to switch modes, crouch and right click.  
+Right-click to use. Crouch + right-click to switch modes\
 Each time you use it, it will use up some energy.
 
 ### The Multi Tool has 4 modes:
