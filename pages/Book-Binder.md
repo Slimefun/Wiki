@@ -16,4 +16,4 @@ However for server owners it is possible to adjust this and either add a custom 
 | has-custom-max-level     | If enabled, the new limit will be the integer provided in `custom-max-level`. | boolean | false         |
 | custom-max-level         | The highest enchantment level allowed on books produced in the Book Binder.   | int     | 15            |
 
-**Tip:** Updating machine specific settings can be done in items.yml
+**Tip:** Updating machine specific settings can be done in Items.yml
