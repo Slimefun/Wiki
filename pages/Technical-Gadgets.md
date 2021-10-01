@@ -36,7 +36,7 @@ The Parachute can be used to slowly descent when you're in the air. You need to 
 The Solar Helmet when worn will charge any electric armor and anything electric in the player's hands.
 
 ### Night Vision Goggles
-When worn, this piece of head armour gives you night vision.
+When worn, this piece of head armor gives you night vision.
 
 ### Multimeter
 The Multimeter is a simple tool that will show you how much energy a certain block has.
