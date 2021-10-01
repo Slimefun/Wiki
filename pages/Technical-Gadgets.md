@@ -30,7 +30,7 @@ The Technical Gadgets category has a variety of gadgets that are useful when pla
 * [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Parachute
-The Parachute can be used to slowly descent when you're in the air. You need to wear it and crouch for it to activate.
+The Parachute can be used to slowly decend while you're in the air. You need to wear it and crouch for it to activate.
 
 ### Solar Helmet
 The Solar Helmet when worn will charge any electric armor and anything electric in the player's hands.
