@@ -23,7 +23,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ## Usage
 
-* [Solar Helmet](https://github.com/Slimefun/Slimefun4/wiki/Solar-Helmet)
+* [Solar Helmet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#solar-helmet)
 * [Reinforced Furnace](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Furnaces)
 * [Large Energy Capacitor](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
 * [Heated Pressure Chamber II](https://github.com/Slimefun/Slimefun4/wiki/Heated-Pressure-Chamber)
