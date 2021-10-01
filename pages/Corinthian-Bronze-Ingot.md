@@ -27,4 +27,4 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Electrified Crucible II/III](https://github.com/Slimefun/Slimefun4/wiki/Electrified-Crucible)
 * [GPS Transmitter III](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter)
 * [Lava Generator II](https://github.com/Slimefun/Slimefun4/wiki/Lava-Generator)
-* [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Nether-Star-Reactor)
+* [Nether Star Reactor](https://github.com/Slimefun/Slimefun4/wiki/Reactors)

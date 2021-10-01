@@ -11,5 +11,5 @@ Cargo motors are used in the following recipes:
 * [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager)
 * [Cargo Node (Connector)](https://github.com/Slimefun/Slimefun4/wiki/Connector-Node)
 * [Fluid Pump](https://github.com/Slimefun/Slimefun4/wiki/Fluid-Pump)
-* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactor-Access-Port)
+* [Reactor Access Port](https://github.com/Slimefun/Slimefun4/wiki/Reactors)
 * [Trash Can](https://github.com/Slimefun/Slimefun4/wiki/Trash-Can)
