@@ -12,8 +12,8 @@ However for server owners it is possible to adjust this and either add a custom 
 
 | Name                     | Description                                                                                                          | Type    | Default Value |
 | ------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
-| bypass-vanilla-max-level | <details><summary>expand</summary>If enabled, you will be able to create books higher than vanilla allows.</details> | boolean | false         |
-| has-custom-max-level     | <details><summary>expand</summary>If enabled, the new limit will be the integer provided in `custom-max-level`.</details> | boolean | false         |
-| custom-max-level         | <details><summary>expand</summary>The highest enchantment level allowed on books produced in the Book Binder.</details> | int     | 15            |
+| bypass-vanilla-max-level | If enabled, you will be able to create books higher than vanilla allows. | boolean | false         |
+| has-custom-max-level     | If enabled, the new limit will be the integer provided in `custom-max-level`. | boolean | false         |
+| custom-max-level         | The highest enchantment level allowed on books produced in the Book Binder. | int     | 15            |
 
 **Tip:** Updating machine specific settings can be done in items.yml
