@@ -5,7 +5,7 @@ This category only contains 3 items, under which the **Carrot Pie** and **Apple 
 
 It also contains an **Easter Egg**, which you can open and it will leave a little surprise.  
 
-#### It can drop the following items:
+#### Easter Egg surprises list:
 - 4 Carrot Pie
 - 1 Carrot Juice
 - 1 Emerald
