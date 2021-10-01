@@ -4,6 +4,12 @@ The Book Binder is an [Electric Machine](https://github.com/Slimefun/Slimefun4/w
 By default, you cannot use this machine to get books above the vanilla limit.  
 However for server owners it is possible to adjust this and either add a custom limit, or no limit at all.
 
+| Name                     | Type    | Default Value |
+| ------------------------ | ------- | ------------- |
+| bypass-vanilla-max-level | boolean | false         |
+| has-custom-max-level     | boolean | false         |
+| custom-max-level         | int     | 15            |
+
 **Tip:** Updating machine specific settings can be done in items.yml
 
 ## Book Binder Tiers
