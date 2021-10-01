@@ -2,6 +2,7 @@ The Technical Components category contains various items which can be used in th
 
 ## Table of contents
 * [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
+* [Android Memory Core](https://github.com/Slimefun/Slimefun4/wiki/Androids)
 * [Basic Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
 * [Advanced Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
 * [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)

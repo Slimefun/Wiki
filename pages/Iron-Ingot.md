@@ -21,4 +21,4 @@ They are also a crafting ingredient for the following items and machines:
 * [Electric Gold Pan (II)](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
 * [Portable Dustbin](https://github.com/Slimefun/Slimefun4/wiki/Portable-Dustbin)
 * [Slime Armor](https://github.com/Slimefun/Slimefun4/wiki/Magical-Armor#the-leather-&-iron-slime-set)
-* [Splint](https://github.com/Slimefun/Slimefun4/wiki/Splint)
+* [Splint](https://github.com/Slimefun/Slimefun4/wiki/Medical-Supplies)

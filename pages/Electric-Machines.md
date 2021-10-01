@@ -14,7 +14,7 @@ For more information on the individual items in this category, see the table of 
 * [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
 * [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector)
 * [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Energy generation
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)

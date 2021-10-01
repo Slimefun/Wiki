@@ -9,4 +9,4 @@ An Energy Regulator must be placed within 7 blocks of an [Energy Generator](http
 
 There can only be one energy regulator per energy network, and it does not store excess energy. To extend the range of your network and store energy, you need to use [Energy Connectors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors) or [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector).
 
-An energy regulator displays the total amount of energy in its network above it, but you can measure the amount of energy in an individual block by using a [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter).
+An energy regulator displays the total amount of energy in its network above it, but you can measure the amount of energy in an individual block by using a [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter).
