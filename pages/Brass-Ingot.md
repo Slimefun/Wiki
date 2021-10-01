@@ -22,6 +22,5 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 ### Items
 
 * [Electric Ingot Factory II/III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Ingot-Factory)
-* [Android Memory Core](https://github.com/Slimefun/Slimefun4/wiki/Android-Memory-Core)
+* [Android Memory Core](https://github.com/Slimefun/Slimefun4/wiki/Androids)
 * [Output Node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node)
-

@@ -12,7 +12,7 @@ An energy capacitor must be placed within 7 blocks of an [Electric Machine](http
 They transfer energy between blocks in that range, so they can be used to extend your network.  
 They will also store excess energy indefinitely, unless they are broken or the energy is used up.
 
-A Capacitor's side texture will change depending on how much energy is stored in it, but you can more accurately measure it with a [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter).
+A Capacitor's side texture will change depending on how much energy is stored in it, but you can more accurately measure it with a [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter).
 
 ## Capacity
 Each tier of energy capacitor has a different capacity, listed below.

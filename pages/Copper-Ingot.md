@@ -11,4 +11,4 @@ Copper Ingots are used in the following recipes:
 * [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
 * [Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Brass-Ingot)
 * [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
