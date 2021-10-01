@@ -6,5 +6,5 @@ Tin Ingots can be turned back to [Tin Dust](https://github.com/Slimefun/Slimefun
 
 ## Usage
 Tin Ingots are used in the following recipe:
-* [Tin Can](https://github.com/Slimefun/Slimefun4/wiki/Tin-Can)
+* [Tin Can](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
 

@@ -40,4 +40,4 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 * [Reinforced Alloy Jet Boots](https://github.com/Slimefun/Slimefun4/wiki/Jet-Boots)
 * [Reinforced Alloy Tool](https://github.com/Slimefun/Slimefun4/wiki/Multi-Tools)
 * [Talisman of the Warrior](https://github.com/Slimefun/Slimefun4/wiki/Talismans)
-* [Reinforced Plate](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Plate)
+* [Reinforced Plate](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
