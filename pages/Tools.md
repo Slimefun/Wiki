@@ -13,6 +13,7 @@ The Tools category contains various tools with special properties.
 * [Pickaxe of the Seeker](https://github.com/Slimefun/Slimefun4/wiki/Pickaxe-of-the-Seeker)
 * [Cobalt Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Pickaxe)
 * [Pickaxe of Vein Mining](https://github.com/Slimefun/Slimefun4/wiki/Pickaxe-of-Vein-Mining)
+* [Climbing Pick](https://github.com/Slimefun/Slimefun4/wiki/Climbing-Pick)
 * [Soulbound Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
 * [Soulbound Axe](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
 * [Soulbound Shovel](https://github.com/Slimefun/Slimefun4/wiki/Soulbound-Tools)
