@@ -33,6 +33,7 @@ For more information on the individual items in this category, see the table of 
 * [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
 * [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
 * [Automated Crafting Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automated-Crafting-Chamber)
+* [Book Binder](https://github.com/Slimefun/Slimefun4/wiki/Book-Binder)
 * [Carbon Press](https://github.com/Slimefun/Slimefun4/wiki/Carbon-Press)
 * [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench)
 * [Crop Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Crop-Growth-Accelerator)
