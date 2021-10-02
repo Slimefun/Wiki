@@ -14,5 +14,5 @@ The Items category contains various items that all have their own unique use.
 * [Woven Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Gilded Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Radiant Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
-* [Soulbound Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Cooler](https://github.com/Slimefun/Slimefun4/wiki/Cooler)
+* [Tape Measure](https://github.com/Slimefun/Slimefun4/wiki/Tape-Measure)

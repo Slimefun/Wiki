@@ -1,4 +1,4 @@
-The smeltery is one of the most fundamental Slimefun machines.<br>
+The smeltery is one of the most fundamental Slimefun machines.  
 It is not only used to smelt dusts into Ingots but also for making Alloys.
 
 **NOTE: The smeltery requires fire beneath it. While smelting items, the fire will randomly get consumed, so make sure to reignite it when that happens.**
@@ -12,7 +12,7 @@ You can also place an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/
 Without an [Output Chest](https://github.com/Slimefun/Slimefun4/wiki/Output-Chest), the items will just land back in the dispenser.
 
 ## How to use the Smeltery
-If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).<br>
+If you want to craft an Item using the Smeltery, get your items ready and put them into the dispenser (shape does not matter).  
 Now right-click the Nether Brick Fence and you should see the Smeltery craft your item.
 
 ## Tips and tricks

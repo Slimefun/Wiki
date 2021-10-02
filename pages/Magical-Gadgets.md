@@ -23,6 +23,7 @@ The Magical Gadgets contains various gadgets with magical powers. Use your [Magi
 - [Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
 - [Infused Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
 - [Soulbound Elytra](https://github.com/Slimefun/Slimefun4/wiki/Elytras)  
+- Trident
 - [Totem of Undying](https://github.com/Slimefun/Slimefun4/wiki/Totem-of-Undying)  
 - [Rainbow Wool](https://github.com/Slimefun/Slimefun4/wiki/Rainbow-Blocks)  
 - [Rainbow Glass](https://github.com/Slimefun/Slimefun4/wiki/Rainbow-Blocks)  

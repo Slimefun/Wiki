@@ -6,6 +6,7 @@ This category contains various machines that have simple functionalities and do 
 * [Armor Forge](https://github.com/Slimefun/Slimefun4/wiki/Armor-Forge)
 * [Ore Crusher](https://github.com/Slimefun/Slimefun4/wiki/Ore-Crusher)
 * [Compressor](https://github.com/Slimefun/Slimefun4/wiki/Compressor)
+* [Makeshift Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Makeshift-Smeltery)
 * [Smeltery](https://github.com/Slimefun/Slimefun4/wiki/Smeltery)
 * [Pressure Chamber](https://github.com/Slimefun/Slimefun4/wiki/Pressure-Chamber)
 * [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench)
