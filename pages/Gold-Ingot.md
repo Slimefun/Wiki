@@ -17,7 +17,7 @@ It is also used in the following recipes:
 ### Gold Ingot (6-Carat)
 6-carat gold is used in the following recipes:
 * [Gold Ingot (8-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Ingot#Gold-Ingot-8-Carat)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 * [Small Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 
 ### Gold Ingot (8-Carat)
@@ -65,6 +65,6 @@ It is also used in the following recipes:
 24-carat gold is used in the following recipes:
 * [Blistering Ingot (33%)](https://github.com/Slimefun/Slimefun4/wiki/Blistering-Ingot#Blistering-Ingot-33%)
 * [Gilded Iron](https://github.com/Slimefun/Slimefun4/wiki/Gilded-Iron)
-* [Gold Block (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Gold-Block)
+* [Gold Block (24-Carat)](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
 * [Radiant Backpack](https://github.com/Slimefun/Slimefun4/wiki/Backpacks)
 * [Reinforced Alloy Ingot](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Alloy-Ingot)

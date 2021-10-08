@@ -23,7 +23,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 ## Usage
 
 * [All Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 * [GPS Marker Tool](https://github.com/Slimefun/Slimefun4/wiki/GPS-Marker-Tool)
 * [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery)
 

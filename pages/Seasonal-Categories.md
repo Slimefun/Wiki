@@ -1,4 +1,5 @@
-Seasonal categories, are categories that can only be accessed during a certain month every year.
+Seasonal categories, are categories that can only be accessed during a certain month every year.  
+Do note that with `/sf cheat`, this can be bypassed.
 
 ## Table of contents
 * [Christmas Seasonal Category](https://github.com/Slimefun/Slimefun4/wiki/Christmas-Seasonal-Category)

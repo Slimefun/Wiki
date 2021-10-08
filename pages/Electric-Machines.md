@@ -14,7 +14,7 @@ For more information on the individual items in this category, see the table of 
 * [Energy Regulator](https://github.com/Slimefun/Slimefun4/wiki/Energy-Regulator)
 * [Energy Connector](https://github.com/Slimefun/Slimefun4/wiki/Energy-Connector)
 * [Energy Capacitors](https://github.com/Slimefun/Slimefun4/wiki/Energy-Capacitors)
-* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Multimeter)
+* [Multimeter](https://github.com/Slimefun/Slimefun4/wiki/Technical-Gadgets#multimeter)
 
 ### Energy generation
 * [Solar Generator](https://github.com/Slimefun/Slimefun4/wiki/Solar-Generator)
@@ -32,7 +32,6 @@ For more information on the individual items in this category, see the table of 
 * [Auto Drier](https://github.com/Slimefun/Slimefun4/wiki/Auto-Drier)
 * [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
 * [Auto-Breeder](https://github.com/Slimefun/Slimefun4/wiki/Auto-Breeder)
-* [Automated Crafting Chamber](https://github.com/Slimefun/Slimefun4/wiki/Automated-Crafting-Chamber)
 * [Carbon Press](https://github.com/Slimefun/Slimefun4/wiki/Carbon-Press)
 * [Charging Bench](https://github.com/Slimefun/Slimefun4/wiki/Charging-Bench)
 * [Crop Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Crop-Growth-Accelerator)
@@ -54,5 +53,5 @@ For more information on the individual items in this category, see the table of 
 * [Iron Golem Assembler](https://github.com/Slimefun/Slimefun4/wiki/Iron-Golem-Assembler)
 * [Produce Collector](https://github.com/Slimefun/Slimefun4/wiki/Produce-Collector)
 * [Refinery](https://github.com/Slimefun/Slimefun4/wiki/Refinery)
-* [Tree Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Tree-Growth-Accelator)
+* [Tree Growth Accelerator](https://github.com/Slimefun/Slimefun4/wiki/Tree-Growth-Accelerator)
 * [Wither Assembler](https://github.com/Slimefun/Slimefun4/wiki/Wither-Assembler)
