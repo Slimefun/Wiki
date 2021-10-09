@@ -8,4 +8,4 @@ A trash can can be crafted in an [Enhanced Crafting Table](https://github.com/Sl
 Right-clicking a trash can after placing it (also right click) displays a chest-like interface where items can be moved.  
 Items disappear shortly after being placed in a trash can, unlike the portable dustbin, which waits for the interface to be closed.
 
-You can move items into a trash can manually, but it is also able to receive items through [Output](https://github.com/Slimefun/Slimefun4/wiki/Output-Node) and [Advanced Output Nodes](https://github.com/Slimefun/Slimefun4/wiki/Advanced-Output-Node).
+You can move items into a trash can manually, but it is also able to receive items through an [Output Node](https://github.com/Slimefun/Slimefun4/wiki/Output-Node) or an [Advanced Output Nodes](https://github.com/Slimefun/Slimefun4/wiki/Advanced-Output-Node).
