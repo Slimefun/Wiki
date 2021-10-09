@@ -1,4 +1,5 @@
-A Trash Can is a container which destroys any item placed in it, much like the [Portable Dustbin](https://github.com/Slimefun/Slimefun4/wiki/Portable-Dustbin).<br>Unlike its portable equivalent, it must be placed down before it can be used, and it is fully compatible with cargo nodes, making it easy to destroy any unwanted items in a [Cargo Network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management).
+A Trash Can is a container that destroys any item placed in it, much like the [Portable Dustbin](https://github.com/Slimefun/Slimefun4/wiki/Portable-Dustbin).  
+Unlike its portable equivalent, it must be placed down before it can be used, and it is fully compatible with cargo nodes, making it easy to destroy any unwanted items in a [Cargo Network](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Management).
 
 ## Obtaining
 A trash can can be crafted in an [Enhanced Crafting Table](https://github.com/Slimefun/Slimefun4/wiki/Enhanced-Crafting-Table).
