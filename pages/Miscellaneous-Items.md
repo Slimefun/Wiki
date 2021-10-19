@@ -2,7 +2,7 @@ This category contains a variety of simple items that are most often used as a c
 These items do not have special properties on their own, so underneath you'll find a list of the items. To craft them check the recipe in the Slimefun Guide!
 
 ## Table of contents
-* Sifted Ore
+* [Sifted Ore](https://github.com/Slimefun/Slimefun4/wiki/Sifted-Ore)
 * Wheat Flour
 * Steel Plate
 * Chain
