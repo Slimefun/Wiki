@@ -14,8 +14,6 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ## Usage
 
-### Items
-
 * [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
 * [Cobalt Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Pickaxe)
 * [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Electromagnet)
