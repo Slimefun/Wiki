@@ -1,4 +1,4 @@
-The Ancient Pedestal is a block in the [Magical Items](https://github.com/Slimefun/Slimefun4/wiki/Magical-Items) category. It is essential in building a working [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar).
+The Ancient Pedestal is a block in the [Magical Gadgets](https://github.com/Slimefun/Slimefun4/wiki/Magical-Gadgets) category. It is essential in building a working [Ancient Altar](https://github.com/Slimefun/Slimefun4/wiki/Ancient-Altar).
 
 ## Obtaining
 The Ancient Pedestal can be crafted in a [Magic Workbench](https://github.com/Slimefun/Slimefun4/wiki/Magic-Workbench).
