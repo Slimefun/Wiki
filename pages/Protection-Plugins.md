@@ -49,11 +49,11 @@ Here is a list of all plugins we support by default.
 | LogBlock | :heavy_check_mark: | :x: |
 
 ## Adding Support for your protection plugin
-Protection Integration is handled in CS-CoreLib2 (https://github.com/TheBusyBiscuit/CS-CoreLib2).<br>
+Protection Integration is handled in dough (https://github.com/baked-libs/dough).<br>
 To add support for your own plugin, all you have to do is make a Pull Request to that repository.<br>
 Here is what you need to do:
-1. Add your plugin as a dependency to the [pom.xml](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/pom.xml)
-2. Create a new class that extends [ProtectionModule.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionModule.java) and add it to the [modules - package](https://github.com/TheBusyBiscuit/CS-CoreLib2/tree/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/modules)
-3. Override the required methods; make sure to distinguish between the different types of [ProtectableAction.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectableAction.java); also consider to add support for offline players or make an instanceof-check if not.
-4. Load an instance of your class when your plugin loads in [ProtectionManager.java](https://github.com/TheBusyBiscuit/CS-CoreLib2/blob/master/src/main/java/io/github/thebusybiscuit/cscorelib2/protection/ProtectionManager.java)
-5. Submit a [Pull Request](https://github.com/TheBusyBiscuit/CS-CoreLib2/pulls) to CS-CoreLib2
+1. Add your plugin as a dependency to the pom.xml (in [dough-api](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml) and [dough-protection](https://github.com/baked-libs/dough/blob/main/dough-protection/pom.xml))
+2. Create a new class that extends [ProtectionModule.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionModule.java) and add it to the [modules - package](https://github.com/baked-libs/dough/tree/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/modules)
+3. Override the required methods; make sure to distinguish between the different types of [Interaction.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/Interaction.java); also consider to add support for offline players or make an instanceof-check if not.
+4. Load an instance of your class when your plugin loads in [ProtectionManager.java](https://github.com/baked-libs/dough/blob/main/dough-protection/src/main/java/io/github/bakedlibs/dough/protection/ProtectionManager.java)
+5. Submit a [Pull Request](https://github.com/baked-libs/dough/pulls) to dough
