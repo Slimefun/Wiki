@@ -45,7 +45,7 @@ public class SlimefunAddon extends JavaPlugin implements SlimefunAddon {
 ```
 
 The `package` token at the top simply describes the package this file is in.<br>
-The `import` token tells Java to import classes from other projects, you will probably see a lot of those importing from `me.mrCoookieSlime.Slimefun...` or `org.bukkit...`.<br>
+The `import` token tells Java to import classes from other projects, you will probably see a lot of those importing from `io.github.thebusybiscuit.slimefun4...` or `org.bukkit...`.<br>
 This is because you are referencing those classes, as you will work with them.
 
 After that your own class will start it should have the same name as its file (without the file ending) and is followed by `extends JavaPlugin`.<br>
@@ -71,7 +71,7 @@ public void onEnable() {
 You can use a `Config` class and `new Config(this)` to reference your plugin's config.<br>
 You can find your default config under `src/main/resources/config.yml`.
 
-This `Config` class comes from Slimefun / CS-CoreLib2. So you won't see this in any non-Slimefun Projects.<br>
+This `Config` class comes from Slimefun / dough. So you won't see this in any non-Slimefun Projects.<br>
 You can read values directly from this class using the appropriate getters:
 ```java
 cfg.getBoolean("path.to.your.boolean");
@@ -80,7 +80,7 @@ cfg.getString("path.to.your.string");
 
 You can use your Config to set up values that Server Owners should be able to configure.
 
-**Important hint: If your IDE nags about not being able to find `Config`, then make sure to import the Config class from the me.mrCookieSlime.Slimefun.cscorelib2 package**<br>
+**Important hint: If your IDE nags about not being able to find `Config`, then make sure to import the Config class from the `io.github.thebusybiscuit.slimefun4.libraries.dough.config` package.**<br>
 You will need to import each external class you will use.
 
 [**> Continue with Part 3**](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(3-Your-first-Item))
