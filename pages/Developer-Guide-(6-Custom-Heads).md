@@ -7,8 +7,8 @@ This is the full code we created last time:
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -21,7 +21,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");
@@ -88,8 +88,8 @@ _Disclaimer: Grabbing a skin from the website is very easy but remember: Credit 
 From our code we created earlier:<br>
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // ...
 ```
@@ -104,8 +104,8 @@ So let's do that.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(SkullItem.fromBase64(...), "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64(...), "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // ...
 ```
@@ -114,13 +114,13 @@ Now we still need to give that method our Base64 String from earlier.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // ...
 ```
 
-Our Category is now displayed as our head.
+Our ItemGroup is now displayed as our head.
 
 ## 5. Using your texture for items
 The next part is to modify our `SlimefunItemStack` to have our custom head texture.<br>
@@ -143,8 +143,8 @@ And we are done!<br>
 Now here is the full code:
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0=", "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -157,7 +157,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");

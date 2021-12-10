@@ -8,8 +8,8 @@ But before we dive into that, here is our code from the last part:
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0=", "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -22,7 +22,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");
@@ -46,12 +46,12 @@ SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh..."
 ```
 
 We will also use a custom head texture for this but I am gonna shorten the long String for the texture to make it more readable.<br>
-Now that we have our ItemStack we can also create the Item, we will use the Category we created earlier.
+Now that we have our ItemStack we can also create the Item, we will use the ItemGroup we created earlier.
 
 ```java
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
-SlimefunItem enderOre = new SlimefunItem(category, enderOreItem, ..., ...);
+SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, ..., ...);
 enderOre.register();
 ```
 
@@ -65,7 +65,7 @@ But we will still need to pass a Recipe Array with the length 9, so we will just
 ```java
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
-SlimefunItem enderOre = new SlimefunItem(category, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
+SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
 enderOre.register();
 ```
 
@@ -262,7 +262,7 @@ Now we created a new SlimefunItem and a new GEOResource. We only need to registe
 ```java
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
-SlimefunItem enderOre = new SlimefunItem(category, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
+SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
 enderOre.register();
 ```
 
@@ -271,7 +271,7 @@ We will now create a new instance of our `EnderOreResource` class and register i
 ```java
 // ...
 SlimefunItemStack enderOreItem = new SlimefunItemStack("ENDER_ORE", "eyJ0ZXh...", "&5Ender Ore", "", "&rThis is a cool Ore", "&rGEO-Mine me in the End");
-SlimefunItem enderOre = new SlimefunItem(category, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
+SlimefunItem enderOre = new SlimefunItem(itemGroup, enderOreItem, RecipeType.GEO_MINER, new ItemStack[9]);
 enderOre.register();
 
 EnderOreResource enderOreResource = new EnderOreResource(this, enderOreItem);

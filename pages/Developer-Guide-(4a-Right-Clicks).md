@@ -4,16 +4,16 @@ If you haven't checked out the [third Part of this Guide](https://github.com/Sli
 *The fourth part is divided into two sections, this is Section a*.
 
 ## 1. What we did last time
-On the last part we covered how to create our own Slimefun items, categories and recipes.<br>
+On the last part we covered how to create our own Slimefun items, item groups, and recipes.<br>
 If you missed it, then please head back now. You will need this info to progress any further.
 
 Still/Back here? Good. Now this is the code from last time (it should be inside your 'onEnable' method).
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
 
 // Our custom Category
-Category category = new Category(categoryId, categoryItem);
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
@@ -25,10 +25,12 @@ ItemStack[] recipe = {
     new ItemStack(Material.DIAMOND),    null,                               new ItemStack(Material.DIAMOND)
 };
 
-SlimefunItem sfItem = new SlimefunItem(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 sfItem.register(this);
 ```
 
+<!--TODO: a more detailed guide on compiling and testing-->
+Now, you can compile your addon and test it ingame. See [Publishing](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) for details.<br> 
 As you can see our Slimefunitem can already be seen and crafted ingame.<br>
 But there is not much value to this item yet, it doesn't do anything.<br>
 Let's change that.
@@ -67,7 +69,7 @@ public class FireCake extends SlimefunItem {
 ```
 
 Now your IDE will probably start nagging you with errors at this point.<br>
-First you need to import the `SlimefunItem` class. But we will also need a constructor, a constructor defines **how** objects are created from this "template".<br>
+We will need a constructor. A constructor defines **how** objects are created from this "template".<br>
 And the `SlimefunItem` constructor requires a few parameters which all child classes need to provide too.
 
 If we think back of our previous code, the constructor looked like this:
@@ -95,11 +97,11 @@ We can even go back to our main class and use our class instead, try it out.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");y
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
-SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.EMERALD, "&aPretty cool Emerald", "", "&7This is awesome");
+SlimefunItemStack itemStack = new SlimefunItemStack("MY_ADDON_ITEM", Material.CAKE, "&aA Fire Cake", "", "&7This is awesome");
 
 // A 3x3 shape representing our recipe
 ItemStack[] recipe = {
@@ -109,7 +111,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 ```
 
@@ -135,8 +137,7 @@ public class FireCake extends SlimefunItem {
 }
 ```
 
-
-Here why we will **override** a method from SlimefunItem called `preRegister()`.<br>
+Here we will **override** a method from SlimefunItem called `preRegister()`.<br>
 This method is called right before the item is registered, this ensures that our handlers get added properly.<br>
 Note that overridden methods should have an `@Override` annotation as seen here:
 
