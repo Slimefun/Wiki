@@ -31,7 +31,7 @@ research.addItems(cake);
 research.register();
 ```
 
-Today we want to use custom heads for our category and items.
+Today we want to use custom heads for our item group and items.
 
 ## 2. Introduction
 As all of you know: Minecraft supports using any Player's head as an item or block.<br>
@@ -84,7 +84,7 @@ We can now use this String for our needs in the next step.
 
 _Disclaimer: Grabbing a skin from the website is very easy but remember: Credit where credit's due. It is always best advice to credit the sources or even creators who's content you used. This is not any legal advice but a little credit note on your project page for where you got those skins from is always a good idea._
 
-## 4. Using your texture for a Category
+## 4. Using your texture for an Item Group
 From our code we created earlier:<br>
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");

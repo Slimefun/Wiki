@@ -166,7 +166,7 @@ ItemStack[] recipe = {
 ## 4. Adding your item
 To create the item you we will use the following code:
 ```java
-SlimefunItem sfItem = new SlimefunItem(category, itemStack, recipeType, recipe);
+SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 ```
 
 Finally, to make our item and item group appear in the Slimefun guide, we will call `sfItem.register(this)` to register it.<br>

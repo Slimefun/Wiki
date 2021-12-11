@@ -14,8 +14,8 @@ To achieve this we introduced classes, more specifically we taught you how to cr
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -59,8 +59,8 @@ Let's implement the `Radioactive` interface. Now your code may look like this:
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     // ...
@@ -76,8 +76,8 @@ In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Im
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -101,8 +101,8 @@ We are just gonna choose the level HIGH for now. We can simply return that const
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -185,8 +185,8 @@ Let's go back to our class and implement that interface too. You can seperate in
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     // ...
@@ -200,8 +200,8 @@ So with that method generated, the code will look like this.
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -223,8 +223,8 @@ or even better... Let's instantly kill any Wither that tries to eat our precious
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -243,8 +243,8 @@ Now just to recapture everything, here is the full code of our `FireCake` class.
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override

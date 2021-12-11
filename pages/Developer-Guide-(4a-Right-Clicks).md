@@ -74,7 +74,7 @@ And the `SlimefunItem` constructor requires a few parameters which all child cla
 
 If we think back of our previous code, the constructor looked like this:
 ```java
-new SlimefunItem(category, itemStack, recipeType, recipe);
+new SlimefunItem(itemGroup, itemStack, recipeType, recipe);
 ```
 
 With our new class we can simply copy this constructor and pass all arguments onto the constructor of our parent class.<br>
@@ -85,8 +85,8 @@ We simply use the `super` keyword for this and pass on the arguments, the constr
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
 }
@@ -130,8 +130,8 @@ To add our ItemHandler, we go back to our custom item class.
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
 }
@@ -144,8 +144,8 @@ Note that overridden methods should have an `@Override` annotation as seen here:
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -221,8 +221,8 @@ The full code now looks like this.
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -275,8 +275,8 @@ Let's be nice and give the Player 1 XP level when he right clicks with the cake 
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
