@@ -1,4 +1,4 @@
-This is the **last part** of our Developer Guide, you can ind a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
+This is the **last part** of our Developer Guide, you can find a full overview on our [main page](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide).
 
 ## Prerequisites
 To start publishing and distributing your addon, you don't really need much.<br>
