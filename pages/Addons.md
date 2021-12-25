@@ -72,7 +72,6 @@ DankTech2 | Sefiraat | <details><summary>expand</summary>DankTech is a plugin th
 Networks | Sefiraat | <details><summary>expand</summary>Networks is an addon that aims to provide a AE2/Refined Storage style storage solution in a straight-forward but powerful manner. The addon works alongside core-slimefun cargo to allow you to insert mass storage along side your current automation with ease</details> | [Wiki](https://github.com/Sefiraat/Networks/wiki) | [GitHub](https://github.com/Sefiraat/Networks) | [Builds](https://thebusybiscuit.github.io/builds/Sefiraat/Networks/master/)
 SfChunkInfo | FN_FAL113 | <details><summary>expand</summary>Scan the amount of slimefun blocks in a chunk using a single command.</details> | [Readme](https://github.com/FN-FAL113/SfChunkInfo/blob/main/README.md) | [GitHub](https://github.com/FN-FAL113/SfChunkInfo) | [Releases](https://github.com/FN-FAL113/SfChunkInfo/releases)
 
-
 ## :gift: Third-Party Plugins
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
 
