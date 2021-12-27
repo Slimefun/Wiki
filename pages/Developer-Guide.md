@@ -30,4 +30,5 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
    - *Creating a simple input/output machine with recipes (soon)*
    - *Creating your own Generator (soon)*
 
+?. [Compiling and testing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Compiling))<br>
 ?. [Publishing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing))
