@@ -54,3 +54,7 @@ The compiled jar will be in the `target/` folder of the project.<br>
 Now, stop the server, remove the old addon `.jar`, and put in the new `.jar`. Then rerun the server.
 
 As always, if you have any questions, you can ask them in `#programming-help` in the [Slimefun Discord](https://discord.gg/slimefun). 
+
+## Publishing
+
+If you wish, you can now [publish](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) your addon.
