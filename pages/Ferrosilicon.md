@@ -20,7 +20,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ### Items
 
-* [Solar Panel](https://github.com/Slimefun/Slimefun4/wiki/Solar-Panel)
+* [Photovoltaic Cell](https://github.com/Slimefun/Slimefun4/wiki/Photovoltaic-Cell)
 * [Smelter's Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Smelter's-Pickaxe)
 * [Pickaxe of Containment](https://github.com/Slimefun/Slimefun4/wiki/Pickaxe-of-Containment)
 * [Hercules' Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Hercules'-Pickaxe)
