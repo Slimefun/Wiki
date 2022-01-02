@@ -29,8 +29,7 @@ SlimefunItem sfItem = new SlimefunItem(itemGroup, itemStack, RecipeType.ENHANCED
 sfItem.register(this);
 ```
 
-<!--TODO: a more detailed guide on compiling and testing-->
-Now, you can compile your addon and test it ingame. See [Publishing](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing)) for details.<br> 
+Now, you can compile your addon and test it ingame. See [Compiling](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Compiling)) for details.<br> 
 As you can see our Slimefunitem can already be seen and crafted ingame.<br>
 But there is not much value to this item yet, it doesn't do anything.<br>
 Let's change that.
