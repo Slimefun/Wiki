@@ -6,5 +6,5 @@ It can be enchanted with the **Efficiency** enchantment to speed up the climbing
 ## Climbing Pick Settings
 | Name          | Description                                                                    | Type    | Default Value |
 | ------------- | ------------------------------------------------------------------------------ | ------- | ------------- |
-| dual-wielding | If enabled, you will have to use two Climbing Picks at once in order to climb. | boolean | true        |
+| dual-wielding | If enabled, you will have to use two Climbing Picks at once in order to climb. | boolean | true          |
 | damage-on-use | If enabled, the Climbing Pick will take damage when used.                      | boolean | true          |
