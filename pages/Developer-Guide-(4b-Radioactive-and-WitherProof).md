@@ -14,8 +14,8 @@ To achieve this we introduced classes, more specifically we taught you how to cr
 ```java
 public class FireCake extends SlimefunItem {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -43,7 +43,7 @@ public class FireCake extends SlimefunItem {
 }
 ```
 
-We can ignore the preRegister() and right-click methods for now, those were covered in part 4b.
+We can ignore the preRegister() and right-click methods for now, those were covered in part 4a.
 
 ## 2. Item Attributes
 Slimefun items can have functionality (called ItemHandlers) but they can also have some properties (called ItemAttributes).<br>
@@ -59,8 +59,8 @@ Let's implement the `Radioactive` interface. Now your code may look like this:
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     // ...
@@ -76,8 +76,8 @@ In the case of `Radioactive`, there is only one method: `getRadioactivity()`. Im
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -101,8 +101,8 @@ We are just gonna choose the level HIGH for now. We can simply return that const
 ```java
 public class FireCake extends SlimefunItem implements Radioactive {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -124,8 +124,8 @@ Let's go back inside our `onEnable()` method from the main class.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");y
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", "&cBe careful");
@@ -138,7 +138,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 ```
 
@@ -153,8 +153,8 @@ wear a Hazmat Suit. Let's do that.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");y
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -167,7 +167,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 ```
 
@@ -185,8 +185,8 @@ Let's go back to our class and implement that interface too. You can seperate in
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     // ...
@@ -200,8 +200,8 @@ So with that method generated, the code will look like this.
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -223,8 +223,8 @@ or even better... Let's instantly kill any Wither that tries to eat our precious
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override
@@ -243,8 +243,8 @@ Now just to recapture everything, here is the full code of our `FireCake` class.
 ```java
 public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     
-    public FireCake(Category category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
-        super(category, item, recipeType, recipe);
+    public FireCake(ItemGroup itemGroup, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
+        super(itemGroup, item, recipeType, recipe);
     }
     
     @Override

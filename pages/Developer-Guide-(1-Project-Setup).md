@@ -164,7 +164,7 @@ But we **highly recommend** using explicit versions for your dependencies, it si
 Search for the section in your `pom.xml` file which defines the Slimefun version:
 ```xml
 <dependency>
-  <groupId>com.github.TheBusyBiscuit</groupId>
+  <groupId>com.github.Slimefun</groupId>
   <artifactId>Slimefun4</artifactId>
   <version>master-SNAPSHOT</version>
   <scope>provided</scope>

@@ -10,8 +10,8 @@ For this we will head back to your main class, inside your `onEnable()` method.<
 After adding all your items, it should look a little bit like this:
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");y
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -24,7 +24,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 ```
 
@@ -93,7 +93,7 @@ In our example above, we only got our fire cake.<br>
 So let's add that to the Research.
 ```java
 // ...
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");
@@ -106,7 +106,7 @@ For this we simply call .register() on our Research object.
 
 ```java
 // ...
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");
@@ -123,8 +123,8 @@ Now that we are finished, here is our code so far:
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItem categoryItem = new CustomItem(Material.DIAMOND, "&4Our very cool Category");y
-Category category = new Category(categoryId, categoryItem);
+CustomItemStack categoryItem = new CustomItemStack(Material.DIAMOND, "&4Our very cool Category");
+ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
 SlimefunItemStack itemStack = new SlimefunItemStack("FIRE_CAKE", Material.CAKE, "&4Fire Cake", "", LoreBuilder.radioactive(Radioactivity.HIGH), LoreBuilder.HAZMAT_SUIT_REQUIRED);
@@ -137,7 +137,7 @@ ItemStack[] recipe = {
 };
 
 // We are now using our own custom class for this
-FireCake cake = new FireCake(category, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
+FireCake cake = new FireCake(itemGroup, itemStack, RecipeType.ENHANCED_CRAFTING_TABLE, recipe);
 cake.register(this);
 
 NamespacedKey researchKey = new NamespacedKey(this, "fire_cake");

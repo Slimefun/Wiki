@@ -29,5 +29,6 @@ You can also check out our [Javadocs](https://slimefun.github.io/javadocs/Slimef
 8. Creating electric machines
    - *Creating a simple input/output machine with recipes (soon)*
    - *Creating your own Generator (soon)*
+9. [Compiling and testing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(9-Compiling))
 
 ?. [Publishing your addon](https://github.com/Slimefun/Slimefun4/wiki/Developer-Guide-(Publishing))
