@@ -8,7 +8,7 @@ This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 
 ## Reactor Types
 | Type                | Power   | Buffer | Fuel                                | Cooling                  | Side Effects                 |
-| :------------------ | :----:  | :----: | ----------------------------------- | ------------------------ | ---------------------------- |
+| :------------------ | :-----: | :----: | ----------------------------------- | ------------------------ | ---------------------------- |
 | Nuclear Reactor     | 500 J/s |  1.0x  | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
 | Nether Star Reactor | 40 J/s  |  3.0x  | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
 
