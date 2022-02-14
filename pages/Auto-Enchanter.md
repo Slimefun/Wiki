@@ -3,10 +3,12 @@ It will then return empty books without enchants and the enchanted piece.
 
 ## Auto Enchanter Tiers
 
-There is only one tier of the Auto Enchanter and it has the following properties:  
+There are 2 tiers of the Auto Enchanter and they have the following properties:  
 
-**Speed multiplier**: 1.0x  
-**Power Usage**: 18 J/s  
+| Tier | Energy | Buffer |  Speed |
+| ---- | ------ | ------ | ------ |
+| I    | 18 J/s | 128 J  |  1.0 x |
+| II   | 48 J/s | 1028 J |  3.0 x |
 
 ## Tip
 
