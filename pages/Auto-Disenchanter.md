@@ -3,15 +3,13 @@ It will then put these enchantments on a book that you have to provide when you 
 
 ## Auto Disenchanter Tiers
 
-There is only one tier of the Auto Disenchanter and it has the following properties:  
+There are 2 tiers of the Auto Disenchanter and they have the following properties:  
 
-**Speed multiplier**: 1.0x  
-**Power Usage**: 18 J/s  
+| Tier | Energy | Buffer |  Speed |
+| ---- | ------ | ------ | ------ |
+| I    | 18 J/s | 128 J  |  1.0 x |
+| II   | 48 J/s | 1028 J |  3.0 x |
 
 ## Tip
 
-Together with the [Auto Disenchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Disenchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
-
-## See also
-
-[Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter)
+Together with the [Auto Enchanter](https://github.com/Slimefun/Slimefun4/wiki/Auto-Enchanter) you can use this to disenchant [Reinforced Armor](https://github.com/Slimefun/Slimefun4/wiki/Armor#reinforced-armor) to obtain Protection IX and Unbreaking IX books and put those on diamond or netherite gear.
