@@ -6,6 +6,6 @@ This machine is practically a vanilla minecraft furnace, the only difference bei
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 4 J/s  | 1.0x             |
-| II   | 6 J/s  | 2.0x             |
-| III  | 10 J/s | 4.0x             |
+| I    | 4 J/SF Tick  | 1.0x             |
+| II   | 6 J/SF Tick  | 2.0x             |
+| III  | 10 J/SF Tick | 4.0x             |

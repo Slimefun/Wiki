@@ -11,8 +11,8 @@ There are currently two tiers of lava generators.
 
 | Tier | Energy | Buffer |
 | :--: | :----: | :----: |
-| I    | 20 J/s | 512 J  |
-| II   | 40 J/s | 1024 J |
+| I    | 20 J/SF Tick | 512 J  |
+| II   | 40 J/SF Tick | 1024 J |
 
 ## Fuel
 This generator can only be fueled with lava buckets.

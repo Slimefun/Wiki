@@ -5,5 +5,5 @@ This can be a very useful machine, for example, to create blue ice in the long-r
 
 | Tier | Power  | Speed Multiplier | Buffer |
 | :--: | :----: | :--------------: | :----: |
-| I    | 18 J/s | 1.0x             | 256 J  |
-| II   | 30 J/s | 2.0x             | 256 J  |
+| I    | 18 J/SF Tick | 1.0x             | 256 J  |
+| II   | 30 J/SF Tick | 2.0x             | 256 J  |

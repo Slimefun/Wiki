@@ -6,5 +6,5 @@ It runs on [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Misce
 
 | Tier | Power   | Speed Multiplier | Radius |
 | :--: | :-----: | :--------------: | :----: |
-| I    | 50 J/s  | 3/time           | 7x7    |
-| II   | 60 J/s  | 4/time           | 9x9    |
+| I    | 50 J/SF Tick  | 3/time           | 7x7    |
+| II   | 60 J/SF Tick  | 4/time           | 9x9    |

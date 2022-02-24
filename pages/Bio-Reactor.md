@@ -11,7 +11,7 @@ The Bio Reactor only has one tier.
 
 | Tier | Energy | Buffer |
 | ---- | ------ | ------ |
-| I    | 8 J/s  | 128 J  |
+| I    | 8 J/SF Tick  | 128 J  |
 
 ## Fuel
 This generator can be fueled with various organic items.

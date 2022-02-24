@@ -7,5 +7,5 @@ If you want to know all the recipes, just open the machine in the Slimefun guide
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 12 J/s | 1.0x             |
-| II   | 30 J/s | 4.0x             |
+| I    | 12 J/SF Tick | 1.0x             |
+| II   | 30 J/SF Tick | 4.0x             |

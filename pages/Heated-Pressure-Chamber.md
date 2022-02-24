@@ -6,5 +6,5 @@ It is a more robust and more powerful version of the [Pressure Chamber](https://
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 10 J/s | 1.0x             |
-| II   | 44 J/s | 5.0x             |
+| I    | 10 J/SF Tick | 1.0x             |
+| II   | 44 J/SF Tick | 5.0x             |

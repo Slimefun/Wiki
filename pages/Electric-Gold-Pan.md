@@ -6,6 +6,6 @@ Unlike the [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Ele
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 2 J/s  | 1.0x             |
-| II   | 4 J/s  | 3.0x             |
-| III  | 14 J/s | 10.0x            |
+| I    | 2 J/SF Tick  | 1.0x             |
+| II   | 4 J/SF Tick  | 3.0x             |
+| III  | 14 J/SF Tick | 10.0x            |

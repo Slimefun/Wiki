@@ -11,8 +11,8 @@ There are currently two tiers of coal generators.
 
 | Tier | Energy | Buffer |
 | ---- | ------ | ------ |
-| I    | 16 J/s | 64 J   |
-| II   | 30 J/s | 256 J  |
+| I    | 16 J/SF Tick | 64 J   |
+| II   | 30 J/SF Tick | 256 J  |
 
 ## Fuel
 Despite being a "coal" generator, this generator can also be fueled with blaze rods, wood logs, planks and other wooden items.

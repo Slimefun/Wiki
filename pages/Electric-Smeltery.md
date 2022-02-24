@@ -7,5 +7,5 @@ It is the automated version of the [Smeltery](https://github.com/Slimefun/Slimef
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 20 J/s | 1.0x             |
-| II   | 40 J/s | 3.0x             |
+| I    | 20 J/SF Tick | 1.0x             |
+| II   | 40 J/SF Tick | 3.0x             |
