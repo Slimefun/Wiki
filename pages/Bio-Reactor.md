@@ -9,8 +9,8 @@ A Bio Reactor must be placed within 7 blocks of an [Energy Regulator](https://gi
 ## Tiers
 The Bio Reactor only has one tier.
 
-| Tier | Energy | Buffer |
-| ---- | ------ | ------ |
+| Tier |    Energy    | Buffer |
+| ---- |    ------    | ------ |
 | I    | 8 J/Sf Tick  | 128 J  |
 
 ## Fuel
