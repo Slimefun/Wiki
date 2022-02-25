@@ -8,5 +8,5 @@ If you want to know all the recipes, just open the machine's page in the Slimefu
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 16 J/SF Tick | 1.0x             |
-| II   | 40 J/SF Tick | 3.0x             |
+| I    | 16 J/Sf Tick | 1.0x             |
+| II   | 40 J/Sf Tick | 3.0x             |

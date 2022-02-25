@@ -4,5 +4,5 @@ It stores the exp in [Flasks of Knowledge](https://github.com/Slimefun/Slimefun4
 ## EXP-Collector Tiers
 The EXP-Collector currently only has one tier.
 
-**Power Usage:** 20 J/SF Tick
+**Power Usage:** 20 J/Sf Tick
 **Power Buffer:** 1024 J

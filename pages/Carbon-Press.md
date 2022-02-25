@@ -4,6 +4,6 @@ The Carbon Press is an [Electric Machine](https://github.com/Slimefun/Slimefun4/
 
 | Tier | Power   | Speed Multiplier |
 | :--: | :-----: | :--------------: |
-| I    | 20 J/SF Tick  | 1.0x             |
-| II   | 50 J/SF Tick  | 3.0x             |
-| III  | 180 J/SF Tick | 15.0x            |
+| I    | 20 J/Sf Tick  | 1.0x             |
+| II   | 50 J/Sf Tick  | 3.0x             |
+| III  | 180 J/Sf Tick | 15.0x            |

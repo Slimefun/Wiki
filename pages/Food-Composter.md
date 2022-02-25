@@ -5,5 +5,5 @@ The produced [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Mis
 
 | Tier | Power  | Speed Multiplier | Buffer |
 | :--: | :----: | :--------------: | :----: |
-| I    | 16 J/SF Tick | 1.0x             | 256 J  |
-| II   | 52 J/SF Tick | 10.0x            | 512 J  |
+| I    | 16 J/Sf Tick | 1.0x             | 256 J  |
+| II   | 52 J/Sf Tick | 10.0x            | 512 J  |

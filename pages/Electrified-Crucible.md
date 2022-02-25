@@ -7,6 +7,6 @@ If you want to know all the recipes, just open the [Crucible](https://github.com
 
 | Tier | Power  | Speed Multiplier |
 | :--: | :----: | :--------------: |
-| I    | 48 J/SF Tick | 1.0x             |
-| II   | 80 J/SF Tick | 2.0x             |
-| III  | 120 J/SF Tick | 4.0x            |
+| I    | 48 J/Sf Tick | 1.0x             |
+| II   | 80 J/Sf Tick | 2.0x             |
+| III  | 120 J/Sf Tick | 4.0x            |

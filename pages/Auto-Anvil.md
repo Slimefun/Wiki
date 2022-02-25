@@ -5,5 +5,5 @@ It achieves this by using [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki
 
 | Machine          | Repairing Efficiency | Power Usage |
 | :--------------- | :------------------: | :--------: |
-| Auto Anvil       | 10%                  | 24 J/SF Tick      |
-| Auto Anvil Mk.II | 25%                  | 32 J/SF Tick      |
+| Auto Anvil       | 10%                  | 24 J/Sf Tick      |
+| Auto Anvil Mk.II | 25%                  | 32 J/Sf Tick      |
