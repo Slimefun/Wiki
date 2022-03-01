@@ -4,7 +4,7 @@ It runs on [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Misce
 
 ## Crop Growth Accelerator Tiers
 
-| Tier | Power         | Speed Multiplier | Radius |
-| :--: | :-----:       | :--------------: | :----: |
+| Tier |     Power     | Speed Multiplier | Radius |
+| :--: | :-----------: | :--------------: | :----: |
 | I    | 50 J/Sf Tick  | 3/time           | 7x7    |
 | II   | 60 J/Sf Tick  | 4/time           | 9x9    |

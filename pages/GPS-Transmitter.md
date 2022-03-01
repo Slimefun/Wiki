@@ -10,7 +10,7 @@ The GPS Transmitter adds GPS network complexity equal to `TierModifier * Height 
 The table below describes differences between tiers of Transmitters.
 
 | Tier                      | Buffer | Consumption  | Tier Modifier | Tier Bonus |
-| ----                      | ------ | -----------  | ------------- | ---------- |
+| ------------------------- | ------ | ------------ | ------------- | ---------- |
 | GPS Transmitter           |  16 J  | 2 J/Sf Tick  | 1             | 0          |
 | Advanced GPS Transmitter  |  64 J  | 6 J/Sf Tick  | 4             | 100        |
 | Carbonado GPS Transmitter |  256 J | 22 J/Sf Tick | 16            | 500        |

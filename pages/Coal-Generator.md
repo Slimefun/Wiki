@@ -9,8 +9,8 @@ A coal generator must be placed within 7 blocks of an [Energy Regulator](https:/
 ## Tiers
 There are currently two tiers of coal generators.
 
-| Tier | Energy       | Buffer |
-| ---- | ------       | ------ |
+| Tier |    Energy    | Buffer |
+| ---- | ------------ | ------ |
 | I    | 16 J/Sf Tick | 64 J   |
 | II   | 30 J/Sf Tick | 256 J  |
 
