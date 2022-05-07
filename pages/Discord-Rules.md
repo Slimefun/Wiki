@@ -72,10 +72,10 @@ Please speak English on our discord, as that is the main language of this plugin
 We are not fluent in dozens of different languages, so we will just stick with English to ensure everybody is on the same page.<br>
 This also helps us to moderate the server effectively.
 
-### 10. Sensitive topics
-Hard and sensitive topics should be kept away from our main channels.<br>
+### 10. Sensitive topics (This channel no longer exists!)
+~~Hard and sensitive topics should be kept away from our main channels.<br>
 Sensitive topics that are considered mature or could spark a lot of controversy should be moved to `#sensitive-topics`, see the channel-specific rules for this further down the page.<br>
-This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate.
+This channel is not execluded from our rules, we also moderate in that channel. All rules still apply, discrimination, nudity or other inappropriate content will still be inappropriate.~~
 We also don't encourage you to make jokes about suicide, drug abuse, drinking problems or other very serious topics.<br>
 If you are in need of help, we recommend you to seek it, those are very serious topics and should not be joked about.
 
