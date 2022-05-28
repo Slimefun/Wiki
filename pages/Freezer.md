@@ -3,7 +3,7 @@ This can be a very useful machine, for example, to create blue ice in the long-r
 
 ## Freezer Tiers
 
-| Tier | Power  | Speed Multiplier | Buffer |
-| :--: | :----: | :--------------: | :----: |
-| I    | 18 J/s | 1.0x             | 256 J  |
-| II   | 30 J/s | 2.0x             | 256 J  |
+| Tier |     Power    | Speed Multiplier | Buffer |
+| :--: | :----------: | :--------------: | :----: |
+| I    | 18 J/Sf Tick | 1.0x             | 256 J  |
+| II   | 30 J/Sf Tick | 2.0x             | 256 J  |

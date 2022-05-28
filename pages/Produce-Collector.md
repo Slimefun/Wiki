@@ -5,4 +5,4 @@ It can collect Milk from nearby Cows if provided with Buckets, and it can collec
 It currently only comes in one tier.  
 
 **Buffer:** 512 J
-**Power Usage:** 32 J/s
+**Power Usage:** 32 J/Sf Tick

@@ -6,5 +6,5 @@ It runs on [Organic Food](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneo
 
 There is only one tier of the Animal Growth Accelerator and it has the following properties:  
 
-**Power Usage**: 28 J/s  
+**Power Usage**: 28 J/Sf Tick  
 **Buffer**: 1024 J  

@@ -5,7 +5,7 @@ If you want to know all the recipes, just open the machine in the Slimefun guide
 
 ## Electric Ore Grinder Tiers
 
-| Tier | Power  | Speed Multiplier |
-| :--: | :----: | :--------------: |
-| I    | 12 J/s | 1.0x             |
-| II   | 30 J/s | 4.0x             |
+| Tier |    Power     | Speed Multiplier |
+| :--: | :----------: | :--------------: |
+| I    | 12 J/Sf Tick | 1.0x             |
+| II   | 30 J/Sf Tick | 4.0x             |

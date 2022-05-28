@@ -5,10 +5,10 @@ It will then put these enchantments on a book that you have to provide when you 
 
 There are 2 tiers of the Auto Disenchanter and they have the following properties:  
 
-| Tier | Energy | Buffer |  Speed |
-| ---- | ------ | ------ | ------ |
-| I    | 18 J/s | 128 J  |  1.0 x |
-| II   | 48 J/s | 1028 J |  3.0 x |
+| Tier |    Energy    | Buffer |  Speed |
+| ---- | ------------ | ------ | ------ |
+| I    | 18 J/Sf Tick | 128 J  |  1.0 x |
+| II   | 48 J/Sf Tick | 1028 J |  3.0 x |
 
 ## Tip
 

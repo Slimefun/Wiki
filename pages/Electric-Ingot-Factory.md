@@ -5,8 +5,8 @@ The [Electric Ingot Pulverizer](https://github.com/Slimefun/Slimefun4/wiki/Elect
 
 ## Electric Ingot Factory Tiers
 
-| Tier | Power  | Speed Multiplier |
-| :--: | :----: | :--------------: |
-| I    | 8 J/s  | 1.0x             |
-| II   | 14 J/s | 2.0x             |
-| III  | 40 J/s | 8.0x             |
+| Tier |    Power     | Speed Multiplier |
+| :--: | :----------: | :--------------: |
+| I    | 8 J/Sf Tick  | 1.0x             |
+| II   | 14 J/Sf Tick | 2.0x             |
+| III  | 40 J/Sf Tick | 8.0x             |

@@ -6,4 +6,4 @@ It currently comes in only one tier.
 
 **Radius:** 9x9  
 **Buffer:** 1024 J  
-**Power Usage:** 48 J/s  
+**Power Usage:** 48 J/Sf Tick  

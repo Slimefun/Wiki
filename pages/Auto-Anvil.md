@@ -3,7 +3,7 @@ It achieves this by using [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki
 
 ## Auto Anvil Tiers
 
-| Machine          | Repairing Efficiency | Power Usage |
-| :--------------- | :------------------: | :--------: |
-| Auto Anvil       | 10%                  | 24 J/s      |
-| Auto Anvil Mk.II | 25%                  | 32 J/s      |
+| Machine          | Repairing Efficiency |  Power Usage  |
+| :--------------- | :------------------: | :--------:    |
+| Auto Anvil       | 10%                  | 24 J/Sf Tick  |
+| Auto Anvil Mk.II | 25%                  | 32 J/Sf Tick  |

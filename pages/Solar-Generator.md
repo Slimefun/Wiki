@@ -15,9 +15,9 @@ Solar generators do not have a buffer, so any unused energy produced by them wil
 ## Tiers
 The table below compares the energy production of solar generators.
 
-| Tier                      | Energy                           |
-| :------------------------ | :------------------------------: |
-| Solar Generator           |              4 J/s               |
-| Advanced Solar Generator  |              16 J/s              |
-| Carbonado Solar Generator |              64 J/s              |
-| Energized Solar Generator | 256 J/s (Day)<br>128 J/s (Night) |
+| Tier                      | Energy                                       |
+| :------------------------ | :------------------------------------------: |
+| Solar Generator           |                 4 J/Sf Tick                  |
+| Advanced Solar Generator  |                 16 J/Sf Tick                 |
+| Carbonado Solar Generator |                 64 J/Sf Tick                 |
+| Energized Solar Generator | 256 J/Sf Tick (Day)<br>128 J/Sf Tick (Night) |

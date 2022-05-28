@@ -5,7 +5,7 @@ It is the automated version of the [Smeltery](https://github.com/Slimefun/Slimef
 
 ## Electric Smeltery Tiers
 
-| Tier | Power  | Speed Multiplier |
-| :--: | :----: | :--------------: |
-| I    | 20 J/s | 1.0x             |
-| II   | 40 J/s | 3.0x             |
+| Tier |    Power     | Speed Multiplier |
+| :--: | :----------: | :--------------: |
+| I    | 20 J/Sf Tick | 1.0x             |
+| II   | 40 J/Sf Tick | 3.0x             |

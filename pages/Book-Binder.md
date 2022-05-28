@@ -4,7 +4,7 @@ The Book Binder is an [Electric Machine](https://github.com/Slimefun/Slimefun4/w
 The Book Binder currently only has one tier.  
 The duration of the action depends on how many enchants and what level they are.
 
-**Power Usage:** 16 J/s
+**Power Usage:** 16 J/Sf Tick
 
 ## Book Binder Settings
 By default, you cannot use this machine to get books above the vanilla limit.  

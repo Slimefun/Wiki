@@ -3,7 +3,7 @@ The produced [Organic Fertilizer](https://github.com/Slimefun/Slimefun4/wiki/Mis
 
 ## Food Composter Tiers
 
-| Tier | Power  | Speed Multiplier | Buffer |
-| :--: | :----: | :--------------: | :----: |
-| I    | 16 J/s | 1.0x             | 256 J  |
-| II   | 52 J/s | 10.0x            | 512 J  |
+| Tier |     Power     | Speed Multiplier | Buffer |
+| :--: | :-----------: | :--------------: | :----: |
+| I    |  16 J/Sf Tick | 1.0x             | 256 J  |
+| II   |  52 J/Sf Tick | 10.0x            | 512 J  |

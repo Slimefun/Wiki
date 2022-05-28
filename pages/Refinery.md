@@ -5,4 +5,4 @@ It takes 40 seconds to convert one Bucket of Oil. It has no other uses.
 It currently only comes in one tier.  
 
 **Buffer:** 256 J  
-**Power Usage:** 32 J/s  
+**Power Usage:** 32 J/Sf Tick  

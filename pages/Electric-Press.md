@@ -6,7 +6,7 @@ If you want to know all the recipes, just open the machine's page in the Slimefu
 
 ## Electric Press Tiers
 
-| Tier | Power  | Speed Multiplier |
-| :--: | :----: | :--------------: |
-| I    | 16 J/s | 1.0x             |
-| II   | 40 J/s | 3.0x             |
+| Tier |    Power     | Speed Multiplier |
+| :--: | :----------: | :--------------: |
+| I    | 16 J/Sf Tick | 1.0x             |
+| II   | 40 J/Sf Tick | 3.0x             |

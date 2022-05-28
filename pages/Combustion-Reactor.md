@@ -10,9 +10,9 @@ Once it is placed, right-click it and place fuel in its inventory (two slots on 
 ## Tiers
 There is only one tier of the Combustion Reactor.
 
-| Tier | Energy | Buffer |
-| :--: | :----: | :----: |
-| I    | 24 J/s | 256 J  |
+| Tier |    Energy    | Buffer |
+| :--: | :----------: | :----: |
+| I    | 24 J/Sf Tick | 256 J  |
 
 ## Fuel
 This generator can be fueled using Buckets of Oil and Buckets of Fuel.

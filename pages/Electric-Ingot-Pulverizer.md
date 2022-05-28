@@ -7,4 +7,4 @@ The [Electric Ingot Factory](https://github.com/Slimefun/Slimefun4/wiki/Electric
 There is only one tier of the Electric Ingot Pulverizer and it has the following properties:  
 
 **Speed multiplier**: 1.0x  
-**Power Usage**: 14 J/s  
+**Power Usage**: 14 J/Sf Tick  

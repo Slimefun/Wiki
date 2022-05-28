@@ -4,8 +4,8 @@ Unlike the [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Ele
 
 ## Electric Gold Pan Tiers
 
-| Tier | Power  | Speed Multiplier |
-| :--: | :----: | :--------------: |
-| I    | 2 J/s  | 1.0x             |
-| II   | 4 J/s  | 3.0x             |
-| III  | 14 J/s | 10.0x            |
+| Tier |    Power     | Speed Multiplier |
+| :--: | :----------: | :--------------: |
+| I    | 2 J/Sf Tick  | 1.0x             |
+| II   | 4 J/Sf Tick  | 3.0x             |
+| III  | 14 J/Sf Tick | 10.0x            |

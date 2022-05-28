@@ -8,5 +8,5 @@ A coal generator must be placed within 7 blocks of an [Energy Regulator](https:/
 Currently the Magnesium-powered Generator only has one tier.
 
 **Buffer:** 128 J
-**Power Production:** 36 J/s
+**Power Production:** 36 J/Sf Tick
 **Power per magnesium dust:** 720 J
