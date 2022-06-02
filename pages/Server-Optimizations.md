@@ -94,7 +94,7 @@ Many Slimefun blocks execute code on a very regular basis, the default for this 
 You can increase this delay to slow down block-ticks which *might* help your server's performance. 
 However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
 
-You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 10 ticks when necessary.
+You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 10 MC ticks when necessary.
 ```yaml
 URID:
   custom-ticker-delay: 10
