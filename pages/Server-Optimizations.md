@@ -90,18 +90,18 @@ options:
 ```
 
 ## 5. Slower Tick-rates
-Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks every 12 ticks (20 ticks = 1 second).<br>
+Many Slimefun blocks execute code on a very regular basis, the default for this setting is set to run these tasks every 10 MC ticks (20 MC ticks = 1 second).<br>
 You can increase this delay to slow down block-ticks which *might* help your server's performance. 
 However you shouldn't set it too high, otherwise your players might complain about their machines running too slow.
 
-You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 12 ticks when necessary.
+You can configure this setting in your `plugins/Slimefun/config.yml`. We recommend to only make small changes to the default value of 10 MC ticks when necessary.
 ```yaml
 URID:
-  custom-ticker-delay: 12
+  custom-ticker-delay: 10
 ```
 
 Similar to this setting, Slimefun regularly checks Player's armor to apply effects that come with wearing specific sets of armor.
-The default setting for this task is set to 10 ticks (20 ticks = 1 second).<br>
+The default setting for this task is set to 10 MC ticks (20 MC ticks = 1 second).<br>
 You can also change this value when necessary.
 ```yaml
 options:
