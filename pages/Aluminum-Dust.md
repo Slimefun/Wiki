@@ -14,7 +14,7 @@ It is also used in the following [alloys](https://github.com/Slimefun/Slimefun4/
 
 ... and directly in creating other items:
 
-* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
+* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Duct Tape](https://github.com/Slimefun/Slimefun4/wiki/Miscellaneous-Items)
 * [Synthetic Emerald](https://github.com/Slimefun/Slimefun4/wiki/Synthetic-Emerald)
 

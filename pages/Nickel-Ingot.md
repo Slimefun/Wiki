@@ -20,8 +20,8 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ### Items
 
-* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
-* [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Electromagnet)
+* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
+* [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Cobalt Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Pickaxe)
 * [Coal Generator](https://github.com/Slimefun/Slimefun4/wiki/Coal-Generator)
 * [GPS Transmitter IV](https://github.com/Slimefun/Slimefun4/wiki/GPS-Transmitter)

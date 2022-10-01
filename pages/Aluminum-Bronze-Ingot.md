@@ -21,7 +21,7 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ### Items
 
-* [Steel Thruster](https://github.com/Slimefun/Slimefun4/wiki/Steel-Thruster)
+* [Steel Thruster](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Elevator Plate](https://github.com/Slimefun/Slimefun4/wiki/Elevator-Plate)
 * [EXP Collector](https://github.com/Slimefun/Slimefun4/wiki/EXP-Collector)
 * [Cargo Manager](https://github.com/Slimefun/Slimefun4/wiki/Cargo-Manager)

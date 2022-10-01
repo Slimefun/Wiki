@@ -1,5 +1,5 @@
 This category contains a variety of simple items that are most often used as a crafting material in many machines.  
-Most of these items do not have special properties on their own, so not all of them have an extra link. To craft them check the recipe in the Slimefun Guide! They are mostly used for [Electric Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machine) or other Technical Components.
+Most of these items do not have special properties on their own, so not all of them have an extra link. To craft them check the recipe in the Slimefun Guide! They are mostly used for [Electric Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machines) or other Technical Components.
 
 ## Table of contents
 * [Basic Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)

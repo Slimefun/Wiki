@@ -7,5 +7,5 @@ Zinc Ingots can be turned back to [Zinc Dust](https://github.com/Slimefun/Slimef
 ## Usage
 
 Zinc Ingots are used in the following recipes:
-* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)
+* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [GPS Teleporter Pylon](https://github.com/Slimefun/Slimefun4/wiki/GPS-Teleporter-Pylon)
