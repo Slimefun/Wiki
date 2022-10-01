@@ -1,22 +1,23 @@
-The Technical Components category contains various items which can be used in the crafting and operation of numerous items and machines.
+This category contains a variety of simple items that are most often used as a crafting material in many machines.  
+Most of these items do not have special properties on their own, so not all of them have an extra link. To craft them check the recipe in the Slimefun Guide! They are mostly used for [Electric Machines](https://github.com/Slimefun/Slimefun4/wiki/Electric-Machine) or other Technical Components.
 
 ## Table of contents
 * [Basic Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
 * [Advanced Circuit Board](https://github.com/Slimefun/Slimefun4/wiki/Circuit-Boards)
-* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)
-* [Steel Thruster](https://github.com/Slimefun/Slimefun4/wiki/Steel-Thruster)
-* [Power Crystal](https://github.com/Slimefun/Slimefun4/wiki/Power-Crystal)
-* [Photovoltaic Cell](https://github.com/Slimefun/Slimefun4/wiki/Photovoltaic-Cell)
-* [Reinforced Cloth](https://github.com/Slimefun/Slimefun4/wiki/Reinforced-Cloth)
-* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
-* [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Electromagnet)
-* [Electric Motor](https://github.com/Slimefun/Slimefun4/wiki/Electric-Motor)
-* [Heating Coil](https://github.com/Slimefun/Slimefun4/wiki/Heating-Coil)
-* [Copper Wire](https://github.com/Slimefun/Slimefun4/wiki/Copper-Wire)
+* Battery
+* Steel Thruster
+* Power Crystal
+* Photovoltaic Cell
+* Reinforced Cloth
+* Magnet
+* Electromagnet
+* Electric Motor
+* Heating Coil
+* Copper Wire
 * [Hardened Glass](https://github.com/Slimefun/Slimefun4/wiki/Hardened-Glass)
-* [Cooling Unit](https://github.com/Slimefun/Slimefun4/wiki/Cooling-Unit)
+* Cooling Unit
 * [Wither-Proof Obsidian](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
-* [Plastic Sheet](https://github.com/Slimefun/Slimefun4/wiki/Plastic-Sheet)
+* Plastic Sheet
 * [Android Memory Core](https://github.com/Slimefun/Slimefun4/wiki/Androids)
 * [Wither-Proof Glass](https://github.com/Slimefun/Slimefun4/wiki/Wither-Proof-Blocks)
 * [Reactor Coolant Cell](https://github.com/Slimefun/Slimefun4/wiki/Coolant-Cells)
