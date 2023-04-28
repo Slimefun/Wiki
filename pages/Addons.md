@@ -6,7 +6,7 @@ Here is a list of all Slimefun Addons (that we currently know of). You can insta
 - [:heart: Community Addons](#heart-community-addons)
 - [:gift: Third-Party Plugins](#gift-third-party-plugins)
 - [:trophy: Addon Jams](#trophy-addon-jams)
-- [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
+- [:black\_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
 ## :star: Official Addons
 These addons were developed closely to Slimefun by active members of this project.<br>
@@ -80,6 +80,7 @@ Wildernether | SchnTgaiSpock | <details><summary>expand</summary>Wildernether is
 DyeBench | JasperChaseTOQ | <details><summary>expand</summary>Dye Bench is an addon that adds 1 machine and 16 items to the game which are the dye bench and pigments respectively, pigments are reusable dyes.</details> | [Readme](https://github.com/JasperChaseTOQ/DyeBench/blob/master/README.md) | [Github](https://github.com/JasperChaseTOQ/DyeBench) | [Builds](https://thebusybiscuit.github.io/builds/JasperChaseTOQ/DyeBench/master/)
 MiniBlocks | TheRealEzCoins | <details><summary>expand</summary>MiniBlocks is an addon focused on enhancing details within buildings by introducing small versions of blocks and items.</details> | [Readme](https://github.com/TheRealEzCoins/MiniBlocks/blob/master/README.md) | [Github](https://github.com/TheRealEzCoins/MiniBlocks) | [Builds](https://thebusybiscuit.github.io/builds/TheRealEzCoins/MiniBlocks/master/)
 SlimeHUD | SchnTgaiSpock | <details><summary>expand</summary>SlimeHUD adds a WAILA display similar to WhatIsThis, but with extended funcitonality and customization.</details> | [Readme](https://github.com/SchnTgaiSpock/SlimeHUD/blob/master/README.md) | [Github](https://github.com/SchnTgaiSpock/SlimeHUD) | [Builds](https://thebusybiscuit.github.io/builds/SchnTgaiSpock/SlimeHUD/master/)
+Gastronomicon | SchnTgaiSpock | <details><summary>expand</summary>A Slimefun addon that adds hundreds of new foods to craft and eat</details> | [Readme](https://github.com/SchnTgaiSpock/Gastronomicon/blob/master/README.md) | [Github](https://github.com/SchnTgaiSpock/Gastronomicon) | [Builds](https://thebusybiscuit.github.io/builds/SchnTgaiSpock/Gastronomicon/master/)
 
 ## :gift: Third-Party Plugins
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
