@@ -10,7 +10,7 @@ This provides an easy way to add Fuel/Coolant or take some of the byproduct.
 | Type                 | Power          | Buffer | Fuel                                | Cooling                  | Side Effects                 |
 | :------------------  | :------------: | :----: | ----------------------------------- | ------------------------ | ---------------------------- |
 | Nuclear Reactor      | 500 J/Sf Tick  |  1.0x  | Neptunium, Uranium, Boosted Uranium | Reactor Coolant Cells    | N/A                          |
-| Nether Star Reactor  | 40 J/Sf Tick   |  3.0x  | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
+| Nether Star Reactor  | 1024 J/Sf Tick |  3.0x  | Nether Stars                        | Nether Ice Coolant Cells | Nearby Entities get Withered |
 
 ## Example Setup
 ![Reactor Setup](https://raw.githubusercontent.com/TheBusyBiscuit/Slimefun4-Wiki/master/images/multiblock-reactor.png)  
