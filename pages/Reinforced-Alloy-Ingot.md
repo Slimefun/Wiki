@@ -14,9 +14,9 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 * 8 [Iron Dust](https://github.com/Slimefun/Slimefun4/wiki/Iron-Dust)
 * 4 [Aluminum Dust](https://github.com/Slimefun/Slimefun4/wiki/Aluminum-Dust)
-* 6 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
+* 7 [Copper Dust](https://github.com/Slimefun/Slimefun4/wiki/Copper-Dust)
 * 3 [Tin Dust](https://github.com/Slimefun/Slimefun4/wiki/Tin-Dust)
-* 1 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
+* 3 [Silver Dust](https://github.com/Slimefun/Slimefun4/wiki/Silver-Dust)
 * 12 [Gold Dust](https://github.com/Slimefun/Slimefun4/wiki/Gold-Dust)
 * 2 [Lead Dust](https://github.com/Slimefun/Slimefun4/wiki/Lead-Dust)
 * 64 Coal
