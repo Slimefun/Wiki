@@ -6,8 +6,8 @@ Copper Ingots can be turned back to [Copper Dust](https://github.com/Slimefun/Sl
 
 ## Usage
 Copper Ingots are used in the following recipes:
-* [Copper Wire](https://github.com/Slimefun/Slimefun4/wiki/Copper-Wire)
-* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Battery)
+* [Copper Wire](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
+* [Battery](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Bronze Ingot](https://github.com/Slimefun/Slimefun4/wiki/Bronze-Ingot)
 * [Brass Ingot](https://github.com/Slimefun/Slimefun4/wiki/Brass-Ingot)
 * [Electric Dust Washer](https://github.com/Slimefun/Slimefun4/wiki/Electric-Dust-Washer)

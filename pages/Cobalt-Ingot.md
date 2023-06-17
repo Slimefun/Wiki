@@ -14,9 +14,9 @@ Combining the following items in a [Smeltery](https://github.com/Slimefun/Slimef
 
 ## Usage
 
-* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Magnet)
+* [Magnet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Cobalt Pickaxe](https://github.com/Slimefun/Slimefun4/wiki/Cobalt-Pickaxe)
-* [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Electromagnet)
+* [Electromagnet](https://github.com/Slimefun/Slimefun4/wiki/Technical-Components)
 * [Electric Gold Pan III](https://github.com/Slimefun/Slimefun4/wiki/Electric-Gold-Pan)
 * [GPS Control Panel](https://github.com/Slimefun/Slimefun4/wiki/GPS-Control-Panel)
 * [GPS Activation Device (Personal)](https://github.com/Slimefun/Slimefun4/wiki/GPS-Activation-Device)
