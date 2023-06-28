@@ -120,6 +120,7 @@ Do **NOT** post follow-up suggestions, each suggestion should be independent of 
 ### #server-showcase
 This channel is for advertising your Minecraft Server.<br>
 Your server must be publicly accessible (no whitelist) and must have Slimefun installed.<br>
+Your post must include an IP address/Domain Name of the server.<br>
 The same Server must not be posted again within 14 days, otherwise, we will delete your post as a duplicate.<br>
 You are NOT allowed to post a link to your discord server.
 
