@@ -121,7 +121,7 @@ Now that we swapped our the class, the addon should still work as expected. Howe
 All we have done so far is basically add a new class which acts exactly like a SlimefunItem.<br>
 We need to add actual features to the class now.
 
-In Slimefun one way we can add functionality is through an `ItemHandler` ([Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/me/mrCookieSlime/Slimefun/Objects/handlers/ItemHandler.html)).<br>
+In Slimefun one way we can add functionality is through an `ItemHandler` ([Javadocs](https://slimefun.github.io/javadocs/Slimefun4/docs/io/github/thebusybiscuit/slimefun4/api/items/ItemHandler.html)).<br>
 There are several Item Handler types available to choose from.<br>
 You can find a full list on our JavaDocs - that are linked above - under the point "All Known Subinterfaces".
 
