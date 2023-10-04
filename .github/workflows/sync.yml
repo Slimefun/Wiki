@@ -30,3 +30,6 @@ jobs:
 
     - name: Syncing to github-wiki
       run: sh src/sync.sh
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        LOGIN_EMAIL: ${{ secrets.LOGIN_EMAIL }}
