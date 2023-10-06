@@ -23,7 +23,7 @@ public class FireCake extends SlimefunItem {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
         
-        ItemUseHandler itemUseHandler = this::onItemRightClick;
+        ItemUseHandler itemUseHandler = this::onItemUseRightClick;
         addItemHandler(itemUseHandler);
     }
     
@@ -262,7 +262,7 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
         BlockUseHandler blockUseHandler = this::onBlockRightClick;
         addItemHandler(blockUseHandler);
         
-        ItemUseHandler itemUseHandler = this::onItemRightClick;
+        ItemUseHandler itemUseHandler = this::onItemUseRightClick;
         addItemHandler(itemUseHandler);
     }
     
