@@ -6,7 +6,7 @@ Here is a list of all Slimefun Addons (that we currently know of). You can insta
 - [:heart: Community Addons](#heart-community-addons)
 - [:gift: Third-Party Plugins](#gift-third-party-plugins)
 - [:trophy: Addon Jams](#trophy-addon-jams)
-- [:black\_nib: Create your own addons!](#black_nib-create-your-own-addons)
+- [:black_nib: Create your own addons!](#black_nib-create-your-own-addons)
 
 ## :star: Official Addons
 These addons were developed closely to Slimefun by active members of this project.<br>
