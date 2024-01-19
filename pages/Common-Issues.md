@@ -75,3 +75,12 @@ Or ask the authors of that plugin whether there is a way to toggle this behaviou
 ### How to fix this (Stage 2)
 A more drastic approach would be to switch over to a Mob-Stacking plugin that supports custom drops.<br>
 _At this point we do not have a list of mob-stacking plugins that are confirmed to work with Slimefun, if you use a plugin that works without any issues, feel free to name it right here. See [Expanding the Wiki](https://github.com/Slimefun/Slimefun4/wiki/Expanding-the-Wiki)_
+
+## Seeing player heads as Steve?
+The heads may be in default Minecraft skins from time to time, this was an issue due to a Spigot change which has been [fixed](https://blob.build/project/Slimefun4/Dev).
+
+## Slimefun items dropping as "Head of XYZ"?
+This is an issue with CMILib which can be fixed by turning `PlayerName: false` in CMILib config.
+
+## Seeing player heads as a bugged texture?
+You have to turn off emotes in ItemsAdder/Oraxen configs and then re-do the resource-pack. More info [here](https://itemsadder.devs.beer/faq/placed-heads-texture-glitched).
