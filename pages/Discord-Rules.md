@@ -1,4 +1,4 @@
-If you join our [Discord Server](https://discord.gg/fsD4Bkh), then we want you to follow these rules.<br>
+If you join our [Discord Server](https://discord.gg/slimefun), then we want you to follow these rules.<br>
 Not following this ruleset can result in being kicked or permanently banned from the server.
 
 **These rules may change at any time, so please check regularly. Large changes will be announced in advance.**
@@ -109,7 +109,7 @@ Before posting here, please follow this short guide:<br>
 1. Run `/sf versions`
 2. Capture the output of that command and include it in your message.
 3. Are there any errors? If so, then please post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
-4. See if there is a newer version of Slimefun available. (https://thebusybiscuit.github.io/builds/)
+4. See if there is a newer version of Slimefun available. (https://blob.build/project/Slimefun4)
 6. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
 7. Double-check that you are using a "DEV - ..." build of Slimefun, any other builds are considered old or unofficial. **We will not accept bug reports from old or unofficial versions, RC versions will also be rejected since they are outdated.**
 
