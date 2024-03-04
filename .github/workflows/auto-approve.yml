@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: Approve via TheBusyBot
-      uses: hmarr/auto-approve-action@v3.2.1
+      uses: hmarr/auto-approve-action@v4.0.0
       if: github.actor == 'renovate[bot]'
       with:
         github-token: "${{ secrets.ACCESS_TOKEN }}"
