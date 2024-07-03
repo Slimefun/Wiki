@@ -8,9 +8,11 @@ Farmer Androids can be programmed to harvest or/and plant crops.
 Supported crops are listed below.
 - Wheat
 - Carrot
-- Pumpkin
+- Cocoa Beans
 - Beetroot
 - Potato
+- Netherwart
+- Sweet Berry Bush
 
 Androids need fuel in order to work, you have to fill them with the [Required Fuel](https://github.com/Slimefun/Slimefun4/wiki/Normal-Androids#power-source) before booting!
 
