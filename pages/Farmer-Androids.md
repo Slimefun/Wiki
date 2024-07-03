@@ -6,6 +6,7 @@ Farmer Androids can be crafted in an [Enhanced Crafting Table](https://github.co
 ## Usage
 Farmer Androids can be programmed to harvest or/and plant crops.
 Supported crops are listed below.
+
 - Wheat
 - Carrot
 - Cocoa Beans
