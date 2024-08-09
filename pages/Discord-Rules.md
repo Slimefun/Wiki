@@ -91,8 +91,8 @@ Before posting here, please follow this short guide:<br>
 2. Capture the output of that command and include it in your message.
 3. Are there any errors? If so, then please post them via https://pastebin.com (Posting an error in the chat will result in auto-deletion)
 4. See if there is a newer version of Slimefun available. (https://blob.build/project/Slimefun4)
-6. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
-7. Double-check that you are using the latest "DEV - ..." build of Slimefun. **We may not accept bug reports from outdated or unofficial versions.**
+5. Try to be as clear as possible, the minimum is two sentences. ("X does not work" is not helpful)
+6. Double-check that you are using the latest "DEV - ..." build of Slimefun. **We may not accept bug reports from outdated or unofficial versions.**
 
 For more info on how to debug your issues and make proper bug reports, please read [How to report bugs](https://github.com/Slimefun/Slimefun4/wiki/How-to-report-bugs).
 
