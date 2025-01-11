@@ -100,6 +100,8 @@ MapJammers | Vaan1310 | <details><summary>expand</summary>A Slimefun addon that 
 CustomItemGenerators | Vaan1310 | <details><summary>expand</summary>A Slimefun addon that allows users to create fully customizable item generators via YAML configuration files. The plugin supports integration with all existing Slimefun addons, making it highly adaptable.</details> | [Readme](https://github.com/Intybyte/CustomItemGenerators#readme) | [Github](https://github.com/Intybyte/CustomItemGenerators)  | [Download](https://modrinth.com/plugin/customitemgenerators)
 Slime Vision | Bunnky | <details><summary>expand</summary>Slime Vision is a Slimefun Addon that gives people a way to visualize their Slimefun machines and locate SF Block Storage data with ease.</details> | [Readme](https://github.com/Bunnky/SlimeVision#readme) | [GitHub](https://github.com/Bunnky/SlimeVision) | [Builds](https://blob.build/project/SlimeVision)
 I Dream of Easy | Bunnky | <details><summary>expand</summary>I Dream of Easy is a Slimefun Addon that implements workable community suggestions as well as other random tools and machines.</details> | [Readme](https://github.com/Bunnky/IDreamOfEasy#readme) | [GitHub](https://github.com/Bunnky/IDreamOfEasy) | [Builds](https://blob.build/project/IDreamOfEasy)
+Magic 8 Ball | RenanMsV | <details><summary>expand</summary>The Magic 8 Ball addon brings the classic fortune-telling toy into Minecraft!</details> | [Readme](https://github.com/xMoonGames/Magic-8-Ball/#readme) | [GitHub](https://github.com/xMoonGames/Magic-8-Ball) | [Builds](https://blob.build/project/Magic8Ball)
+
 
 ## :gift: Third-Party Plugins
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
