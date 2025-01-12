@@ -81,7 +81,7 @@ public class FireCake extends SlimefunItem implements Radioactive {
     }
     
     @Override
-    public Radioactivity getRadiation() {
+    public Radioactivity getRadioactivity() {
       // ?
     }
     
@@ -106,7 +106,7 @@ public class FireCake extends SlimefunItem implements Radioactive {
     }
     
     @Override
-    public Radioactivity getRadiation() {
+    public Radioactivity getRadioactivity() {
         return Radioactivity.HIGH;
     }
     
@@ -248,7 +248,7 @@ public class FireCake extends SlimefunItem implements Radioactive, WitherProof {
     }
     
     @Override
-    public Radioactivity getRadiation() {
+    public Radioactivity getRadioactivity() {
         return Radioactivity.HIGH;
     }
     
