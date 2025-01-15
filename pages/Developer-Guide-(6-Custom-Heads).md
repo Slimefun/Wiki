@@ -95,8 +95,7 @@ ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 ```
 
 We want to modify this to use our texture now instead of a diamond.<br>
-Slimefun provides a quick and easy method for this: `SkullItem.fromBase64(...)`.<br>
-Note that you will need to **import** SkullItem from `me.mrCookieSlime.slimefun.cscorelib2.skull.SkullItem` first.
+Slimefun provides a quick and easy method for this: `PlayerHead.getItemStack(PlayerSkin.fromBase64(...)`.<br>
 
 This method takes in a Base64 String and gives us an `ItemStack` version of that head.<br>
 The constructor for `CustomItem` also allows us to specify an ItemStack which we want to rename instead of a Material.<br>
@@ -104,7 +103,7 @@ So let's do that.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64(...), "&4Our very cool Category");
+CustomItemStack categoryItem = new CustomItemStack(PlayerHead.getItemStack(PlayerSkin.fromBase64(...)), "&4Our very cool Category");
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // ...
@@ -114,7 +113,7 @@ Now we still need to give that method our Base64 String from earlier.
 
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
+CustomItemStack categoryItem = new CustomItemStack(PlayerHead.getItemStack(PlayerSkin.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0=")), "&4Our very cool Category");
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // ...
@@ -143,7 +142,7 @@ And we are done!<br>
 Now here is the full code:
 ```java
 NamespacedKey categoryId = new NamespacedKey(this, "cool_category");
-CustomItemStack categoryItem = new CustomItemStack(SkullItem.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0="), "&4Our very cool Category");
+CustomItemStack categoryItem = new CustomItemStack(PlayerHead.getItemStack(PlayerSkin.fromBase64("eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTk1MmQyYjNmMzUxYTZiMDQ4N2NjNTlkYjMxYmY1ZjI2NDExMzNlNWJhMDAwNmIxODU3NmU5OTZhMDI5M2U1MiJ9fX0=")), "&4Our very cool Category");
 ItemGroup itemGroup = new ItemGroup(categoryId, categoryItem);
 
 // The custom item for our SlimefunItem
