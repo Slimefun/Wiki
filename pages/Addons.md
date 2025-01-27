@@ -105,7 +105,7 @@ BetterChests | Lijinhong11 | <details><summary>expand</summary> Better Chests ad
 HeadLimiter | J3fftw | <details><summary>expand</summary> Head Limiter is designed to limit the # of machine heads and slimefun machines placed in a chunk to help reduce server lag. </details> | [Readme](https://github.com/Slimefun-Addon-Community/HeadLimiter#) | [Github](https://github.com/Slimefun-Addon-Community/HeadLimiter) | [Builds](https://blob.build/project/HeadLimiter)
 WorldEditSlimefun | J3fftw | <details><summary>expand</summary> Head Limiter is designed to limit the # of machine heads and slimefun machines placed in a chunk to help reduce server lag. </details> | [Readme](https://github.com/Slimefun-Addon-Community/WorldEditSlimefun#) | [Github](https://github.com/Slimefun-Addon-Community/WorldEditSlimefun) | [Builds](https://blob.build/project/WorldEditSlimefun)
 SaneCrafting | Idra | <details><summary>expand</summary> Lets you use the Crafting Table to craft Enhanced Crafting Table recipes </details> | [Readme](https://github.com/metamechanists/SaneCrafting#) | [Github](https://github.com/metamechanists/SaneCrafting) | [Builds](https://blob.build/project/SaneCrafting)
-
+MinimizeFactory | IgnoreLicensesCN | <details><summary>expand</summary> (Warning:Need to translate into english)Allow you to put factory into several blocks to reduce lag and produce items when chunk is not loaded or server is off. </details> | [Readme](https://github.com/IgnoreLicensesCN/MinimizeFactory) | [Github](https://github.com/IgnoreLicensesCN/MinimizeFactory/) | [Releases](https://github.com/IgnoreLicensesCN/MinimizeFactory/releases)
 
 ## :gift: Third-Party Plugins
 These Plugins are not Addons, but they do integrate with Slimefun in some way or another.
