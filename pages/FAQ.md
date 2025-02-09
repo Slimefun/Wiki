@@ -29,7 +29,7 @@ You can install these just like you did with Slimefun, putting them in the `/plu
 
 ## Can I install Slimefun on a Singleplayer world?
 No.<br>
-Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
+Slimefun is a Bukkit / Spigot plugin, so it requires you to have a Bukkit-based Minecraft Server running. Creating such a Server is very easy though, you will be able to find lots of tutorials online. If you want to enjoy Slimefun all on your own, set up a new Minecraft Server on your computer, install the plugin and connect to it using the address `localhost`. this also can be achieved using `--singleplayer <yourname>`. Without any extra efforts your server won't be visible to others outside of your local network anyway.
 
 ## Will Slimefun be available for Minecraft version XYZ?
 Slimefun has been consistently available for every Minecraft version from MC 1.5 onwards, so I would say you can rest assured that it will come out for that Minecraft version too. With over 100+ contributors to the project, the chances are high someone is gonna update it to work with that version.
